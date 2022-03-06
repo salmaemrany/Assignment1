@@ -1,0 +1,1002 @@
+﻿ID,Name,Age,Nationality,Overall,Potential,Club,ValueInMillions,WageInThousands,Special,PreferredFoot,InternationalReputation,WeakFoot,SkillMoves,WorkRate,JerseyNumber,Joined,ContractValidUntil,HeightInInches,WeightInPounds,ReleaseClause,Jumping,Strength,SprintSpeed,Agility,Balance,Vision,Dribbling,BallControl
+158023,L. Messi,31,Argentina,94,94,FC Barcelona,110.5,565,2202,Left,5,4,4,Medium/ Medium,10,"Jul 1, 2004",2021,5.7,159,226.5,68,59,86,91,95,94,97,96
+20801,Cristiano Ronaldo,33,Portugal,94,94,Juventus,77,405,2228,Right,5,4,5,High/ Low,7,"Jul 10, 2018",2022,6.2,183,127.1,95,79,91,87,70,82,88,94
+190871,Neymar Jr,26,Brazil,92,93,Paris Saint-Germain,118.5,290,2143,Right,5,5,5,High/ Medium,10,"Aug 3, 2017",2022,5.9,150,228.1,61,49,90,96,84,87,96,95
+193080,De Gea,27,Spain,91,93,Manchester United,72,260,1471,Right,4,3,1,Medium/ Medium,1,"Jul 1, 2011",2020,6.4,168,138.6,67,64,58,60,43,68,18,42
+192985,K. De Bruyne,27,Belgium,91,92,Manchester City,102,355,2281,Right,4,5,4,High/ High,7,"Aug 30, 2015",2023,5.11,154,196.4,63,75,76,79,77,94,86,91
+183277,E. Hazard,27,Belgium,91,91,Chelsea,93,340,2142,Right,4,4,4,High/ Medium,10,"Jul 1, 2012",2020,5.8,163,172.1,56,66,88,95,94,89,95,94
+177003,L. Modrić,32,Croatia,91,91,Real Madrid,67,420,2280,Right,4,4,4,High/ High,10,"Aug 1, 2012",2020,5.8,146,137.4,68,58,72,93,94,92,90,93
+176580,L. Suárez,31,Uruguay,91,91,FC Barcelona,80,455,2346,Right,5,4,3,High/ Medium,9,"Jul 11, 2014",2021,6,190,164,69,83,75,82,83,84,87,90
+155862,Sergio Ramos,32,Spain,91,91,Real Madrid,51,380,2201,Right,4,3,3,High/ Medium,15,"Aug 1, 2005",2020,6,181,104.6,93,83,75,78,66,63,63,84
+200389,J. Oblak,25,Slovenia,90,93,Atlético Madrid,68,94,1331,Right,3,3,1,Medium/ Medium,1,"Jul 16, 2014",2021,6.2,192,144.5,76,78,60,67,49,70,12,16
+188545,R. Lewandowski,29,Poland,90,90,FC Bayern München,77,205,2152,Right,4,4,4,High/ Medium,9,"Jul 1, 2014",2021,6,176,127.1,84,84,78,78,78,77,85,89
+182521,T. Kroos,28,Germany,90,90,Real Madrid,76.5,355,2190,Right,4,5,3,Medium/ Medium,8,"Jul 17, 2014",2022,6,168,156.8,30,73,62,70,71,86,81,90
+182493,D. Godín,32,Uruguay,90,90,Atlético Madrid,44,125,1946,Right,3,3,2,Medium/ High,10,"Aug 4, 2010",2019,6.2,172,90.2,91,88,68,58,54,52,53,76
+168542,David Silva,32,Spain,90,90,Manchester City,60,285,2115,Left,4,2,4,High/ Medium,21,"Jul 14, 2010",2020,5.8,148,111,64,52,64,92,90,92,89,94
+215914,N. Kanté,27,France,89,90,Chelsea,63,225,2189,Right,3,3,2,Medium/ High,13,"Jul 16, 2016",2023,5.6,159,121.3,77,76,78,82,92,79,79,80
+211110,P. Dybala,24,Argentina,89,94,Juventus,89,205,2092,Left,3,3,4,High/ Medium,21,"Jul 1, 2015",2022,5.1,165,153.5,75,65,83,91,85,87,92,92
+202126,H. Kane,24,England,89,91,Tottenham Hotspur,83.5,205,2165,Right,3,4,3,High/ High,9,"Jul 1, 2010",2024,6.2,196,160.7,78,84,72,71,71,80,80,84
+194765,A. Griezmann,27,France,89,90,Atlético Madrid,78,145,2246,Left,4,3,4,High/ High,7,"Jul 28, 2014",2023,5.9,161,165.8,90,62,85,90,80,83,88,90
+192448,M. ter Stegen,26,Germany,89,92,FC Barcelona,58,240,1328,Right,3,4,1,Medium/ Medium,22,"Jul 1, 2014",2022,6.2,187,123.3,79,79,50,37,43,69,17,18
+192119,T. Courtois,26,Belgium,89,90,Real Madrid,53.5,240,1311,Left,4,2,1,Medium/ Medium,1,"Aug 9, 2018",2024,6.6,212,113.7,68,70,52,61,45,44,13,23
+189511,Sergio Busquets,29,Spain,89,89,FC Barcelona,51.5,315,2065,Right,4,3,3,Medium/ Medium,5,"Sep 1, 2008",2023,6.2,168,105.6,66,77,52,66,52,87,80,88
+179813,E. Cavani,31,Uruguay,89,89,Paris Saint-Germain,60,200,2161,Right,4,4,3,High/ High,21,"Jul 16, 2013",2020,6.1,170,111,88,78,76,77,59,77,80,82
+167495,M. Neuer,32,Germany,89,89,FC Bayern München,38,130,1473,Right,5,4,1,Medium/ Medium,1,"Jul 1, 2011",2021,6.4,203,62.7,77,80,60,51,35,70,30,48
+153079,S. Agüero,30,Argentina,89,89,Manchester City,64.5,300,2107,Right,4,4,4,High/ Medium,10,"Jul 28, 2011",2021,5.8,154,119.3,81,73,80,86,91,83,89,89
+138956,G. Chiellini,33,Italy,89,89,Juventus,27,215,1841,Left,4,3,2,Medium/ High,3,"Jul 1, 2005",2020,6.2,187,44.6,89,89,75,54,55,50,58,57
+231747,K. Mbappé,19,France,88,95,Paris Saint-Germain,81,100,2118,Right,3,4,5,High/ Medium,10,"Jul 1, 2018",2022,5.1,161,166.1,75,71,96,92,83,82,90,91
+209331,M. Salah,26,Egypt,88,89,Liverpool,69.5,255,2146,Left,3,3,4,High/ Medium,10,"Jul 1, 2017",2023,5.9,157,137.3,68,70,91,91,88,82,89,88
+200145,Casemiro,26,Brazil,88,90,Real Madrid,59.5,285,2170,Right,3,3,2,Medium/ High,14,"Jul 11, 2013",2021,6.1,185,126.4,88,89,65,62,66,77,69,78
+198710,J. Rodríguez,26,Colombia,88,89,FC Bayern München,69.5,315,2171,Left,4,3,4,Medium/ Medium,10,,"Jun 30, 2019",5.11,172,,54,68,67,83,76,89,85,90
+198219,L. Insigne,27,Italy,88,88,Napoli,62,165,2017,Right,3,3,4,High/ Medium,10,"Jul 1, 2010",2022,5.4,130,105.4,53,44,86,94,93,87,90,93
+197781,Isco,26,Spain,88,91,Real Madrid,73.5,315,2137,Right,3,3,4,High/ Medium,22,"Jul 3, 2013",2022,5.9,174,156.2,64,59,69,87,90,89,94,95
+190460,C. Eriksen,26,Denmark,88,91,Tottenham Hotspur,73.5,205,2117,Right,3,5,4,High/ Medium,10,"Aug 30, 2013",2020,5.11,168,141.5,50,58,73,79,81,91,84,91
+189242,Coutinho,26,Brazil,88,89,FC Barcelona,69.5,340,2175,Right,3,4,5,High/ High,7,"Jan 6, 2018",2023,5.8,150,147.7,59,61,75,92,93,90,91,92
+188567,P. Aubameyang,29,Gabon,88,88,Arsenal,59,265,2069,Right,3,4,4,Medium/ Low,14,"Jan 31, 2018",2021,6.2,176,112.1,79,76,95,76,70,77,79,82
+178603,M. Hummels,29,Germany,88,88,FC Bayern München,46,160,2038,Right,4,3,3,High/ Medium,5,"Jul 1, 2016",2021,6.3,203,75.9,68,84,64,63,60,79,68,81
+176676,Marcelo,30,Brazil,88,88,Real Madrid,43,285,2279,Left,4,4,5,High/ Low,12,"Jan 1, 2007",2022,5.9,176,88.2,76,78,82,86,86,82,90,92
+173731,G. Bale,28,Wales,88,88,Real Madrid,60,355,2279,Left,4,3,4,High/ Medium,11,"Sep 2, 2013",2022,6.1,181,123,87,80,95,82,65,79,87,85
+167948,H. Lloris,31,France,88,88,Tottenham Hotspur,36,150,1335,Left,4,1,1,Medium/ Medium,1,"Aug 1, 2012",2022,6.2,181,66.6,74,43,62,55,54,30,10,34
+167664,G. Higuaín,30,Argentina,88,88,Milan,57,245,1965,Right,4,4,3,High/ Medium,9,,"Jun 30, 2019",6.1,196,,79,85,73,75,69,74,84,85
+164240,Thiago Silva,33,Brazil,88,88,Paris Saint-Germain,24,165,2077,Right,4,3,2,Medium/ High,2,"Jul 1, 2012",2020,6,181,44.4,90,82,72,68,68,72,62,80
+162835,S. Handanovič,33,Slovenia,88,88,Inter,30,110,1262,Right,3,2,1,Medium/ Medium,1,"Jul 1, 2012",2021,6.4,203,51,78,71,55,47,36,41,12,16
+1179,G. Buffon,40,Italy,88,88,Paris Saint-Germain,4,77,1334,Right,4,2,1,Medium/ Medium,1,"Jul 6, 2018",2019,6.4,203,7.4,75,69,43,55,49,50,26,28
+205600,S. Umtiti,24,France,87,92,FC Barcelona,57,205,2147,Left,3,3,2,Medium/ High,23,"Jul 12, 2016",2023,6,165,121.1,89,84,73,68,66,58,69,77
+201399,M. Icardi,25,Argentina,87,90,Inter,64.5,130,1940,Right,3,4,3,Medium/ Low,9,"Jul 9, 2013",2021,5.11,165,114.5,94,76,78,76,76,64,77,81
+201024,K. Koulibaly,27,Sal,87,90,Napoli,51,115,1660,Right,3,3,2,High/ High,26,"Jul 1, 2014",2021,6.2,196,90.5,81,94,75,50,40,43,66,60
+195864,P. Pogba,25,France,87,91,Manchester United,64,210,2247,Right,4,4,5,High/ Low,6,"Aug 9, 2016",2021,6.4,185,123.2,83,89,79,74,64,87,87,90
+193041,K. Navas,31,Costa Rica,87,87,Real Madrid,30.5,195,1345,Right,3,3,1,Medium/ Medium,1,"Aug 3, 2014",2020,6.1,176,62.5,74,75,53,60,61,68,16,19
+192505,R. Lukaku,25,Belgium,87,89,Manchester United,62.5,230,2031,Left,3,3,3,Medium/ Medium,9,"Jul 10, 2017",2022,6.3,207,120.3,71,94,90,60,46,76,80,72
+192387,C. Immobile,28,Italy,87,87,Lazio,52,115,2009,Right,3,4,3,High/ Medium,17,"Jul 27, 2016",2023,6.1,187,88.4,77,76,85,77,63,65,83,83
+189332,Jordi Alba,29,Spain,87,87,FC Barcelona,38,250,2230,Left,3,3,3,High/ Medium,18,"Jul 1, 2012",2020,5.7,150,77.9,81,61,93,90,85,70,80,84
+175943,D. Mertens,31,Belgium,87,87,Napoli,45,135,2043,Right,3,4,4,High/ Low,14,"Jul 1, 2013",2020,5.7,134,76.5,60,42,85,94,92,83,91,89
+172871,J. Vertonghen,31,Belgium,87,87,Tottenham Hotspur,34,155,2079,Left,3,3,3,High/ High,5,"Jul 1, 2012",2019,6.2,190,62.9,85,79,65,61,60,68,71,76
+171877,M. Hamšík,30,Slovakia,87,87,Napoli,46.5,125,2188,Right,3,5,3,High/ Medium,17,"Jul 1, 2007",2020,6,174,79.1,71,67,68,76,66,86,86,87
+168651,I. Rakitić,30,Croatia,87,87,FC Barcelona,46.5,260,2184,Right,4,3,3,High/ High,4,"Jul 1, 2014",2021,6,172,95.3,39,66,59,72,66,86,84,87
+152729,Piqué,31,Spain,87,87,FC Barcelona,34,240,1950,Right,4,3,2,High/ Medium,3,"Jul 1, 2008",2022,6.4,187,69.7,74,83,60,58,36,62,59,78
+222492,L. Sané,22,Germany,86,92,Manchester City,61,195,2090,Left,2,3,4,High/ Medium,19,"Aug 2, 2016",2021,6,165,125.1,64,70,96,88,81,82,88,85
+218667,Bernardo Silva,23,Portugal,86,91,Manchester City,59.5,180,2039,Left,2,3,4,High/ Medium,11,"Jul 1, 2017",2022,5.8,141,114.5,50,48,74,90,88,86,92,91
+210257,Ederson,24,Brazil,86,90,Manchester City,41.5,125,1463,Left,2,3,1,Medium/ Medium,31,"Jul 1, 2017",2025,6.2,190,79.9,58,68,63,60,48,67,23,37
+208722,S. Mané,26,Senegal,86,87,Liverpool,52,195,2110,Right,3,4,4,High/ Medium,10,"Jul 1, 2016",2023,5.9,152,102.7,75,67,93,91,86,82,87,86
+203376,V. van Dijk,26,Netherlands,86,88,Liverpool,44.5,165,2046,Right,3,3,2,Medium/ Medium,4,"Jan 1, 2018",2023,6.4,203,87.9,85,92,77,61,49,59,70,73
+202652,R. Sterling,23,England,86,89,Manchester City,56.5,195,2036,Right,3,3,4,High/ Medium,10,"Jul 14, 2015",2023,5.7,152,108.8,57,52,92,93,93,77,88,87
+201942,Roberto Firmino,26,Brazil,86,87,Liverpool,53,195,2187,Right,3,4,4,High/ High,9,"Jul 6, 2015",2023,5.11,168,104.7,81,74,77,80,81,85,87,88
+201535,R. Varane,25,France,86,91,Real Madrid,50,210,1895,Right,3,3,2,Medium/ High,4,"Jul 1, 2011",2022,6.3,179,106.3,79,84,85,63,40,56,57,77
+199556,M. Verratti,25,Italy,86,89,Paris Saint-Germain,55,135,2149,Right,3,4,4,Medium/ High,6,"Jul 18, 2012",2021,5.5,132,105.9,64,52,62,87,94,87,90,88
+191043,Alex Sandro,27,Brazil,86,86,Juventus,36.5,160,2198,Left,3,3,3,High/ High,12,"Aug 21, 2015",2020,5.11,176,60.2,79,79,86,79,78,70,80,81
+190483,Douglas Costa,27,Brazil,86,86,Juventus,46.5,175,2111,Left,3,3,5,High/ Medium,11,"Jul 1, 2018",2022,5.8,154,76.7,61,63,93,93,91,84,92,91
+189596,T. Müller,28,Germany,86,86,FC Bayern München,45,135,2097,Right,4,4,3,High/ High,13,"Aug 10, 2008",2021,6.1,165,74.3,81,68,75,75,72,85,75,82
+189509,Thiago,27,Spain,86,86,FC Bayern München,45.5,130,2190,Right,3,3,5,Medium/ Medium,19,"Jul 14, 2013",2021,5.9,154,75.1,75,59,69,90,86,86,90,90
+188350,M. Reus,29,Germany,86,86,Borussia Dortmund,43.5,100,2172,Right,4,4,4,High/ Medium,11,"Jul 1, 2012",2023,5.11,157,74,70,67,85,86,81,86,87,86
+184432,Azpilicueta,28,Spain,86,86,Chelsea,35,175,2114,Right,3,3,2,Medium/ Medium,14,"Aug 24, 2012",2022,5.1,168,64.8,76,71,76,72,73,74,69,77
+184344,L. Bonucci,31,Italy,86,86,Juventus,30,160,1978,Right,3,3,2,Low/ High,19,"Aug 2, 2018",2023,6.3,187,49.5,85,83,65,60,52,74,69,75
+184087,T. Alderweireld,29,Belgium,86,87,Tottenham Hotspur,39,150,2047,Right,3,3,2,Medium/ Medium,2,"Jul 8, 2015",2020,6.1,179,75.1,84,79,66,60,50,67,62,74
+180206,M. Pjanić,28,Bosnia Herzegovina,86,86,Juventus,44,180,2182,Right,3,4,3,Medium/ Medium,5,"Jul 1, 2016",2023,5.1,159,72.6,61,66,66,77,79,88,86,89
+177509,M. Benatia,31,Morocco,86,86,Juventus,30,160,1803,Right,3,3,2,Medium/ High,4,"Aug 26, 2014",2020,6.2,207,49.5,85,91,75,59,53,47,64,64
+176635,M. Özil,29,Germany,86,86,Arsenal,43.5,190,1911,Left,4,2,4,Medium/ Low,10,"Sep 2, 2013",2021,5.11,168,82.7,48,57,69,79,70,91,84,90
+135507,Fernandinho,33,Brazil,86,86,Manchester City,18,185,2183,Right,3,4,3,Medium/ High,25,"Jul 1, 2013",2020,5.1,148,33.3,76,76,67,72,78,75,77,82
+41,Iniesta,34,Spain,86,86,Vissel Kobe,21.5,21,2058,Right,4,4,4,High/ Medium,8,"Jul 16, 2018",2021,5.7,150,26.9,47,58,67,79,84,93,90,92
+232363,M. Škriniar,23,Slovakia,85,92,Inter,46.5,82,1800,Right,1,4,2,Medium/ High,37,"Jul 7, 2017",2022,6.2,176,88.4,78,83,73,48,48,57,59,67
+223848,S. Milinković-Savić,23,Serbia,85,90,Lazio,50.5,73,2206,Right,2,4,4,High/ Medium,21,"Aug 6, 2015",2023,6.3,168,89.6,85,88,70,66,59,85,86,87
+220834,Marco Asensio,22,Spain,85,92,Real Madrid,54,215,2050,Left,3,3,4,High/ Medium,10,"Jul 1, 2015",2023,6,168,121.5,58,61,82,79,76,84,86,85
+216594,N. Fekir,24,France,85,89,Olympique Lyonnais,50,92,2102,Left,3,3,4,High/ Medium,18,"Jul 1, 2013",2020,5.8,165,98.8,69,82,79,90,91,81,90,89
+212831,Alisson,25,Brazil,85,90,Liverpool,36.5,115,1320,Right,3,3,1,Medium/ Medium,13,"Jul 19, 2018",2024,6.3,201,72.1,52,78,45,40,37,66,27,30
+212622,J. Kimmich,23,Germany,85,88,FC Bayern München,40.5,92,2185,Right,3,4,3,High/ Low,18,"Jul 1, 2015",2023,5.9,154,69.9,79,65,68,84,83,79,80,85
+208421,Saúl,23,Spain,85,90,Atlético Madrid,50.5,77,2196,Left,3,4,3,High/ High,6,"Jul 1, 2013",2026,6,170,107.3,79,77,73,76,69,82,83,85
+204485,R. Mahrez,27,Algeria,85,85,Manchester City,40.5,205,2031,Left,3,4,5,Medium/ Medium,26,"Jul 10, 2018",2023,5.1,148,74.9,61,54,83,93,88,81,91,90
+197445,D. Alaba,26,Austria,85,87,FC Bayern München,38,110,2261,Left,4,4,3,High/ Medium,8,"Feb 10, 2010",2021,5.11,168,65.6,82,71,86,79,77,77,79,83
+193747,Koke,26,Spain,85,86,Atlético Madrid,45,88,2175,Right,3,4,3,High/ High,8,"Jan 1, 2011",2019,5.9,163,95.6,61,79,68,74,78,87,82,86
+193301,A. Lacazette,27,France,85,86,Arsenal,45,180,2060,Right,3,4,4,High/ High,9,"Jul 5, 2017",2022,5.9,161,88.9,76,73,84,85,85,76,85,83
+192774,K. Manolas,27,Greece,85,87,Roma,37.5,96,1642,Right,3,2,2,Low/ High,4,"Aug 26, 2014",2022,6.2,183,66.6,86,82,85,68,59,22,54,65
+192366,N. Otamendi,30,Argentina,85,85,Manchester City,28.5,170,1916,Right,3,3,2,High/ High,30,"Aug 20, 2015",2022,6,179,52.7,92,80,61,64,62,53,51,70
+189513,Parejo,29,Spain,85,85,Valencia CF,37,66,2119,Right,2,4,3,Medium/ Low,10,"Jul 1, 2011",2020,6,163,77.7,51,72,43,66,72,86,78,84
+187961,Paulinho,29,Brazil,85,85,Guangzhou Evergrande Taobao FC,37,235,2245,Right,3,3,3,High/ High,9,,"Jun 30, 2019",6,157,,90,81,73,69,66,78,82,84
+186153,W. Szczęsny,28,Poland,85,87,Juventus,32,125,1270,Right,3,3,1,Medium/ Medium,1,"Jul 19, 2017",2021,6.5,198,55.2,71,65,47,55,51,48,11,22
+184941,A. Sánchez,29,Chile,85,85,Manchester United,37.5,215,2172,Right,4,3,4,High/ High,7,"Jan 22, 2018",2022,5.7,163,69.4,87,72,79,90,87,82,87,86
+184267,Y. Brahimi,28,Algeria,85,85,FC Porto,39,28,2030,Right,3,3,4,High/ Medium,8,"Jul 22, 2014",2019,5.9,146,78,72,49,75,92,87,79,93,86
+183907,J. Boateng,29,Germany,85,85,FC Bayern München,30,115,1948,Right,4,4,2,Medium/ Medium,17,"Jul 14, 2011",2021,6.4,198,49.5,74,91,72,56,52,75,64,70
+181872,A. Vidal,31,Chile,85,85,FC Barcelona,26,205,2230,Right,4,4,3,Medium/ Medium,8,"Aug 6, 2018",2021,5.11,165,53.3,85,79,55,74,75,80,76,82
+181458,I. Perišić,29,Croatia,85,85,Inter,37.5,110,2199,Right,3,5,4,Medium/ Medium,44,"Sep 1, 2015",2022,6.1,176,63.8,84,78,88,78,74,79,84,85
+180930,E. Džeko,32,Bosnia Herzegovina,85,85,Roma,30.5,115,1931,Right,3,5,2,Medium/ Medium,9,"Jul 1, 2015",2020,6.4,185,51.9,66,80,66,57,36,74,76,84
+179846,S. Khedira,31,Germany,85,85,Juventus,33,160,2154,Right,3,4,2,High/ High,6,"Jul 1, 2015",2021,6.2,198,54.5,68,87,60,55,54,82,81,84
+179844,Diego Costa,29,Spain,85,85,Atlético Madrid,38.5,100,2003,Right,4,4,2,High/ Medium,19,"Jan 1, 2018",2021,6.2,190,78.9,64,92,76,58,53,74,77,83
+178518,R. Nainggolan,30,Belgium,85,85,Inter,35.5,105,2278,Right,3,3,3,High/ High,14,"Jul 1, 2018",2022,5.9,170,60.4,76,77,73,76,82,76,80,85
+171919,Naldo,35,Brazil,85,85,FC Schalke 04,9,38,1959,Right,3,4,2,Medium/ Medium,29,"Jul 1, 2016",2020,6.6,201,15.3,45,83,65,46,36,59,60,68
+170890,B. Matuidi,31,France,85,85,Juventus,26,145,2196,Left,3,2,2,High/ High,14,"Aug 18, 2017",2020,5.11,165,42.9,84,76,77,83,79,76,78,79
+168609,Miranda,33,Brazil,85,85,Inter,15.5,96,1879,Right,3,3,2,Medium/ High,23,"Jul 1, 2017",2020,6.1,172,26.4,82,79,69,61,57,58,67,73
+165153,K. Benzema,30,France,85,85,Real Madrid,37,240,2000,Right,4,4,4,Medium/ Low,9,"Jul 9, 2009",2021,6.1,179,75.9,73,80,76,76,66,85,83,86
+164169,Filipe Luís,32,Brazil,85,85,Atlético Madrid,21.5,81,2145,Left,3,3,3,High/ Medium,3,"Jul 28, 2015",2019,6,163,44.1,71,74,75,75,62,70,77,83
+139720,V. Kompany,32,Belgium,85,85,Manchester City,22,170,1898,Right,4,3,2,Medium/ High,4,"Aug 22, 2008",2019,6.3,187,40.7,72,87,59,57,41,59,63,70
+120533,Pepe,35,Portugal,85,85,Beşiktaş JK,9,57,1832,Right,4,3,2,Medium/ High,3,"Jul 4, 2017",2019,6.2,179,17.1,76,86,70,63,49,48,58,62
+41236,Z. Ibrahimović,36,Sweden,85,85,LA Galaxy,14,15,2012,Right,5,4,5,Medium/ Low,9,"Mar 23, 2018",2022,6.5,209,21,68,86,59,75,39,79,79,84
+220793,D. Sánchez,22,Colombia,84,88,Tottenham Hotspur,34,105,1809,Right,2,3,2,Medium/ High,23,"Aug 26, 2017",2024,6.2,174,65.5,73,83,79,60,55,49,63,73
+216460,J. Giménez,23,Uruguay,84,88,Atlético Madrid,34,63,1758,Right,2,3,2,Medium/ High,24,"Jul 1, 2013",2023,6.1,176,72.3,92,85,70,56,43,27,47,56
+212462,Alex Telles,25,Brazil,84,87,FC Porto,32,22,2259,Left,3,2,3,High/ Medium,13,"Jul 13, 2016",2021,5.11,157,66.4,81,68,85,73,70,74,82,82
+212218,A. Laporte,24,France,84,88,Manchester City,34,135,1912,Left,2,3,2,Medium/ Medium,14,"Jan 30, 2018",2023,6.2,187,65.5,75,82,66,45,55,57,59,73
+212198,Bruno Fernandes,23,Portugal,84,88,Sporting CP,40.5,22,2223,Right,2,3,4,High/ Medium,8,"Jul 1, 2017",2023,5.1,152,84,72,67,76,77,78,86,83,85
+212190,N. Süle,22,Germany,84,90,FC Bayern München,36.5,84,1648,Right,2,3,2,Medium/ Medium,15,"Jul 1, 2017",2022,6.5,214,67.5,38,94,84,33,33,30,42,63
+211300,A. Martial,22,France,84,90,Manchester United,42.5,165,2064,Right,3,3,4,Medium/ Medium,11,"Sep 1, 2015",2019,6,168,87.1,74,75,89,85,81,73,87,86
+211117,D. Alli,22,England,84,90,Tottenham Hotspur,42.5,115,2189,Right,3,3,4,High/ High,20,"Feb 2, 2015",2024,6.2,176,87.1,67,71,76,76,62,85,83,85
+209499,Fabinho,24,Brazil,84,88,Liverpool,34,120,2164,Right,3,2,3,Medium/ Medium,3,"Jul 1, 2018",2023,6.2,172,67.2,75,79,72,69,67,75,76,82
+207865,Marquinhos,24,Brazil,84,89,Paris Saint-Germain,35.5,90,1879,Right,3,3,2,Medium/ Medium,5,"Jul 19, 2013",2022,6,165,68.3,86,74,76,69,68,51,59,76
+207566,William Carvalho,26,Portugal,84,86,Real Betis,31.5,38,1985,Right,3,4,3,Medium/ Medium,14,"Jul 13, 2018",2023,6.2,183,68.5,69,90,53,51,51,83,80,79
+205498,Jorginho,26,Italy,84,87,Chelsea,38,155,2136,Right,2,3,3,Medium/ Medium,8,"Jul 16, 2018",2023,5.11,148,73.2,58,66,69,80,73,87,82,85
+204970,F. Thauvin,25,France,84,87,Olympique de Marseille,39,72,2091,Left,2,3,4,High/ Medium,20,"Jul 1, 2017",2021,5.1,154,77,76,66,80,86,71,80,85,86
+204963,Carvajal,26,Spain,84,87,Real Madrid,31.5,185,2040,Right,3,3,3,High/ High,2,"Jul 5, 2013",2022,5.8,161,66.9,76,74,84,81,79,57,76,83
+202556,M. Depay,24,Netherlands,84,89,Olympique Lyonnais,42,93,2083,Right,3,3,5,High/ Low,10,"Jan 20, 2017",2021,5.9,172,83,74,80,87,82,79,82,85,85
+200104,H. Son,25,Korea Republic,84,85,Tottenham Hotspur,37,125,2079,Right,3,5,4,High/ High,7,"Aug 28, 2015",2023,6,143,71.2,63,63,87,82,76,80,88,85
+199482,A. Lopes,27,Portugal,84,86,Olympique Lyonnais,25,72,1355,Left,2,2,1,Medium/ Medium,1,"Jul 1, 2011",2020,6,179,49.4,82,73,64,67,62,48,15,21
+198176,S. de Vrij,26,Netherlands,84,86,Inter,31.5,88,1808,Right,3,4,2,Medium/ High,14,"Jul 1, 2018",2023,6.2,172,55.9,76,80,69,61,59,59,63,71
+198009,M. Perin,25,Italy,84,89,Juventus,29.5,105,1254,Right,2,3,1,Medium/ Medium,22,"Jul 1, 2018",2022,6.2,170,50.9,75,52,56,70,30,44,19,23
+193082,J. Cuadrado,30,Colombia,84,84,Juventus,29.5,150,2163,Right,3,3,5,High/ Medium,11,"Feb 2, 2015",2020,5.1,159,48.7,75,61,93,91,82,76,90,85
+192629,Iago Aspas,30,Spain,84,84,RC Celta,30,45,2057,Left,2,3,3,High/ High,17,"Jul 1, 2015",2022,5.9,148,63,68,60,78,87,74,75,86,85
+192563,B. Leno,26,Germany,84,87,Arsenal,27,115,1278,Right,3,4,1,Medium/ Medium,12,"Jul 1, 2018",2023,6.3,183,53.3,73,68,52,52,44,54,16,22
+191202,N. Matić,29,Serbia,84,84,Manchester United,24,165,2100,Left,3,3,3,Medium/ High,31,"Jul 31, 2017",2020,6.4,187,44.4,67,85,59,44,50,73,80,79
+190941,L. Hrádecký,28,Finland,84,84,Bayer 04 Leverkusen,22,74,1132,Right,2,3,1,Medium/ Medium,1,"Jul 1, 2018",2023,6.4,187,37.4,69,55,44,43,39,53,10,20
+190584,Illarramendi,28,Spain,84,84,Real Sociedad,31,51,2097,Right,2,3,4,Medium/ High,4,"Aug 26, 2015",2023,5.1,165,65.1,63,68,57,71,75,86,78,83
+188377,K. Walker,28,England,84,84,Manchester City,24.5,165,2175,Right,3,2,2,High/ High,2,"Jul 14, 2017",2022,6,154,45.3,83,75,93,67,72,69,79,78
+186942,I. Gündoğan,27,Germany,84,84,Manchester City,32,175,2138,Right,3,4,4,High/ Medium,21,"Jul 1, 2016",2020,5.11,176,59.2,61,72,68,78,78,86,85,86
+185020,José Callejón,31,Spain,84,84,Napoli,27.5,105,2045,Right,3,3,3,High/ High,7,"Jul 11, 2013",2020,5.1,161,46.8,73,55,89,85,80,78,82,85
+183898,A. Di María,30,Argentina,84,84,Paris Saint-Germain,29.5,125,2113,Left,4,2,5,High/ Medium,11,"Aug 6, 2015",2021,5.11,152,54.6,72,60,84,92,77,82,86,85
+181783,M. Mandžukić,32,Croatia,84,84,Juventus,25,160,2106,Right,3,3,3,High/ High,17,"Jul 1, 2015",2020,6.3,187,41.3,85,85,73,67,53,74,76,77
+180403,Willian,29,Brazil,84,84,Chelsea,30.5,175,2052,Right,3,4,4,High/ High,22,"Aug 28, 2013",2020,5.9,172,56.4,41,60,86,89,79,83,88,84
+178750,Sergio Asenjo,29,Spain,84,85,Villarreal CF,24,42,1333,Right,2,3,1,Medium/ Medium,1,"Jun 30, 2014",2022,6.2,192,52.2,73,73,54,62,58,46,15,14
+178562,E. Banega,30,Argentina,84,84,Sevilla FC,29,31,2133,Right,3,4,4,Medium/ Medium,10,"Jul 3, 2017",2020,5.9,157,60.9,57,67,64,79,83,88,84,86
+177413,A. Witsel,29,Belgium,84,84,Borussia Dortmund,24,77,2200,Right,3,4,4,Medium/ Medium,6,"Aug 17, 2018",2022,6.2,179,40.8,76,82,74,78,60,79,78,84
+177388,D. Payet,31,France,84,84,Olympique de Marseille,27.5,75,2053,Right,3,4,4,High/ Low,18,"Jan 30, 2017",2021,5.9,170,52.3,48,72,72,79,80,87,86,90
+176769,Jonas,34,Brazil,84,84,SL Benfica,16.5,25,2023,Right,3,5,3,High/ Medium,10,"Sep 12, 2014",2020,5.11,163,33,69,63,64,77,69,83,84,88
+172879,Sokratis,30,Greece,84,84,Arsenal,23,140,1797,Right,3,2,2,Medium/ High,19,"Jul 2, 2018",2021,6.1,187,43.7,86,86,73,60,64,45,58,58
+167628,S. Ruffier,31,France,84,84,AS Saint-Étienne,19,41,1254,Right,3,3,1,Medium/ Medium,16,"Jul 11, 2011",2021,6.2,205,36.1,72,76,50,51,55,49,12,15
+167397,Falcao,32,Colombia,84,84,AS Monaco,25,115,2026,Right,3,4,3,High/ Medium,9,"Jul 1, 2013",2020,5.1,159,47.5,91,75,66,76,75,70,75,82
+163587,K. Schmeichel,31,Denmark,84,84,Leicester City,19,78,1351,Right,2,3,1,Medium/ Medium,1,"Jun 1, 2011",2023,6.2,196,36.1,60,64,60,62,47,59,12,40
+157481,Raúl Albiol,32,Spain,84,84,Napoli,18,88,1765,Right,3,3,2,Low/ High,33,"Jul 21, 2013",2021,6.3,181,30.6,77,82,53,53,56,57,59,71
+143076,A. Gómez,30,Argentina,84,84,Atalanta,30,53,2049,Right,3,4,4,High/ Medium,10,"Sep 2, 2014",2022,5.5,150,51,70,48,86,92,94,85,89,87
+137186,A. Barzagli,37,Italy,84,84,Juventus,4.2,95,1740,Right,3,3,2,Low/ High,15,"Jan 1, 2011",2019,6.2,192,6.9,81,83,77,52,64,62,64,65
+20775,Quaresma,34,Portugal,84,84,Beşiktaş JK,15.5,80,1988,Right,3,4,5,High/ Low,7,"Jul 22, 2015",2020,5.9,148,29.5,63,55,82,91,84,84,89,88
+9014,A. Robben,34,Netherlands,84,84,FC Bayern München,15.5,110,2044,Left,4,2,4,High/ Low,10,"Aug 28, 2009",2019,5.11,176,25.6,60,67,76,87,90,80,89,88
+231443,O. Dembélé,21,France,83,92,FC Barcelona,40,155,1993,Left,3,5,4,High/ Low,11,"Aug 28, 2017",2022,5.1,148,90,59,46,92,90,85,84,90,83
+230666,Gabriel Jesus,21,Brazil,83,92,Manchester City,41,130,2051,Right,2,3,4,High/ High,33,"Aug 3, 2016",2023,5.9,161,84.1,77,68,85,92,91,77,86,85
+230481,Ronaldo Cabrais,26,Brazil,83,83,Grêmio,28,51,2095,Right,1,4,4,High/ Medium,7,"Jan 1, 2018",2021,5.1,165,50.4,64,70,87,85,76,83,85,83
+230375,Josué Chiamulera,26,Brazil,83,83,Grêmio,22.5,43,1894,Right,1,3,2,Medium/ Medium,4,"Jan 1, 2018",2021,6.1,176,40.5,69,73,78,77,68,42,56,70
+230294,Louri Beretta,26,Brazil,83,83,Atlético Mineiro,28.5,60,1921,Right,1,3,4,High/ Low,9,"Jan 1, 2018",2021,6.2,183,54.2,84,87,83,55,55,58,75,74
+225850,P. Kimpembe,22,France,83,89,Paris Saint-Germain,30.5,82,1899,Left,2,3,3,High/ High,3,"Jul 1, 2015",2023,6.2,176,62.5,77,84,78,74,65,60,58,78
+220971,N. Keïta,23,Guinea,83,88,Liverpool,34,120,2082,Right,2,4,4,High/ Medium,8,"Jul 1, 2018",2023,5.8,141,67.2,53,58,60,89,90,81,88,88
+219683,C. Tolisso,23,France,83,88,FC Bayern München,34,85,2207,Right,2,3,3,High/ Medium,24,"Jul 1, 2017",2022,5.11,179,58.7,90,77,66,75,74,80,77,81
+213565,T. Lemar,22,France,83,89,Atlético Madrid,35.5,64,2173,Left,3,2,4,High/ Medium,8,"Jul 1, 2018",2023,5.7,137,79.9,71,63,84,87,86,85,85,86
+213345,K. Coman,22,France,83,87,FC Bayern München,34,85,1918,Right,2,3,5,Medium/ Low,29,"Aug 30, 2015",2023,5.1,157,58.7,75,61,93,87,84,75,88,83
+213331,J. Tah,22,Germany,83,88,Bayer 04 Leverkusen,29.5,67,1673,Right,2,4,2,Medium/ Medium,20,"Jul 16, 2015",2023,6.5,214,52.4,72,93,77,48,44,61,55,64
+212523,Anderson Talisca,24,Brazil,83,90,Guangzhou Evergrande Taobao FC,36.5,18,2142,Left,2,4,4,High/ Medium,24,,"Dec 31, 2018",6.3,176,,58,72,76,76,65,81,82,84
+212188,T. Werner,22,Germany,83,87,RB Leipzig,34.5,70,1967,Right,3,4,3,High/ Medium,9,"Jul 1, 2016",2020,5.11,165,61.2,78,59,93,81,76,61,83,84
+210008,A. Rabiot,23,France,83,87,Paris Saint-Germain,33,91,2184,Left,2,3,3,High/ Medium,25,"Jul 1, 2012",2019,6.4,176,63.5,73,80,74,79,72,80,79,83
+209658,L. Goretzka,23,Germany,83,88,FC Bayern München,34,85,2203,Right,3,4,3,High/ High,14,"Jul 1, 2018",2022,6.2,174,58.7,67,70,79,76,70,82,81,83
+208808,Q. Promes,26,Netherlands,83,84,Sevilla FC,30.5,28,2056,Right,2,4,5,High/ Low,9,"Aug 31, 2018",2023,5.9,159,66.3,82,61,91,87,79,81,84,82
+208670,H. Ziyech,25,Morocco,83,86,Ajax,32.5,28,2098,Left,3,2,4,High/ High,22,"Aug 30, 2016",2021,5.11,143,47.9,38,59,74,85,78,88,83,83
+208618,Lucas Vázquez,27,Spain,83,83,Real Madrid,27,205,2048,Right,2,4,4,High/ High,17,"Jul 2, 2015",2021,5.8,154,55.4,68,57,79,79,84,83,82,83
+208418,Y. Carrasco,24,Belgium,83,86,Dalian YiFang FC,33,20,2015,Right,3,4,4,High/ Medium,10,"Feb 26, 2018",2021,5.11,161,73.4,68,59,87,88,71,71,88,87
+208093,Gerard Moreno,26,Spain,83,85,Villarreal CF,32,53,1967,Left,1,4,4,High/ Medium,7,"Jul 2, 2018",2023,5.11,170,69.6,72,74,80,70,69,58,78,81
+207863,Felipe,29,Brazil,83,83,FC Porto,20,22,1788,Right,3,3,2,Medium/ High,28,"Jul 1, 2016",2021,6.3,190,40,90,86,67,52,57,50,57,62
+207410,M. Kovačić,24,Croatia,83,89,Chelsea,35,165,2115,Right,3,4,4,High/ High,17,,"Jun 30, 2019",5.9,172,,63,65,74,81,85,88,88,89
+206585,Kepa,23,Spain,83,91,Chelsea,28.5,84,1223,Right,1,4,1,Medium/ Medium,13,"Aug 8, 2018",2025,6.1,187,58.4,71,51,33,41,39,55,10,16
+206545,Manu Trigueros,26,Spain,83,84,Villarreal CF,30,49,2121,Right,2,4,4,Medium/ Medium,14,"Jul 1, 2011",2022,5.1,165,65.3,77,63,65,76,72,84,80,83
+206113,S. Gnabry,22,Germany,83,88,FC Bayern München,34.5,85,2041,Right,2,4,4,High/ Medium,6,"Jul 1, 2017",2020,5.9,165,59.5,64,68,90,87,88,74,87,83
+204935,J. Pickford,24,England,83,88,Everton,25,78,1435,Left,1,4,1,Medium/ Medium,1,"Jun 15, 2017",2024,6.1,170,49.4,72,70,44,55,55,68,14,40
+204639,S. Savić,27,Montenegro,83,86,Atlético Madrid,26,67,1696,Right,2,3,2,Medium/ High,15,"Jul 20, 2015",2020,6.2,174,55.3,87,77,61,61,49,41,47,68
+203574,J. Stones,24,England,83,87,Manchester City,28.5,125,1858,Right,2,4,3,High/ Medium,5,"Aug 9, 2016",2022,6.2,154,54.9,75,77,71,61,59,67,69,80
+202651,Suso,24,Spain,83,86,Milan,33,115,1959,Left,3,3,4,High/ Medium,11,"Jan 17, 2015",2022,5.9,154,58.6,50,56,77,86,84,84,88,89
+202166,J. Draxler,24,Germany,83,86,Paris Saint-Germain,32.5,91,2112,Right,3,5,4,Medium/ Medium,7,"Jan 3, 2017",2021,6.2,170,62.6,75,66,77,80,75,84,88,89
+201995,Felipe Anderson,25,Brazil,83,85,West Ham United,31.5,110,2042,Right,3,4,4,High/ Medium,8,"Jul 15, 2018",2022,5.9,154,62.2,38,53,89,89,88,79,90,88
+200949,Lucas Moura,25,Brazil,83,84,Tottenham Hotspur,31,115,2075,Right,3,3,4,High/ Medium,27,"Jan 31, 2018",2023,5.9,154,59.7,77,59,90,94,90,74,88,81
+200888,Danilo Pereira,26,Portugal,83,86,FC Porto,27,21,2028,Right,3,3,3,Medium/ High,22,"Jul 2, 2015",2022,6.2,183,56,67,89,68,58,60,73,76,78
+200724,Nacho Fernández,28,Spain,83,85,Real Madrid,24.5,180,1855,Right,2,4,2,Medium/ High,12,"Aug 1, 2010",2021,5.11,168,52.1,81,79,79,60,68,53,55,78
+200316,T. Horn,25,Germany,83,87,1. FC Köln,24,25,1261,Left,2,3,1,Medium/ Medium,1,"Jul 1, 2011",2023,6.4,198,37.8,64,67,51,50,31,55,20,22
+199914,Allan,27,Brazil,83,83,Napoli,26.5,87,2157,Right,2,3,4,Medium/ High,5,"Jul 22, 2015",2023,5.9,163,45.1,70,77,74,82,80,79,82,80
+199845,F. Acerbi,30,Italy,83,83,Lazio,19,64,1849,Left,2,3,3,Medium/ Medium,13,"Jul 11, 2018",2023,6.4,194,32.3,68,83,55,33,35,65,65,72
+199564,Sergi Roberto,26,Spain,83,86,FC Barcelona,26.5,170,2106,Right,3,3,4,High/ High,20,"Jul 1, 2013",2022,5.1,150,56.3,47,69,79,69,74,83,78,83
+198329,Rodrigo,27,Spain,83,84,Valencia CF,30.5,57,2060,Left,2,3,4,High/ Medium,9,"Dec 3, 2014",2022,6,170,66.3,78,72,91,84,77,74,82,82
+197965,Pizzi,28,Portugal,83,83,SL Benfica,25.5,22,2149,Right,3,4,3,High/ Medium,21,"Jul 30, 2013",2022,5.1,159,51,67,59,73,77,77,85,80,82
+195365,K. Kampl,27,Slovenia,83,83,RB Leipzig,26.5,74,2076,Right,2,4,3,High/ High,44,"Aug 31, 2017",2021,5.1,148,45.1,67,47,71,91,80,82,86,84
+194404,Neto,28,Brazil,83,84,Valencia CF,21,41,1295,Right,2,2,1,Medium/ Medium,13,"Jul 7, 2017",2021,6.3,185,45.7,80,63,49,59,49,42,19,24
+193698,O. Baumann,28,Germany,83,84,TSG 1899 Hoffenheim,21,42,1222,Right,2,1,1,Medium/ Medium,1,"Jul 1, 2014",2021,6.2,181,37.3,73,69,51,45,43,41,19,17
+193474,I. Gueye,28,Senegal,83,83,Everton,21,125,2055,Right,2,3,3,Medium/ High,17,"Aug 3, 2016",2022,5.9,146,39.9,87,70,72,80,80,67,75,79
+192883,H. Mkhitaryan,29,Armenia,83,83,Arsenal,25.5,145,2100,Right,3,5,4,Medium/ Medium,7,"Jan 22, 2018",2021,5.1,165,48.5,69,62,78,87,85,84,84,86
+192638,Marcos Alonso,27,Spain,83,84,Chelsea,24,130,2201,Left,2,3,3,High/ Low,3,"Aug 31, 2016",2023,6.2,192,46.2,71,76,76,64,58,69,79,83
+192593,D. Subašić,33,Croatia,83,83,AS Monaco,13,70,1284,Right,3,2,1,Medium/ Medium,1,"Jan 24, 2012",2020,6.3,185,24.7,75,80,54,42,37,52,11,19
+190547,K. Glik,30,Poland,83,83,AS Monaco,19,86,1582,Right,3,2,2,Low/ Medium,15,"Jul 6, 2016",2021,6.3,176,36.1,81,90,52,34,51,23,51,59
+189712,K. Strootman,28,Netherlands,83,83,Olympique de Marseille,21,66,2139,Left,3,3,3,Medium/ High,16,"Aug 28, 2018",2023,6.1,176,39.9,53,81,66,65,68,79,75,84
+189068,B. Dost,29,Netherlands,83,83,Sporting CP,26,26,1793,Right,3,3,2,Medium/ Medium,28,"Aug 28, 2016",2021,6.5,196,52,51,92,54,32,32,68,68,74
+188152,Oscar,26,Brazil,83,84,Shanghai SIPG FC,30.5,29,2022,Right,3,3,4,Medium/ Medium,8,"Jan 1, 2017",2020,5.1,146,69.4,64,38,72,86,80,83,78,84
+186627,M. Balotelli,27,Italy,83,83,OGC Nice,27.5,55,1914,Right,4,4,4,Medium/ Low,9,"Aug 31, 2016",2019,6.2,194,52.3,74,86,82,71,50,74,81,85
+185221,Luiz Gustavo,30,Brazil,83,83,Olympique de Marseille,19,63,2025,Left,3,3,3,Medium/ High,19,"Jul 4, 2017",2021,6.2,172,36.1,76,81,64,65,62,69,68,73
+184942,Giuliano,28,Brazil,83,83,Al Nassr,26,64,2073,Right,2,3,4,High/ Medium,77,"Aug 20, 2018",2021,5.8,150,44.2,61,74,79,85,85,80,84,84
+179944,David Luiz,31,Brazil,83,83,Chelsea,17.5,130,2074,Right,4,3,3,Medium/ Medium,30,"Aug 31, 2016",2019,6.2,190,32.4,78,79,62,69,56,69,66,79
+179783,R. Fährmann,29,Germany,83,84,FC Schalke 04,20,38,1179,Right,2,1,1,Medium/ Medium,1,"Jul 1, 2011",2022,6.6,216,35.5,72,79,47,39,36,42,15,24
+178088,Juan Mata,30,Spain,83,83,Manchester United,24.5,160,1984,Left,3,3,4,Medium/ Medium,8,"Jan 25, 2014",2019,5.7,139,45.3,70,37,62,84,89,85,82,88
+178086,Adán,31,Spain,83,83,Atlético Madrid,15.5,55,1299,Left,2,2,1,Medium/ Medium,1,"Jul 10, 2018",2020,6.3,203,31.8,71,77,54,55,51,42,12,15
+178005,Rui Patrício,30,Portugal,83,83,Wolverhampton Wanderers,16.5,74,1352,Left,3,2,1,Medium/ Medium,1,"Jun 18, 2018",2022,6.3,185,31.4,79,77,57,61,54,64,20,23
+177683,Y. Sommer,29,Switzerland,83,84,Borussia Mönchengladbach,20,35,1299,Right,3,4,1,Medium/ Medium,1,"Jul 1, 2014",2021,6,174,35.5,73,68,54,55,58,58,15,25
+177610,Javi Martínez,29,Spain,83,83,FC Bayern München,20,94,1948,Right,3,3,2,Medium/ Medium,8,"Aug 29, 2012",2021,6.4,190,33,85,84,53,53,48,75,60,74
+177457,L. Bender,29,Germany,83,83,Bayer 04 Leverkusen,20,82,2049,Right,3,3,2,High/ High,8,"Aug 18, 2009",2021,6.1,179,34,77,76,67,65,63,76,72,75
+176266,Lucas Leiva,31,Brazil,83,83,Lazio,17.5,64,2095,Right,3,3,3,Medium/ High,6,"Jul 18, 2017",2020,5.1,172,29.8,82,67,67,78,80,81,77,78
+163705,S. Mandanda,33,France,83,83,Olympique de Marseille,13,51,1218,Right,3,3,1,Medium/ Medium,16,"Jul 11, 2017",2020,6.1,181,24.7,74,61,43,52,36,55,15,17
+162895,Cesc Fàbregas,31,Spain,83,83,Chelsea,22,140,2040,Right,4,3,3,High/ Medium,4,"Jul 1, 2014",2019,5.1,170,40.7,63,61,54,62,75,91,79,85
+162240,M. Dembélé,30,Belgium,83,83,Tottenham Hotspur,24,120,2177,Left,3,2,4,Medium/ Medium,19,"Aug 1, 2012",2019,6.1,181,44.4,75,89,72,79,76,80,89,89
+156616,F. Ribéry,35,France,83,83,FC Bayern München,11.5,72,1929,Right,4,4,5,Medium/ Medium,7,"Jul 1, 2007",2019,5.7,159,19,34,60,78,84,90,84,84,87
+104389,R. Jarstein,33,Norway,83,83,Hertha BSC,13,33,1191,Right,2,4,1,Medium/ Medium,1,"Jan 1, 2014",2021,6.3,181,22.1,59,70,46,35,45,37,11,23
+53302,D. De Rossi,34,Italy,83,83,Roma,8,80,2101,Right,3,4,2,Medium/ High,16,"Jul 1, 2002",2019,6,183,13.6,77,81,67,64,72,71,64,77
+24630,Pepe Reina,35,Spain,83,83,Milan,6,56,1299,Right,3,3,1,Medium/ Medium,25,"Jul 2, 2018",2021,6.2,203,10.2,73,72,63,50,60,65,10,23
+236583,J. Pavlenka,26,Czech Republic,82,85,SV Werder Bremen,19.5,30,1060,Right,1,3,1,Medium/ Medium,1,"Jul 1, 2017",2021,6.5,179,34.6,36,68,37,39,27,25,12,19
+235243,M. de Ligt,18,Netherlands,82,91,Ajax,27,11,1937,Right,2,4,2,Medium/ Medium,3,"Oct 24, 2016",2021,6.2,196,43.2,80,87,72,56,59,63,65,73
+231866,Rodri,22,Spain,82,87,Atlético Madrid,29,59,2055,Right,1,3,4,Medium/ High,16,"Jul 1, 2018",2023,6.3,181,61.6,69,75,66,69,72,83,77,82
+230658,Arthur,21,Brazil,82,90,FC Barcelona,32.5,125,2120,Right,1,3,4,Medium/ Medium,8,"Jul 9, 2018",2024,5.7,161,73.1,83,62,70,79,86,82,82,83
+230621,G. Donnarumma,19,Italy,82,93,Milan,29,23,1278,Right,3,3,1,Medium/ Medium,22,"Jul 1, 2015",2021,6.5,198,55.1,72,72,54,64,38,50,28,28
+230258,Rosberto Dourado,30,Brazil,82,82,Atlético Mineiro,16.5,46,2061,Right,1,4,2,High/ Medium,13,"Jan 1, 2018",2018,5.9,154,31.4,43,68,81,72,80,77,77,76
+230225,Juiano Mestres,34,Brazil,82,82,Cruzeiro,6.5,39,2003,Right,1,3,2,High/ Medium,3,"Jan 1, 2018",2021,5.11,181,12.4,91,79,74,61,63,50,60,64
+230168,Raphaelito Anjos,30,Brazil,82,82,Grêmio,14,32,1191,Right,1,2,1,Medium/ Medium,1,"Jan 1, 2018",2021,6.3,187,25.2,67,79,42,34,41,71,9,21
+227055,Gelson Martins,23,Portugal,82,87,Atlético Madrid,29.5,59,2023,Right,3,3,5,High/ Medium,18,"Jul 25, 2018",2023,5.8,159,62.7,65,48,94,94,92,79,85,83
+224411,Gonçalo Guedes,21,Portugal,82,86,Valencia CF,29,36,2006,Right,1,3,4,High/ Low,17,"Aug 29, 2018",2024,5.1,150,63.1,65,62,90,85,78,77,86,81
+223959,L. Torreira,22,Uruguay,82,87,Arsenal,25,98,2111,Right,2,3,3,Medium/ High,14,"Jul 12, 2018",2023,5.6,141,49.4,52,66,74,83,93,74,78,81
+222737,Malcom,21,Brazil,82,89,FC Barcelona,31.5,140,1984,Left,2,4,4,Medium/ Medium,14,"Jul 24, 2018",2023,5.8,163,70.9,58,64,82,92,84,83,85,85
+221087,Pau López,23,Spain,82,87,Real Betis,21.5,21,1319,Left,1,3,1,Medium/ Medium,23,"Jul 4, 2018",2023,6.2,170,46.8,68,52,52,40,57,62,18,16
+220814,L. Hernández,22,France,82,88,Atlético Madrid,25.5,53,1953,Left,1,3,3,Medium/ High,21,"Jul 1, 2015",2024,6,168,57.4,83,76,84,70,67,61,65,79
+220440,C. Lenglet,23,France,82,88,FC Barcelona,26,135,1775,Left,1,4,2,Medium/ High,15,"Jul 12, 2018",2023,6.1,179,58.5,79,80,73,62,60,60,60,76
+216354,A. Kramarić,27,Croatia,82,83,TSG 1899 Hoffenheim,26,54,2013,Right,2,4,4,Medium/ Medium,27,"Jan 16, 2015",2022,5.1,161,46.2,69,68,72,82,82,66,87,86
+216267,A. Robertson,24,Scotland,82,87,Liverpool,24.5,98,2023,Left,1,2,3,High/ High,3,"Jul 21, 2017",2021,5.1,141,48.4,59,66,86,78,74,74,76,78
+216194,Dani García,28,Spain,82,83,Athletic Club de Bilbao,20,33,1940,Right,2,3,3,Medium/ High,16,"Jul 2, 2018",2022,5.11,176,43.5,65,75,35,67,72,76,66,81
+212404,F. Bernardeschi,24,Italy,82,87,Juventus,29.5,110,2096,Left,2,3,5,High/ High,20,"Jul 24, 2017",2022,6.1,170,50.9,49,63,83,85,79,80,86,87
+212194,J. Brandt,22,Germany,82,88,Bayer 04 Leverkusen,30.5,68,1905,Right,2,4,4,Medium/ Medium,10,"Jan 1, 2014",2021,6.1,185,58,63,69,84,82,78,83,87,85
+211320,D. Rugani,23,Italy,82,86,Juventus,24.5,95,1705,Right,2,3,2,Low/ Medium,15,"Feb 4, 2015",2021,6.3,185,42.3,81,79,67,59,53,50,64,65
+210617,Samu Castillejo,23,Spain,82,86,Milan,29,94,1968,Left,2,2,4,Medium/ High,7,"Aug 17, 2018",2023,6,148,51.5,63,50,86,83,78,81,85,83
+210514,João Cancelo,24,Portugal,82,88,Juventus,25.5,95,2174,Right,2,3,4,High/ Medium,2,"Jul 1, 2018",2023,6,163,47.2,73,66,91,78,74,74,84,83
+210413,A. Romagnoli,23,Italy,82,89,Milan,26.5,84,1750,Left,2,3,2,Medium/ High,13,"Aug 11, 2015",2022,6.2,172,50.4,78,81,69,60,53,40,65,69
+209989,T. Partey,25,Ghana,82,88,Atlético Madrid,25.5,59,2068,Right,1,3,3,High/ High,5,"Jul 1, 2015",2023,6.1,170,57.4,84,81,76,72,53,73,78,81
+209297,Fred,25,Brazil,82,84,Manchester United,26.5,140,2180,Left,1,4,4,High/ High,17,"Jun 21, 2018",2023,5.7,141,51,83,61,79,84,87,76,79,86
+208830,J. Vardy,31,England,82,82,Leicester City,20,96,2082,Right,3,3,3,High/ High,9,"May 1, 2012",2022,5.1,163,38,76,67,91,75,76,72,76,76
+208596,A. Belotti,24,Italy,82,87,Torino,30,58,1962,Right,3,5,3,High/ High,9,"Aug 17, 2015",2021,5.11,159,53.3,83,84,79,79,75,61,78,75
+208448,E. Forsberg,26,Sweden,82,83,RB Leipzig,26,67,1936,Right,2,4,4,Medium/ Medium,10,"Jan 7, 2015",2022,5.1,163,46.2,53,62,70,81,82,83,82,87
+207494,J. Lingard,25,England,82,83,Manchester United,26.5,140,2095,Right,2,3,4,High/ High,7,"Jul 1, 2010",2021,5.9,137,51,63,53,82,86,86,82,83,83
+207471,F. Vázquez,29,Argentina,82,82,Sevilla FC,21.5,27,1969,Left,2,3,4,Medium/ High,22,"Jul 16, 2016",2021,6.1,181,45.2,44,79,62,69,39,84,86,87
+205678,E. Višća,28,Bosnia Herzegovina,82,82,Medipol Başakşehir FK,22.5,40,2054,Right,2,4,4,High/ Medium,7,"Aug 16, 2011",2021,5.8,139,42.8,69,58,89,93,88,73,82,82
+205452,A. Rüdiger,25,Germany,82,84,Chelsea,22.5,110,1843,Right,2,3,2,Medium/ High,16,"Jul 9, 2017",2022,6.3,187,43.3,73,82,78,59,50,57,59,69
+203551,A. Florenzi,27,Italy,82,83,Roma,20.5,73,2253,Right,3,3,4,High/ Medium,16,"Jul 1, 2010",2023,5.8,148,36.4,74,67,84,87,82,76,78,79
+203263,H. Maguire,25,England,82,85,Leicester City,23.5,77,1853,Right,1,3,2,High/ High,6,"Jun 15, 2017",2023,6.4,220,46.4,74,89,53,52,58,60,70,76
+202371,T. Meunier,26,Belgium,82,83,Paris Saint-Germain,21,87,2162,Right,2,4,3,High/ High,15,"Jul 3, 2016",2020,6.3,198,40.4,72,85,81,63,49,71,75,82
+201956,S. Sané,27,Senegal,82,82,FC Schalke 04,18.5,41,1840,Right,2,3,3,Medium/ High,26,"Jul 1, 2018",2022,6.5,187,31.5,47,88,62,60,37,62,64,70
+201455,G. Kondogbia,25,Central African Rep.,82,85,Valencia CF,27.5,46,2171,Left,2,2,4,High/ Medium,6,"Jul 2, 2018",2022,6.2,176,59.8,83,91,76,76,67,78,78,82
+201400,Rafinha,25,Brazil,82,87,FC Barcelona,29.5,165,2091,Left,2,4,4,High/ High,12,"Jul 1, 2013",2020,5.9,157,62.7,73,66,70,80,80,81,87,84
+201305,Gabriel Paulista,27,Brazil,82,83,Valencia CF,21,44,1959,Right,2,2,2,Low/ High,5,"Aug 18, 2017",2022,6.2,174,45.7,83,82,74,69,67,65,60,69
+201153,Morata,25,Spain,82,85,Chelsea,28.5,135,1886,Right,3,4,3,High/ High,7,"Jul 21, 2017",2022,6.2,187,54.9,84,78,86,66,60,76,83,82
+199987,J. Cillessen,29,Netherlands,82,84,FC Barcelona,18,135,1292,Right,3,3,1,Medium/ Medium,1,"Aug 25, 2016",2021,6.1,183,38.3,71,67,50,48,50,60,12,32
+199451,W. Ben Yedder,27,France,82,82,Sevilla FC,23.5,28,2042,Right,2,5,4,High/ High,9,"Jul 30, 2016",2021,5.7,150,49.4,81,60,83,91,87,79,84,83
+198951,C. Bakambu,27,DR Congo,82,83,Beijing Sinobo Guoan FC,26,33,2010,Right,2,4,3,Medium/ Medium,17,"Jan 17, 2018",2021,6,161,59.2,79,76,88,80,72,73,80,82
+198950,Pablo Sarabia,26,Spain,82,83,Sevilla FC,26,26,2027,Left,2,4,4,High/ Medium,17,"Jul 1, 2016",2020,5.9,154,56.6,40,58,76,80,81,84,86,84
+198717,W. Zaha,25,Ivory Coast,82,85,Crystal Palace,28.5,78,1930,Right,2,3,5,High/ Low,11,"Feb 2, 2015",2023,5.11,146,56.3,57,75,92,88,82,77,90,87
+198706,Luis Alberto,25,Spain,82,85,Lazio,28.5,67,1941,Right,2,3,4,High/ Medium,10,"Aug 31, 2016",2022,6,163,50.6,54,67,72,79,74,87,86,88
+198164,Jonathan Viera,28,Spain,82,82,Beijing Sinobo Guoan FC,22.5,31,2152,Right,2,4,4,High/ Low,23,"Feb 19, 2018",2020,5.7,141,49.5,88,67,76,89,92,84,84,82
+198141,Bartra,27,Spain,82,83,Real Betis,21,32,2032,Right,3,3,3,High/ Medium,5,"Jan 30, 2018",2023,6,161,45.7,89,71,72,72,71,75,70,80
+197655,S. Coates,27,Uruguay,82,83,Sporting CP,21,19,1714,Right,3,3,2,Medium/ Medium,4,"Jan 31, 2017",2022,6.5,203,43.6,54,94,64,32,30,50,64,62
+195093,Willian José,26,Brazil,82,83,Real Sociedad,26.5,44,1945,Right,2,4,4,Medium/ Low,12,"Jul 31, 2016",2024,6.2,205,57.6,72,90,65,65,43,68,79,80
+193525,Mário Fernandes,27,Russia,82,82,PFC CSKA Moscow,18.5,1,2102,Right,2,3,3,High/ High,6,"Jul 1, 2012",2022,6.2,176,40.7,84,75,85,79,61,73,77,79
+193469,Víctor Ruiz,29,Spain,82,83,Villarreal CF,19.5,43,1830,Left,2,2,2,Medium/ Medium,6,"Jul 1, 2015",2019,6.1,172,42.4,78,87,59,56,58,56,53,71
+193283,T. Delaney,26,Denmark,82,83,Borussia Dortmund,21.5,61,2211,Left,2,4,3,High/ High,8,"Jul 1, 2018",2022,6,174,38.2,91,79,78,73,74,77,73,77
+192984,K. Casteels,26,Belgium,82,85,VfL Wolfsburg,19.5,46,1250,Left,2,2,1,Medium/ Medium,13,"Jan 21, 2015",2021,6.6,190,34.6,58,72,46,50,43,42,14,23
+192318,M. Götze,26,Germany,82,85,Borussia Dortmund,27,67,2101,Right,4,4,4,Medium/ Medium,10,"Aug 1, 2016",2020,5.9,165,47.9,58,68,64,86,85,86,84,90
+192227,S. Mustafi,26,Germany,82,84,Arsenal,22.5,115,1914,Right,3,3,2,Medium/ High,20,"Aug 30, 2016",2021,6,181,44.4,83,78,65,63,67,55,53,70
+191180,J. Pastore,29,Argentina,82,82,Roma,21.5,84,2050,Right,3,4,4,High/ Medium,27,"Jul 1, 2018",2022,6.2,172,36.6,49,64,69,79,63,87,87,86
+189505,Pedro,30,Spain,82,82,Chelsea,21,140,1968,Right,3,5,4,High/ High,11,"Aug 20, 2015",2020,5.7,143,38.9,66,47,74,82,80,77,84,85
+189125,G. Bonaventura,28,Italy,82,82,Milan,22,115,2207,Right,3,3,4,High/ Medium,5,"Sep 1, 2014",2020,5.11,165,37.4,69,66,77,77,77,82,83,85
+189117,R. Bürki,27,Switzerland,82,85,Borussia Dortmund,18.5,50,1245,Right,3,2,1,Medium/ Medium,21,"Jul 1, 2015",2021,6.2,187,32.8,74,74,54,49,52,50,12,23
+188803,Taison,30,Brazil,82,82,Shakhtar Donetsk,21,1,2055,Right,2,3,4,Medium/ Medium,7,"Jan 11, 2013",2021,5.8,141,44.1,62,62,91,90,83,79,87,85
+187936,S. Nzonzi,29,France,82,82,Roma,17,77,2006,Right,2,3,2,Medium/ Medium,15,"Aug 14, 2018",2022,6.5,165,28.9,75,92,55,36,31,77,72,81
+187754,Marlos,30,Ukraine,82,82,Shakhtar Donetsk,21,1,2075,Left,2,4,5,Medium/ Medium,11,"Jul 4, 2014",2019,5.9,152,44.1,68,62,82,92,84,82,87,88
+186561,A. Ramsey,27,Wales,82,83,Arsenal,25,130,2110,Right,3,3,3,High/ High,10,"Jun 13, 2008",2019,6,168,49.4,66,67,69,73,74,79,81,82
+186345,K. Trippier,27,England,82,82,Tottenham Hotspur,18.5,99,2161,Right,2,4,3,High/ High,12,"Jun 19, 2015",2022,5.1,159,34.2,73,65,75,74,74,80,75,80
+185103,A. Kolarov,32,Serbia,82,82,Roma,12.5,73,2230,Left,2,3,3,High/ Medium,11,"Jul 22, 2017",2020,6.2,183,21.3,80,77,70,63,58,77,79,76
+184484,G. Sigurðsson,28,Iceland,82,82,Everton,22.5,125,2096,Right,3,5,3,High/ High,10,"Aug 16, 2017",2022,6.1,181,42.8,68,68,55,68,63,86,80,85
+184431,S. Giovinco,31,Italy,82,82,Toronto FC,20,15,1957,Right,2,4,4,High/ Medium,21,"Feb 3, 2015",2019,5.4,134,30,34,42,80,94,91,81,86,86
+184200,M. Arnautović,29,Austria,82,82,West Ham United,22,120,2106,Right,3,4,4,High/ Medium,7,"Jul 23, 2017",2022,6.4,183,41.8,67,84,83,70,66,77,84,85
+184144,N. Gaitán,30,Argentina,82,82,Dalian YiFang FC,21,22,2010,Left,3,2,4,Medium/ Medium,9,"Feb 27, 2018",2021,5.8,146,45.2,81,46,79,87,81,82,84,83
+183711,J. Henderson,28,England,82,82,Liverpool,18,125,2163,Right,2,3,3,Medium/ High,8,"Jun 9, 2011",2020,6,176,34.2,79,72,66,70,70,83,73,80
+183574,M. Kruse,30,Germany,82,82,SV Werder Bremen,21.5,45,2063,Left,2,4,4,High/ Medium,10,"Aug 2, 2016",2019,5.11,168,36.6,65,72,67,74,76,83,82,85
+183498,M. Parolo,33,Italy,82,82,Lazio,9,59,2151,Right,2,4,3,High/ High,16,"Jul 1, 2014",2020,6,165,15.3,77,77,69,67,71,78,75,79
+183376,L. Fejsa,29,Serbia,82,82,SL Benfica,17,18,1945,Right,2,3,2,Low/ High,5,"Aug 24, 2013",2021,6,176,34,73,78,55,57,58,63,68,72
+183280,A. Rami,32,France,82,82,Olympique de Marseille,12.5,57,1793,Right,3,3,2,High/ High,23,"Jul 13, 2017",2021,6.3,198,23.8,76,91,67,54,54,44,56,68
+181786,V. Ćorluka,32,Croatia,82,82,Lokomotiv Moscow,12.5,1,1909,Right,3,3,3,High/ Medium,14,"Jun 27, 2012",2020,6.4,185,26.3,81,86,65,57,46,60,65,73
+181291,G. Wijnaldum,27,Netherlands,82,82,Liverpool,23,130,2175,Right,3,3,4,High/ High,8,"Jul 22, 2016",2021,5.9,152,43.7,80,72,76,80,81,78,84,84
+179847,F. Fazio,31,Argentina,82,82,Roma,15,73,1633,Right,3,2,2,Medium/ Medium,20,"Jul 15, 2017",2020,6.5,187,25.5,41,91,43,29,32,47,48,72
+178509,O. Giroud,31,France,82,82,Chelsea,20,140,1927,Left,3,3,3,Medium/ Medium,9,"Jan 31, 2018",2019,6.4,203,37,84,88,50,57,54,76,70,83
+173521,Marcano,31,Spain,82,82,Roma,15,73,1827,Left,3,3,2,Medium/ Medium,15,"Jul 1, 2018",2021,6.2,170,25.5,91,77,69,58,56,48,54,67
+171897,A. Guardado,31,Mexico,82,82,Real Betis,19,35,2146,Left,3,2,4,Medium/ Medium,18,"Jul 7, 2017",2020,5.7,148,39.9,74,57,73,81,88,83,80,84
+170481,E. Garay,31,Argentina,82,82,Valencia CF,15,44,1896,Right,3,3,2,Medium/ Medium,24,"Aug 31, 2016",2020,6.2,198,31.5,76,88,36,54,34,63,60,73
+168530,Jardel,32,Brazil,82,82,SL Benfica,12.5,17,1687,Right,2,2,2,Medium/ High,33,"Jan 1, 2011",2021,6.4,192,25,77,89,63,35,34,49,52,60
+168435,S. Sirigu,31,Italy,82,82,Torino,13.5,45,1213,Right,3,2,1,Medium/ Medium,1,"Jun 27, 2017",2022,6.4,176,23,68,66,51,52,55,55,15,18
+168354,E. Viviano,32,Italy,82,82,Sporting CP,12.5,15,1169,Left,2,2,1,Medium/ Medium,1,"Jul 1, 2018",2020,6.5,198,25,66,58,33,35,32,60,18,22
+165229,L. Koscielny,32,France,82,82,Arsenal,12.5,115,1807,Right,3,3,2,Medium/ High,6,"Jul 7, 2010",2020,6.1,165,23.8,78,75,66,65,61,56,62,66
+163489,A. Consigli,31,Italy,82,82,Sassuolo,13.5,52,1180,Right,2,3,1,Medium/ Medium,47,"Sep 1, 2014",2022,6.2,181,23,80,51,34,57,40,46,10,23
+158963,L. Biglia,32,Argentina,82,82,Milan,12.5,98,2104,Right,3,4,3,Medium/ High,21,"Jul 17, 2017",2020,5.1,139,21.3,62,65,65,76,78,80,80,84
+146530,Dani Alves,35,Brazil,82,82,Paris Saint-Germain,4.8,62,2197,Right,4,3,4,High/ Low,13,"Jul 12, 2017",2019,5.8,150,8.9,80,55,79,84,87,78,84,86
+113422,David Villa,36,Spain,82,82,New York City FC,8,12,1993,Right,3,5,4,High/ Low,7,"Jul 1, 2014",2018,5.9,152,12,67,66,67,71,73,75,83,85
+106231,Aduriz,37,Spain,82,82,Athletic Club de Bilbao,8,29,1973,Right,3,3,3,High/ Medium,20,"Jul 1, 2012",2019,6,172,16.8,90,82,66,50,55,73,76,82
+48940,P. Čech,36,Czech Republic,82,82,Arsenal,3,60,1166,Left,4,3,1,Medium/ Medium,1,"Jun 29, 2015",2019,6.5,198,5.7,50,63,38,46,34,53,12,22
+5479,Casillas,37,Spain,82,82,FC Porto,1.5,10,1308,Left,4,2,1,Medium/ Medium,1,"Jul 12, 2015",2019,6.1,185,3,77,70,57,62,46,65,25,23
+231677,M. Rashford,20,England,81,89,Manchester United,27,110,2062,Right,2,4,4,High/ Medium,11,"Jul 1, 2014",2020,6.1,154,55.4,68,71,93,88,77,74,83,80
+230271,Laure Santeiro,30,Brazil,81,81,Fluminense,17,40,1853,Left,1,5,4,Medium/ Medium,8,"Jan 1, 2018",2021,5.7,139,32.3,44,48,78,89,88,80,82,82
+229906,L. Bailey,20,Jamaica,81,89,Bayer 04 Leverkusen,26.5,54,2011,Left,1,4,4,High/ Medium,9,"Jan 31, 2017",2023,5.1,174,50.4,86,59,90,86,84,77,86,82
+229237,M. Akanji,22,Switzerland,81,87,Borussia Dortmund,21,49,1868,Right,2,3,2,Medium/ High,5,"Jan 15, 2018",2022,6.2,187,39.9,78,84,86,69,66,66,67,75
+228702,F. de Jong,21,Netherlands,81,89,Ajax,26,19,2064,Right,1,3,4,Medium/ Medium,7,"Aug 25, 2015",2022,5.11,154,41.6,76,69,76,84,78,85,86,88
+227928,Nélson Semedo,24,Portugal,81,86,FC Barcelona,20,125,2039,Right,2,3,4,Medium/ High,2,"Jul 14, 2017",2022,5.1,148,42.5,80,62,92,88,83,62,80,78
+226456,Pablo Fornals,22,Spain,81,86,Villarreal CF,24,36,2071,Right,1,3,4,High/ High,8,"Jul 24, 2017",2022,5.1,148,52.2,59,67,66,79,76,86,81,81
+226271,Fabián,22,Spain,81,89,Napoli,26,64,2094,Left,1,4,4,Medium/ Medium,8,"Jul 5, 2018",2023,6.2,154,49.4,46,69,67,73,66,82,81,83
+225508,E. Bailly,24,Ivory Coast,81,87,Manchester United,21,105,1853,Right,2,3,2,Medium/ High,2,"Jul 1, 2016",2020,6.1,170,43.1,85,85,79,65,62,54,60,65
+222509,Dani Ceballos,21,Spain,81,88,Real Madrid,25,120,2059,Right,1,3,4,Medium/ Medium,21,"Jul 14, 2017",2023,5.1,154,56.3,52,62,67,82,79,83,85,85
+221992,H. Lozano,22,Mexico,81,86,PSV,24,22,2019,Right,3,4,4,High/ Medium,22,"Jul 21, 2017",2023,5.9,154,35.4,75,59,93,91,76,75,84,80
+216475,Morales,30,Spain,81,81,Levante UD,17,33,2084,Right,1,4,4,High/ Medium,11,"Jun 1, 2011",2021,5.11,154,35.7,62,60,88,78,80,75,87,83
+216451,J. Seri,26,Ivory Coast,81,82,Fulham,20.5,73,2128,Right,2,4,3,Medium/ Medium,24,"Jul 12, 2018",2022,5.7,161,40.5,69,63,70,82,88,83,78,84
+216409,M. Politano,24,Italy,81,84,Inter,22.5,57,1983,Left,2,4,4,High/ Medium,16,,"Jun 30, 2019",5.7,148,,50,45,84,90,82,75,84,83
+216352,M. Brozović,25,Croatia,81,84,Inter,18.5,64,2149,Right,2,4,3,Medium/ Medium,77,"Jul 1, 2016",2022,5.11,150,32.8,68,66,70,74,74,80,81,83
+216201,Williams,24,Spain,81,87,Athletic Club de Bilbao,24.5,31,2000,Right,2,3,4,High/ High,9,"Aug 1, 2012",2025,6.1,174,56.4,86,85,94,80,55,75,82,81
+214997,A. Correa,23,Argentina,81,87,Atlético Madrid,24.5,54,2047,Right,1,4,4,Medium/ Low,11,"Dec 13, 2014",2024,5.7,150,55.1,50,63,82,87,83,78,87,87
+213661,A. Christensen,22,Denmark,81,88,Chelsea,21.5,91,1717,Right,2,3,2,Low/ Medium,6,"Apr 10, 2013",2022,6.2,179,44.1,72,73,70,61,61,62,68,74
+212814,João Mário,25,Portugal,81,84,Inter,22.5,71,2055,Right,3,4,4,Medium/ Medium,10,"Aug 28, 2016",2021,5.1,161,39.9,64,68,69,81,77,81,83,83
+212151,T. Strakosha,23,Albania,81,86,Lazio,17,36,1139,Right,1,2,1,Medium/ Medium,1,"Aug 9, 2012",2019,6.4,172,30.2,49,56,46,31,47,49,14,15
+210864,E. Hysaj,24,Albania,81,86,Napoli,20,58,1935,Right,2,3,3,Medium/ Medium,23,"Aug 2, 2015",2021,6,154,35.5,69,69,82,76,69,59,75,77
+210406,P. Zieliński,24,Poland,81,88,Napoli,24.5,64,2075,Right,3,5,4,Medium/ Medium,20,"Aug 9, 2016",2021,5.11,165,46.6,54,54,84,79,76,82,84,85
+210243,Ricardo Pereira,24,Portugal,81,85,Leicester City,19,64,2127,Right,3,4,3,High/ High,14,"Jun 9, 2018",2023,5.9,154,37.5,74,60,87,82,77,75,83,79
+210035,Grimaldo,22,Spain,81,87,SL Benfica,20.5,14,2137,Left,3,2,3,High/ Medium,3,"Jan 4, 2016",2021,5.7,152,45.1,64,63,83,85,86,60,83,82
+209889,R. Guerreiro,24,Portugal,81,86,Borussia Dortmund,24,54,2146,Left,3,3,4,Medium/ Medium,13,"Jul 1, 2016",2020,5.7,157,42.6,63,49,68,88,86,79,83,84
+208135,A. Doucouré,25,France,81,85,Watford,19.5,60,2081,Right,2,3,3,High/ Medium,16,"Feb 2, 2016",2023,6,168,38.5,72,81,70,60,69,76,78,80
+207877,J. Martínez,25,Venezuela,81,84,Atlanta United,22.5,14,1917,Right,1,4,3,High/ Medium,17,"Mar 22, 2017",2020,5.7,152,35.4,86,73,92,91,90,58,75,78
+207664,C. Bacca,31,Colombia,81,81,Villarreal CF,16,45,1884,Right,3,2,3,Medium/ Low,7,"Aug 17, 2018",2022,5.11,170,33.6,74,74,75,73,77,68,80,80
+206467,A. Plea,25,France,81,83,Borussia Mönchengladbach,22,40,2054,Right,2,3,4,High/ Medium,14,"Jul 13, 2018",2023,5.11,174,39.1,75,77,77,79,78,78,78,79
+205923,B. Davies,25,Wales,81,84,Tottenham Hotspur,18.5,87,2035,Left,2,3,3,High/ High,4,"Jul 23, 2014",2021,6,168,35.6,73,69,74,70,68,75,76,79
+205362,M. Nastasić,25,Serbia,81,84,FC Schalke 04,18.5,36,1821,Left,2,2,2,Low/ High,5,"Jan 14, 2015",2022,6.2,183,32.8,81,78,77,65,59,55,43,65
+205175,A. Milik,24,Poland,81,88,Napoli,25.5,71,1937,Left,3,3,4,Medium/ Medium,7,"Aug 2, 2016",2021,6.1,172,48.5,62,78,74,68,63,60,74,78
+204923,M. Sabitzer,24,Austria,81,84,RB Leipzig,22.5,54,2107,Right,2,4,3,High/ High,9,"Jul 1, 2014",2022,5.1,170,39.9,75,76,77,75,79,79,79,81
+204884,B. Mendy,23,France,81,86,Manchester City,20,105,2038,Left,2,3,3,High/ Low,22,"Jul 24, 2017",2022,6.1,187,38.5,71,81,86,68,70,76,80,79
+204024,C. Kramer,27,Germany,81,82,Borussia Mönchengladbach,17,35,1866,Right,2,3,3,High/ High,6,"Jul 1, 2016",2021,6.3,168,30.2,51,69,52,66,54,73,71,81
+203890,S. Vrsaljko,26,Croatia,81,84,Inter,18,57,2069,Right,2,3,3,High/ Medium,2,,"Jun 30, 2019",5.11,168,,85,73,79,67,72,68,74,79
+203486,T. Hazard,25,Belgium,81,83,Borussia Mönchengladbach,21.5,40,2013,Right,2,3,4,Medium/ Medium,16,"Jul 1, 2015",2020,5.9,152,38.2,63,62,77,91,83,80,85,83
+202857,K. Bellarabi,28,Germany,81,81,Bayer 04 Leverkusen,18,76,1956,Right,3,3,4,High/ High,38,"Jul 1, 2011",2021,6,179,30.6,75,68,91,86,78,76,87,83
+202685,S. Zaza,27,Italy,81,82,Torino,21,48,2028,Left,2,3,4,High/ High,11,,"Jun 30, 2019",6.1,185,,89,88,79,76,69,66,77,79
+201454,F. Ghoulam,27,Algeria,81,82,Napoli,16.5,68,2114,Left,2,4,3,High/ Medium,31,"Jan 31, 2014",2022,6,176,29.3,73,68,82,72,62,69,79,80
+200726,B. Lecomte,27,France,81,84,Montpellier HSC,15,27,1114,Left,2,3,1,Medium/ Medium,40,"Jul 1, 2017",2021,6.1,172,31.1,62,55,40,36,25,41,11,23
+200647,J. Iličić,30,Slovenia,81,81,Atalanta,17,41,1976,Left,3,3,4,Medium/ Medium,7,"Jul 5, 2017",2021,6.3,174,28.9,33,74,70,70,56,82,83,87
+200610,K. Volland,25,Germany,81,83,Bayer 04 Leverkusen,22,76,2079,Left,2,3,3,High/ High,31,"Jul 1, 2016",2021,5.1,187,39.1,78,82,77,73,84,81,79,81
+200454,Paco Alcácer,24,Spain,81,85,Borussia Dortmund,23.5,59,1948,Right,2,4,3,High/ Medium,9,"Nov 23, 2018",2023,5.9,159,41.7,75,64,80,83,84,65,78,81
+199715,Vitolo,28,Spain,81,81,Atlético Madrid,18,65,2007,Right,2,4,3,High/ High,23,"Jul 12, 2017",2022,6.1,174,36.9,70,81,77,74,63,78,84,83
+199503,G. Xhaka,25,Switzerland,81,84,Arsenal,22,115,1978,Left,3,2,3,Medium/ Medium,10,"Jul 1, 2016",2021,6.1,181,43.5,32,75,49,49,61,81,70,80
+199434,D. Tadić,29,Serbia,81,81,Ajax,17.5,26,1972,Left,3,2,4,Medium/ Low,10,"Jul 3, 2018",2022,5.11,168,24.5,64,62,68,82,80,85,85,86
+199042,C. Aránguiz,29,Chile,81,81,Bayer 04 Leverkusen,17,76,2144,Right,2,4,3,Medium/ Medium,20,"Aug 13, 2015",2020,5.7,154,28.9,61,63,65,80,85,81,75,82
+196889,S. Verdi,25,Italy,81,81,Napoli,19.5,77,2053,Left,2,5,4,High/ Medium,9,"Jul 1, 2018",2023,5.7,134,33.2,51,48,86,92,90,82,84,86
+195086,D. Lovren,28,Croatia,81,82,Liverpool,16,115,1726,Right,2,4,2,Medium/ High,6,"Jul 27, 2014",2021,6.2,185,31.6,81,82,55,50,41,56,63,67
+193532,G. Medel,30,Chile,81,81,Beşiktaş JK,13,56,1996,Right,3,4,3,Medium/ High,17,"Aug 11, 2017",2020,5.7,143,24.7,89,83,70,78,92,72,63,71
+193348,X. Shaqiri,26,Switzerland,81,81,Liverpool,19,130,2087,Left,3,4,5,Medium/ Medium,23,"Jul 13, 2018",2023,5.7,159,36.1,52,73,77,84,91,81,86,84
+193165,J. Corona,25,Mexico,81,83,FC Porto,21.5,18,1993,Right,3,5,5,Medium/ Low,17,"Aug 31, 2015",2020,5.8,137,44.6,72,39,79,90,87,77,91,84
+193105,A. Areola,25,France,81,85,Paris Saint-Germain,16.5,61,1266,Right,2,3,1,Medium/ Medium,23,"Jul 1, 2010",2019,6.5,207,31.8,59,80,52,53,58,34,12,22
+192641,K. Vogt,26,Germany,81,82,TSG 1899 Hoffenheim,17.5,42,1958,Right,2,3,2,High/ Medium,22,"Jul 1, 2016",2022,6.4,187,31.1,54,85,82,59,47,67,67,71
+191740,Ander Herrera,28,Spain,81,81,Manchester United,17.5,140,2170,Right,3,4,3,High/ High,21,"Jun 26, 2014",2019,6,154,32.4,61,67,68,79,78,78,77,82
+190972,E. Salvio,27,Argentina,81,81,SL Benfica,18.5,19,2141,Right,2,4,4,High/ Medium,18,"Jul 1, 2012",2019,5.8,170,37,87,63,87,83,76,76,85,84
+190813,S. El Shaarawy,25,Italy,81,82,Roma,21,77,1913,Right,3,3,5,High/ Medium,92,"Jan 26, 2016",2020,5.1,159,37.3,60,54,87,85,81,73,84,86
+189881,C. Smalling,28,England,81,82,Manchester United,16,130,1799,Right,3,3,2,Medium/ High,12,"Jul 1, 2010",2019,6.4,179,30.8,76,87,74,55,45,49,59,58
+189362,Hulk,31,Brazil,81,81,Shanghai SIPG FC,15.5,25,2102,Left,4,3,4,High/ Medium,10,"Jul 1, 2017",2020,5.11,187,34.1,69,92,80,69,59,75,82,79
+189358,S. Kagawa,29,Japan,81,81,Borussia Dortmund,17.5,65,1948,Right,3,4,4,High/ Medium,23,"Aug 31, 2014",2020,5.9,150,29.8,65,39,60,87,88,80,86,83
+188988,M. Lanzini,25,Argentina,81,85,West Ham United,23,90,1931,Right,2,3,4,Medium/ Medium,10,"Jul 1, 2016",2020,5.6,130,45.4,75,39,78,86,89,79,87,86
+187491,F. Smolov,28,Russia,81,81,Lokomotiv Moscow,18.5,1,1971,Right,1,4,4,High/ Medium,11,"Aug 9, 2018",2022,6.2,176,38.9,67,75,85,75,66,75,77,78
+187072,L. Stindl,29,Germany,81,81,Borussia Mönchengladbach,18,43,2129,Right,2,4,4,Medium/ Medium,13,"Jul 1, 2015",2021,5.11,176,30.6,73,69,67,70,78,83,78,83
+185239,O. Toprak,28,Turkey,81,82,Borussia Dortmund,16,59,1826,Right,3,4,2,Medium/ Medium,36,"Jul 1, 2017",2021,6.1,183,28.4,80,78,83,64,61,59,63,71
+183900,D. Perotti,29,Argentina,81,81,Roma,17.5,84,1959,Right,3,4,4,Medium/ Medium,8,"Jan 1, 2016",2021,5.1,154,29.8,64,60,76,83,78,84,88,88
+182494,F. Muslera,32,Uruguay,81,81,Galatasaray SK,10,52,1359,Right,3,2,1,Medium/ Medium,1,"Aug 11, 2011",2021,6.3,163,19,84,68,62,68,62,58,25,23
+179784,B. Höwedes,30,Germany,81,81,Lokomotiv Moscow,13,1,1813,Right,3,3,2,Medium/ Medium,5,"Jul 31, 2018",2022,6.2,170,27.3,78,78,52,60,61,57,59,65
+179645,S. Kjær,29,Denmark,81,81,Sevilla FC,14,23,1837,Right,3,3,2,Low/ High,4,"Aug 2, 2017",2021,6.2,185,29.4,70,80,65,40,58,49,46,71
+177458,S. Bender,29,Germany,81,81,Bayer 04 Leverkusen,14,69,1868,Right,2,4,2,Medium/ High,5,"Jul 13, 2017",2021,6.1,176,23.8,73,77,72,63,61,65,58,60
+177326,M. Valbuena,33,France,81,81,Fenerbahçe SK,11,86,1955,Right,3,3,3,High/ Medium,28,"Jun 17, 2017",2019,5.6,139,20.9,60,37,79,86,92,77,83,82
+175379,Pedro León,31,Spain,81,81,SD Eibar,15.5,32,1980,Right,2,3,4,Medium/ Low,21,"Jul 5, 2016",2020,6,161,32.6,39,63,63,68,73,82,84,85
+173909,K. Boateng,31,Ghana,81,81,Sassuolo,15,65,2168,Right,3,4,4,High/ Medium,27,"Jul 5, 2018",2021,6.1,190,25.5,76,78,65,77,68,78,79,84
+173771,L. Piszczek,33,Poland,81,81,Borussia Dortmund,7,57,2128,Right,3,4,2,Medium/ Medium,26,"Jul 1, 2010",2020,6,174,11.9,77,78,83,66,66,71,72,76
+173221,A. Candreva,31,Italy,81,81,Inter,15.5,74,2084,Right,3,4,4,Medium/ Medium,87,"Aug 3, 2016",2021,5.11,154,26.4,35,69,78,74,76,77,82,83
+172522,D. Wass,29,Denmark,81,81,Valencia CF,17,46,2158,Right,2,3,4,High/ Medium,18,"Jul 10, 2018",2022,5.11,163,35.7,59,70,76,79,63,81,80,81
+170368,E. Lamela,26,Argentina,81,82,Tottenham Hotspur,21,105,2100,Left,2,2,4,High/ High,22,"Aug 30, 2013",2022,6,176,40.4,63,68,74,75,74,83,86,84
+169595,D. Rose,27,England,81,81,Tottenham Hotspur,14.5,92,2094,Left,3,3,3,Medium/ High,3,"Jul 1, 2007",2021,5.9,168,26.8,75,72,78,69,76,73,80,77
+169416,C. Vela,29,Mexico,81,81,Los Angeles FC,17.5,15,1986,Left,3,2,4,High/ Low,10,"Jan 1, 2018",2022,5.1,170,26.3,68,67,80,81,81,81,83,83
+169195,Renato Augusto,30,Brazil,81,81,Beijing Sinobo Guoan FC,16.5,28,2090,Right,2,4,3,Medium/ Medium,5,"Jan 8, 2016",2021,6.1,190,36.3,49,76,67,66,66,81,82,81
+167905,A. Valencia,32,Ecuador,81,81,Manchester United,10,120,2142,Right,2,2,3,High/ High,16,"Jun 30, 2009",2019,5.11,183,18.5,69,79,85,72,78,71,80,81
+164835,L. Fabiański,33,Poland,81,81,West Ham United,9,70,1212,Right,2,2,1,Medium/ Medium,22,"Jun 20, 2018",2021,6.3,183,17.1,68,65,47,52,44,52,14,22
+162347,João Moutinho,31,Portugal,81,81,Wolverhampton Wanderers,15,85,2164,Right,3,4,3,High/ Medium,28,"Jul 24, 2018",2020,5.7,134,28.5,77,63,59,76,84,80,79,82
+161956,Borja Valero,33,Spain,81,81,Inter,11,74,2039,Right,3,4,4,Medium/ Medium,20,"Jul 10, 2017",2020,5.9,161,18.7,67,66,52,74,80,86,85,88
+159261,F. Quagliarella,35,Italy,81,81,Sampdoria,8,39,1933,Right,2,4,4,Medium/ Medium,27,"Jul 1, 2016",2019,5.11,174,13.6,69,76,67,71,75,77,76,81
+159145,B. Gomis,32,France,81,81,Al Hilal,14,56,1891,Right,3,3,4,High/ Low,18,"Aug 23, 2018",2020,6,170,23.8,74,83,70,59,58,69,78,79
+157960,Manuel Fernandes,32,Portugal,81,81,Lokomotiv Moscow,14,1,2157,Right,2,4,4,High/ Medium,4,"Jul 1, 2014",2019,5.9,165,29.4,74,71,76,82,76,81,86,83
+156519,H. Herrera,28,Mexico,81,81,FC Porto,17.5,20,2106,Right,3,4,3,High/ High,16,"Jul 1, 2013",2019,6,159,35,66,73,73,66,70,77,76,78
+144622,Raffael,33,Brazil,81,81,Borussia Mönchengladbach,11,41,2038,Right,2,4,4,High/ Medium,11,"Jul 1, 2013",2019,5.9,152,18.7,70,62,66,83,83,81,87,85
+139068,Nani,31,Portugal,81,81,Sporting CP,15.5,19,1970,Right,3,5,5,High/ Medium,17,"Jul 11, 2018",2020,5.1,150,31,37,62,74,92,77,79,87,86
+138412,J. Milner,32,England,81,81,Liverpool,13.5,120,2126,Right,2,4,3,High/ High,7,"Jul 1, 2015",2020,5.9,154,25.7,62,71,62,69,73,79,76,79
+112316,J. Mathieu,34,France,81,81,Sporting CP,5.5,18,2048,Left,3,2,2,High/ Medium,22,"Jul 7, 2017",2019,6.2,185,11,65,89,74,52,43,58,65,62
+45186,Joaquín,36,Spain,81,81,Real Betis,6,24,1947,Right,2,3,4,High/ Medium,17,"Sep 1, 2015",2020,5.1,165,12.6,33,64,65,72,72,84,85,83
+239207,M. Gómez,21,Uruguay,80,85,RC Celta,20.5,25,1806,Right,1,3,3,Low/ Medium,18,"Jul 1, 2017",2022,6.1,185,44.6,73,80,65,45,53,60,76,77
+235790,K. Havertz,19,Germany,80,89,Bayer 04 Leverkusen,22,32,1876,Left,1,5,4,Medium/ Medium,29,"Jul 1, 2016",2022,6.2,183,41.8,69,61,86,78,71,83,81,83
+235569,T. Ndombele,21,France,80,89,Olympique Lyonnais,22.5,51,2096,Right,1,3,4,High/ High,17,"Jul 1, 2018",2023,5.11,168,47.3,63,78,76,83,83,79,86,84
+234906,H. Aouar,20,France,80,90,Olympique Lyonnais,23.5,51,2048,Right,1,4,4,High/ Medium,8,"Jul 1, 2016",2023,5.9,154,49.4,61,61,79,81,81,84,84,82
+234153,Carlos Soler,21,Spain,80,87,Valencia CF,21,31,2062,Right,1,4,4,Medium/ Medium,8,"Jul 1, 2015",2021,5.11,168,48.3,59,65,77,75,70,83,79,82
+234035,Odriozola,22,Spain,80,88,Real Madrid,18.5,115,1991,Right,1,3,3,High/ Medium,19,"Jul 5, 2018",2024,5.9,146,41.6,71,63,82,78,79,63,69,77
+230977,M. Almirón,24,Paraguay,80,84,Atlanta United,19.5,11,1988,Left,1,2,4,High/ High,10,"Jan 1, 2017",2019,5.9,139,30.7,46,52,89,86,64,79,81,79
+230347,Welington Dano,30,Brazil,80,80,Cruzeiro,10.5,34,2068,Left,1,4,4,Medium/ Medium,5,"Jan 1, 2018",2021,5.1,152,20,71,68,80,83,81,75,77,78
+230234,Everton Andrão,34,Brazil,80,80,Fluminense,4.5,34,2050,Right,1,4,2,High/ High,6,"Jan 1, 2018",2021,5.1,165,8.5,67,71,68,78,77,73,75,77
+230142,Oyarzabal,21,Spain,80,87,Real Sociedad,21,29,1879,Left,1,3,3,High/ Medium,10,"Jul 1, 2014",2024,5.11,172,48.3,58,59,75,70,70,79,84,85
+228229,F. Balbuena,26,Paraguay,80,83,West Ham United,15.5,80,1667,Right,1,3,2,Medium/ Medium,4,"Jul 14, 2018",2021,6.2,187,30.6,73,84,65,42,42,45,47,56
+227536,M. Marega,27,Mali,80,80,FC Porto,16,19,1923,Right,2,3,2,High/ Medium,11,"Jan 25, 2016",2021,6.1,183,32,74,90,88,67,50,65,62,65
+226851,B. Pavard,22,France,80,86,VfB Stuttgart,17.5,33,1965,Right,1,3,3,Medium/ Medium,2,"Aug 30, 2016",2021,6.1,168,33.3,86,74,73,68,66,66,66,77
+226790,W. Ndidi,21,Nigeria,80,85,Leicester City,17,50,2086,Right,1,4,3,Medium/ High,25,"Jan 5, 2017",2024,6,163,33.6,90,75,73,67,67,67,74,75
+226753,A. Onana,22,Cameroon,80,85,Ajax,14.5,14,1369,Right,2,3,1,Medium/ Medium,1,"Jan 14, 2015",2021,6.2,205,21.4,80,67,62,68,53,62,26,38
+226226,G. Lo Celso,22,Argentina,80,86,Real Betis,20,72,2105,Left,1,3,3,High/ Medium,20,,"Jun 30, 2019",5.9,154,,64,67,75,81,81,81,81,82
+224334,M. Acuña,26,Argentina,80,80,Sporting CP,12.5,16,2265,Left,2,3,4,Medium/ High,9,"Jul 21, 2017",2023,5.8,152,25,69,84,75,84,86,78,85,82
+224293,Rúben Neves,21,Portugal,80,87,Wolverhampton Wanderers,20.5,59,2098,Right,2,3,3,Medium/ Medium,5,"Jul 8, 2017",2023,5.11,176,43.1,68,70,64,65,70,83,73,80
+221639,Mariano,24,Dominican Republic,80,85,Real Madrid,20,140,2041,Right,1,4,3,High/ Medium,7,"Aug 29, 2018",2023,5.11,168,42.5,92,79,85,79,72,63,75,72
+221540,Raúl,28,Brazil,80,80,SC Braga,12,19,1830,Left,1,3,2,Medium/ Medium,34,"Jul 1, 2017",2022,6.2,179,24,85,85,51,59,52,53,56,60
+220477,M. Caldara,24,Italy,80,86,Milan,17.5,73,1647,Right,2,3,2,Medium/ High,33,"Aug 2, 2018",2023,6.2,176,33.3,76,79,69,58,59,32,62,63
+219985,M. Vecino,26,Uruguay,80,81,Inter,14.5,63,2052,Right,2,3,4,High/ High,15,"Aug 2, 2017",2022,6.2,179,25.7,67,75,69,66,56,81,84,84
+219809,T. Bakayoko,23,France,80,85,Milan,17,85,1928,Right,2,3,3,Medium/ Medium,14,,"Jun 30, 2019",6.2,187,,76,80,69,64,57,73,76,77
+218339,M. Dahoud,22,Germany,80,86,Borussia Dortmund,20,50,2052,Right,2,4,4,High/ High,19,"Jul 1, 2017",2022,5.1,150,38,76,58,67,87,84,81,85,83
+216547,Rafa,25,Portugal,80,83,SL Benfica,18.5,17,1886,Right,2,4,4,High/ Medium,27,"Aug 31, 2016",2021,5.8,146,38.4,58,40,93,88,89,75,86,84
+215785,K. Baldé,23,Senegal,80,85,Inter,20,65,1921,Right,2,4,4,High/ Low,11,,"Jun 30, 2019",5.11,176,,67,76,92,82,78,72,83,85
+215316,G. Rulli,26,Argentina,80,85,Real Sociedad,14,26,1264,Right,3,3,1,Medium/ Medium,23,"Jan 1, 2017",2022,6.2,185,30.5,65,73,48,58,50,58,14,15
+214584,F. Armani,31,Argentina,80,80,River Plate,9,22,1224,Right,1,2,1,Medium/ Medium,1,"Jan 12, 2018",2022,6.2,194,12.6,65,82,40,40,34,55,19,29
+212692,Rony Lopes,22,Portugal,80,85,AS Monaco,20,65,1878,Left,2,3,4,High/ Medium,7,"Aug 28, 2015",2022,5.9,150,39.5,51,56,76,84,86,77,82,81
+212623,Santi Mina,22,Spain,80,85,Valencia CF,20,40,2017,Right,1,4,3,High/ Medium,22,"Jul 4, 2015",2021,5.11,170,43.5,74,73,81,78,75,65,81,80
+211748,K. Demirbay,24,Germany,80,84,TSG 1899 Hoffenheim,19.5,37,2074,Left,2,4,4,Medium/ Medium,10,"Jul 13, 2016",2022,6,159,34.6,72,67,67,77,77,81,82,84
+211688,Gayà,23,Spain,80,85,Valencia CF,16.5,33,2060,Left,2,3,3,High/ Medium,3,"Sep 13, 2012",2023,5.8,146,35.9,54,61,87,79,83,72,77,81
+211575,André Gomes,24,Portugal,80,85,Everton,19.5,130,2065,Right,3,4,4,Medium/ Medium,8,,"Jun 30, 2019",6.2,185,,58,86,62,67,64,81,80,78
+211256,N. Tagliafico,25,Argentina,80,82,Ajax,15,20,2025,Left,2,2,3,High/ Medium,3,"Jan 5, 2018",2022,5.7,143,22.1,90,63,86,79,79,68,74,74
+210896,M. Sanson,23,France,80,85,Olympique de Marseille,19.5,47,2169,Right,2,4,4,Medium/ Medium,8,"Jan 17, 2017",2021,5.11,161,38.5,75,76,74,79,69,82,77,79
+209960,Pacheco,26,Spain,80,83,Deportivo Alavés,13,23,1239,Left,1,2,1,Medium/ Medium,1,"Aug 7, 2015",2020,6.1,179,28.3,72,72,42,62,51,45,13,14
+208333,E. Can,24,Germany,80,85,Juventus,19.5,91,2153,Right,2,4,3,High/ High,23,"Jul 1, 2018",2022,6,181,33.6,76,83,73,73,71,79,76,81
+208128,H. Çalhanoğlu,24,Turkey,80,84,Milan,19.5,89,2085,Right,3,4,4,Medium/ Medium,10,"Jul 3, 2017",2021,5.1,168,34.6,46,54,69,78,77,80,85,86
+207862,M. Ginter,24,Germany,80,82,Borussia Mönchengladbach,15.5,28,1901,Right,2,3,2,Medium/ Medium,4,"Jul 4, 2017",2021,6.2,183,27.5,65,81,69,55,49,68,62,72
+207599,M. Keane,25,England,80,83,Everton,15.5,88,1828,Right,2,3,2,Medium/ High,4,"Jul 3, 2017",2022,6.3,181,30.6,82,85,65,59,62,56,66,69
+207439,L. Paredes,24,Argentina,80,85,,0,0,2122,Right,2,4,4,Medium/ Medium,5,,,5.11,165,,61,69,69,77,77,82,78,82
+206413,T. Stepanenko,28,Ukraine,80,80,Shakhtar Donetsk,12,1,2006,Left,1,3,3,Medium/ High,6,"Jul 1, 2010",2022,5.11,168,25.2,71,76,64,60,73,69,64,78
+205988,L. Shaw,22,England,80,85,Manchester United,16.5,96,2047,Left,2,2,3,High/ Medium,23,"Jun 27, 2014",2023,5.11,165,31.8,73,75,85,74,74,69,82,80
+205705,Z. Feddal,28,Morocco,80,80,Real Betis,12,29,1765,Left,1,2,2,Medium/ Medium,4,"Jul 24, 2017",2021,6.3,183,25.2,73,81,62,50,33,47,56,67
+205693,S. Haller,24,France,80,83,Eintracht Frankfurt,19,41,1889,Right,1,2,3,High/ Medium,9,"Jul 1, 2017",2021,6.3,201,33.7,80,91,76,68,53,72,72,79
+205525,Bernard,25,Brazil,80,81,Everton,17.5,97,1917,Right,2,4,4,High/ Medium,20,"Aug 9, 2018",2022,5.5,132,34.6,61,34,86,94,96,77,82,84
+205114,T. Inui,30,Japan,80,80,Real Betis,14,30,1974,Right,1,4,4,Medium/ Medium,8,"Jul 2, 2018",2021,5.7,139,29.4,63,51,77,94,93,74,88,82
+205070,Portu,26,Spain,80,81,Girona FC,17.5,37,2096,Right,1,4,3,Medium/ Medium,9,"Jul 1, 2016",2022,5.1,154,38.1,71,71,80,79,72,77,82,83
+204529,M. Batshuayi,24,Belgium,80,84,Valencia CF,19.5,105,1881,Right,2,5,4,Medium/ Low,21,,"Jun 30, 2019",6.1,172,,80,78,76,75,76,62,78,80
+204399,E. Zahavi,30,Israel,80,80,Guangzhou R&F; FC,14.5,24,2006,Right,1,4,4,High/ Low,7,"Jul 1, 2016",2020,6,157,31.2,74,68,72,88,72,81,81,83
+204120,T. Vaclík,29,Czech Republic,80,81,Sevilla FC,11.5,17,1223,Right,1,3,1,Medium/ Medium,1,"Jul 4, 2018",2021,6.2,187,25,70,73,35,32,53,68,14,20
+203841,N. Pope,26,England,80,83,Burnley,13,48,1215,Right,1,3,1,Medium/ Medium,23,"Jul 20, 2016",2020,6.7,168,25.7,72,73,47,36,45,43,15,24
+203747,Héctor Bellerín,23,Spain,80,85,Arsenal,16.5,85,1990,Right,3,3,3,High/ Low,2,"Jul 1, 2014",2023,5.1,163,32.6,63,58,91,82,77,66,75,78
+203605,P. Kadeřábek,26,Czech Republic,80,81,TSG 1899 Hoffenheim,14,39,1987,Right,2,2,3,High/ Medium,2,"Jul 1, 2015",2023,6,179,24.9,69,79,78,66,66,68,76,77
+203042,J. Butland,25,England,80,85,Stoke City,14,39,1338,Right,2,3,1,Medium/ Medium,13,"Jan 31, 2013",2021,6.5,209,27.7,76,79,55,55,50,40,21,36
+202849,J. Vestergaard,25,Denmark,80,81,Southampton,14.5,51,1700,Right,2,4,2,Medium/ Medium,3,"Jul 13, 2018",2022,6.6,216,28.6,33,94,38,29,28,60,44,54
+202695,J. Tarkowski,25,England,80,83,Burnley,15.5,56,1858,Right,1,4,2,Medium/ Medium,5,"Feb 1, 2016",2022,6.4,179,30.6,82,81,63,58,57,66,66,70
+202477,Deulofeu,24,Spain,80,82,Watford,18.5,56,1926,Right,3,4,4,High/ Low,7,"Jun 11, 2018",2023,5.1,161,36.5,70,54,88,94,77,76,88,86
+202335,E. Dier,24,England,80,84,Tottenham Hotspur,16.5,73,2033,Right,2,3,2,Medium/ High,4,"Aug 2, 2014",2021,6.2,198,31.8,77,89,68,52,38,67,65,70
+201377,J. Murillo,26,Colombia,80,84,Valencia CF,16,38,1847,Right,2,2,2,Medium/ High,22,"Aug 18, 2018",2022,6,172,34.8,89,80,76,77,72,54,58,64
+201144,M. Badelj,29,Croatia,80,80,Lazio,11.5,53,2017,Right,2,4,3,Medium/ Medium,25,"Aug 1, 2018",2022,6.1,176,19.6,58,71,56,68,64,78,72,80
+201119,Ismaily,28,Brazil,80,80,Shakhtar Donetsk,11.5,1,2073,Left,1,2,4,High/ High,31,"Feb 14, 2013",2023,5.1,181,24.2,59,75,80,72,82,71,83,81
+200536,N. Schulz,25,Germany,80,81,TSG 1899 Hoffenheim,14.5,37,1988,Left,1,2,3,High/ Medium,16,"Jul 8, 2017",2020,5.11,172,25.7,60,76,86,76,73,67,79,78
+200458,L. Digne,24,France,80,84,Everton,16,79,2067,Left,2,3,4,High/ Medium,12,"Aug 1, 2018",2023,5.1,163,31.6,73,69,75,68,79,72,76,82
+200318,M. Uth,26,Germany,80,81,FC Schalke 04,17.5,42,1943,Left,1,3,3,Medium/ High,7,"Jul 1, 2018",2022,6.1,159,31.1,77,67,76,74,67,71,78,78
+200315,Cristian Tello,26,Spain,80,80,Real Betis,16,30,1940,Right,2,4,3,Medium/ Low,11,"Jul 1, 2017",2022,5.1,143,33.6,72,58,89,82,79,74,82,81
+199206,D. Vida,29,Croatia,80,80,Beşiktaş JK,11.5,55,1816,Right,3,3,2,Medium/ High,24,"Jan 3, 2018",2022,6,168,21.9,79,77,80,64,63,50,53,66
+199110,L. Muriel,27,Colombia,80,81,Sevilla FC,17.5,24,1909,Right,2,4,4,High/ Medium,14,"Jul 11, 2017",2022,5.1,174,38.1,62,80,89,85,80,73,85,83
+199069,V. Aboubakar,26,Cameroon,80,82,FC Porto,18,19,1994,Right,3,3,5,High/ Medium,9,"Aug 24, 2014",2021,6,181,37.4,78,85,83,72,63,81,81,80
+198784,A. Oxlade-Chamberlain,24,England,80,85,Liverpool,19.5,94,2125,Right,2,4,4,High/ High,21,"Aug 31, 2017",2022,5.9,154,38.5,69,72,85,81,88,81,84,84
+197853,S. Aurier,25,Ivory Coast,80,83,Tottenham Hotspur,15.5,82,2091,Right,2,3,3,High/ High,17,"Aug 31, 2017",2022,5.9,168,29.8,94,74,78,73,76,71,76,79
+197061,J. Matip,26,Cameroon,80,82,Liverpool,15,99,1846,Right,2,2,2,Medium/ Medium,32,"Jul 1, 2016",2020,6.4,198,29.6,66,77,69,55,47,72,65,69
+195861,Y. Rakitskyi,28,Ukraine,80,80,Shakhtar Donetsk,12,1,2113,Left,2,3,3,High/ Medium,44,"Aug 1, 2009",2022,6.1,183,25.2,74,84,72,68,73,75,69,73
+194879,Sergi Enrich,28,Spain,80,80,SD Eibar,15.5,34,1926,Right,2,4,3,High/ High,9,"Jul 12, 2015",2019,5.11,170,32.6,81,83,65,70,67,72,76,80
+194794,A. Yarmolenko,28,Ukraine,80,80,West Ham United,15,92,2022,Left,3,2,4,High/ Medium,20,"Jul 11, 2018",2022,6.3,183,28.5,61,76,76,73,67,78,86,83
+194229,Hugo Mallo,27,Spain,80,81,RC Celta,13.5,27,1905,Right,2,3,3,High/ Medium,2,"Jul 1, 2009",2023,5.9,159,29.4,82,69,71,77,66,64,69,80
+194022,André Almeida,27,Portugal,80,80,SL Benfica,12,15,2024,Right,2,3,3,Medium/ High,34,"Jul 1, 2011",2021,6.1,176,24,77,78,66,66,60,69,75,79
+193886,D. Didavi,28,Germany,80,80,VfB Stuttgart,15,44,2056,Left,2,3,3,Medium/ Medium,10,"Jul 1, 2018",2021,5.11,170,25.5,76,76,67,75,73,74,81,83
+193352,R. Rodríguez,25,Switzerland,80,83,Milan,15.5,81,2178,Left,3,3,4,Medium/ Medium,13,"Jul 1, 2017",2021,5.11,170,27.5,73,75,73,73,70,74,76,78
+193061,R. Pereyra,27,Argentina,80,80,Watford,15.5,65,2052,Right,2,4,4,High/ Medium,7,"Aug 19, 2016",2021,6,170,29.5,65,63,76,75,73,80,84,84
+192789,Mario Gaspar,27,Spain,80,80,Villarreal CF,12,35,2081,Right,2,3,3,High/ Medium,2,"Jul 1, 2008",2023,6,163,25.2,73,79,80,68,60,57,73,76
+191687,Maicon,29,Brazil,80,80,Galatasaray SK,11.5,63,1873,Right,2,3,2,Medium/ High,3,"Jul 1, 2017",2021,6.3,196,21.9,71,90,60,33,45,52,55,60
+190815,D. Blind,28,Netherlands,80,80,Ajax,12,22,2075,Left,3,4,3,Medium/ Medium,5,"Jul 17, 2018",2022,5.11,159,16.8,72,74,53,72,75,76,73,80
+190778,J. Zoet,27,Netherlands,80,83,PSV,12.5,16,1291,Right,2,4,1,Medium/ Medium,13,"Jul 1, 2009",2021,6.2,194,18.4,57,65,45,54,42,57,15,34
+190544,A. Ljajić,26,Serbia,80,81,Beşiktaş JK,17.5,52,1933,Right,2,4,4,High/ Low,22,,"Jun 30, 2019",6,163,,63,58,76,81,79,78,87,86
+190286,Canales,27,Spain,80,80,Real Betis,15.5,30,1875,Left,2,3,3,High/ Medium,6,"Jul 3, 2018",2022,5.11,163,32.6,36,56,62,69,69,82,81,80
+190264,Iago Falqué,28,Spain,80,80,Torino,15,59,1951,Left,3,3,4,High/ High,14,"Jan 4, 2017",2022,5.9,152,25.5,36,53,76,85,85,78,84,85
+189805,L. de Jong,27,Netherlands,80,80,PSV,16,23,1925,Right,2,3,2,Medium/ High,19,"Jul 12, 2014",2021,6.2,190,22.4,81,84,57,58,59,69,66,76
+189690,Guaita,31,Spain,80,80,Crystal Palace,9,48,1361,Right,2,3,1,Medium/ Medium,31,"Jul 1, 2018",2021,6.3,176,17.1,68,62,52,63,48,52,16,24
+189575,Muniain,25,Spain,80,83,Athletic Club de Bilbao,18.5,31,1977,Right,2,3,4,High/ Medium,10,"Aug 1, 2009",2024,5.7,139,40.2,73,46,75,88,94,77,86,83
+189354,Susaeta,30,Spain,80,80,Athletic Club de Bilbao,14,33,1971,Right,2,3,4,High/ Medium,14,"Jun 1, 2007",2019,5.1,150,29.4,65,58,71,81,74,84,85,84
+189251,S. Rudy,28,Germany,80,80,FC Schalke 04,12,37,2118,Right,2,3,3,Medium/ Medium,13,"Aug 27, 2018",2022,5.1,163,20.4,65,66,65,77,75,80,78,82
+188943,K. Trapp,27,Germany,80,81,Eintracht Frankfurt,11.5,61,1191,Right,2,4,1,Medium/ Medium,31,,"Jun 30, 2019",6.2,190,,75,73,52,42,37,46,10,24
+188942,V. Wanyama,27,Kenya,80,82,Tottenham Hotspur,14.5,86,2043,Right,2,3,2,Medium/ High,12,"Jul 1, 2016",2021,6,192,27.9,79,92,61,68,65,64,68,75
+188829,N. Nkoulou,28,Cameroon,80,80,Torino,12,50,1878,Right,3,3,3,Medium/ Medium,18,"Jul 1, 2018",2020,6,170,20.4,83,74,72,68,78,63,68,74
+188388,R. Boudebouz,28,Algeria,80,80,Real Betis,15,31,2004,Left,2,4,4,High/ Medium,10,"Aug 9, 2017",2021,5.1,163,31.5,61,61,73,78,78,85,81,80
+188005,Camacho,28,Spain,80,81,VfL Wolfsburg,13.5,51,2005,Right,2,3,2,Medium/ High,4,"Jul 8, 2017",2021,6,165,24,85,75,55,68,63,76,64,75
+186569,S. Ulreich,29,Germany,80,80,FC Bayern München,10,61,1137,Right,2,2,1,Medium/ Medium,26,"Jul 1, 2015",2021,6.4,185,16.5,66,41,40,34,39,42,13,22
+186547,M. Musacchio,27,Argentina,80,80,Milan,12.5,85,1892,Right,3,3,3,Medium/ Medium,22,"Jul 1, 2017",2021,5.11,161,21.3,83,76,71,73,68,64,65,67
+186537,C. Stuani,31,Uruguay,80,80,Girona FC,13.5,41,2018,Right,1,3,4,Medium/ Low,11,"Jul 21, 2017",2020,6.1,159,28.4,83,78,69,65,62,69,78,79
+185122,P. Gulácsi,28,Hungary,80,80,RB Leipzig,10.5,45,1223,Right,2,2,1,Medium/ Medium,1,"Jul 1, 2015",2022,6.4,190,17.9,67,68,44,41,50,36,19,25
+184120,Bruno,34,Spain,80,80,Villarreal CF,7,39,1967,Left,3,3,3,Medium/ High,21,"Jul 1, 2005",2020,6,161,14.7,58,72,31,49,60,85,74,78
+183427,F. Delph,28,England,80,80,Manchester City,11.5,120,2137,Left,2,3,3,High/ High,18,"Jul 17, 2015",2020,5.9,172,21.3,67,65,72,87,86,73,77,82
+180819,A. Lallana,30,England,80,80,Liverpool,13.5,110,2086,Right,3,5,4,High/ High,20,"Jul 1, 2014",2021,5.1,161,25.7,70,64,69,78,75,83,84,85
+180334,Marcelo,31,Brazil,80,80,Olympique Lyonnais,10,64,1792,Right,2,2,2,Low/ Medium,6,"Jul 17, 2017",2021,6.3,187,19,81,90,54,49,47,57,51,65
+180216,S. Coleman,29,Republic of Ireland,80,80,Everton,11,97,2065,Right,2,3,3,High/ High,2,"Feb 4, 2009",2022,5.1,148,20.9,71,69,75,73,74,70,79,78
+180175,Alexandre Pato,28,Brazil,80,80,Tianjin Quanjian FC,15.5,35,1944,Right,3,3,4,High/ Low,10,"Sep 28, 2017",2019,5.11,179,33.3,78,72,85,83,69,66,81,80
+178424,Antunes,31,Portugal,80,80,Getafe CF,9.5,27,2149,Left,2,3,3,High/ Medium,3,"Jul 2, 2018",2020,5.9,152,20,63,68,79,76,76,66,74,80
+177604,Nacho Monreal,32,Spain,80,80,Arsenal,8,99,2011,Left,2,3,3,High/ Medium,18,"Jan 31, 2013",2019,5.1,159,15.2,74,65,67,70,73,66,73,77
+177600,Beñat,31,Spain,80,80,Athletic Club de Bilbao,12.5,30,2071,Right,2,3,3,Medium/ Medium,7,"Jun 26, 2013",2020,5.1,168,26.3,59,70,41,70,73,84,72,80
+176915,A. Fernández,32,Argentina,80,80,Beijing Renhe FC,11,20,2068,Right,2,3,4,Medium/ Medium,8,"Jan 31, 2018",2019,5.1,161,23.7,59,73,71,75,79,81,78,81
+176600,K. Gameiro,31,France,80,80,Valencia CF,13.5,45,2037,Right,3,3,3,Medium/ Medium,9,"Aug 13, 2018",2021,5.8,154,28.4,85,64,85,81,77,75,75,79
+176376,I. Piatti,33,Argentina,80,80,Montreal Impact,9,13,2074,Right,2,4,5,High/ Medium,10,"Aug 15, 2014",2020,5.11,168,13.5,31,73,76,87,81,77,86,84
+176104,V. Birsa,31,Slovenia,80,80,Chievo Verona,13,23,2015,Left,2,4,4,Medium/ Medium,10,"Jul 3, 2015",2021,6,179,22.1,68,77,74,68,68,82,84,86
+173373,S. Romero,31,Argentina,80,80,Manchester United,9,91,1251,Right,3,3,1,Medium/ Medium,1,"Jul 27, 2015",2021,6.4,192,16.7,63,75,44,52,44,55,12,40
+173208,D. Criscito,31,Italy,80,80,Genoa,10,21,2123,Left,2,3,3,Medium/ Medium,4,"Jul 1, 2018",2023,6,165,17,80,73,77,68,65,75,72,73
+172114,D. Valeri,32,Argentina,80,80,Portland Timbers,11.5,12,2009,Right,2,3,3,High/ Medium,8,"Jan 10, 2013",2018,5.1,165,17.3,68,63,60,72,73,82,78,82
+171833,D. Sturridge,28,England,80,80,Liverpool,15.5,125,1837,Left,3,2,4,Medium/ Low,15,"Jan 2, 2013",2019,5.11,168,29.5,70,66,78,74,64,74,79,80
+171579,Raúl García,31,Spain,80,80,Athletic Club de Bilbao,13,30,2165,Right,2,3,4,High/ Medium,22,"Aug 31, 2015",2020,6,185,27.3,76,82,57,66,64,83,78,85
+170815,S. Defour,30,Belgium,80,80,Burnley,13.5,65,2138,Right,2,3,3,Medium/ Medium,16,"Aug 16, 2016",2019,5.9,159,25.7,70,68,62,71,79,80,78,80
+166706,M. Škrtel,33,Slovakia,80,80,Fenerbahçe SK,6,68,1640,Right,3,2,2,Medium/ High,37,"Jul 15, 2016",2019,6.3,179,11.4,73,86,62,49,52,28,46,57
+165109,S. Radu,31,Romania,80,80,Lazio,10,51,1964,Left,2,3,3,Medium/ High,26,"Jan 1, 2008",2020,6,174,17,65,74,68,70,67,60,66,69
+164468,G. Cahill,32,England,80,80,Chelsea,8.5,99,1754,Right,3,3,2,Medium/ Medium,24,"Jan 16, 2012",2019,6.4,194,15.7,80,79,48,51,47,56,56,61
+163711,L. Diarra,33,France,80,80,Paris Saint-Germain,6,75,1968,Right,3,3,3,Medium/ High,19,"Jan 23, 2018",2019,5.9,163,11.1,76,68,69,79,87,73,73,80
+159147,L. Perrin,32,France,80,80,AS Saint-Étienne,8.5,37,1977,Right,2,3,2,Medium/ High,24,"Jul 1, 2003",2020,5.11,176,16.2,81,78,63,63,72,63,62,73
+158625,Dante,34,Brazil,80,80,OGC Nice,4.5,37,1820,Left,3,4,2,Medium/ High,31,"Aug 23, 2016",2019,6.2,187,8.5,65,81,41,52,64,62,57,74
+156713,A. Granqvist,33,Sweden,80,80,,0,0,1797,Right,2,4,2,High/ Medium,4,,,6.4,185,,64,83,49,55,36,49,49,63
+153244,A. Gignac,32,France,80,80,Tigres U.A.N.L.,12,70,1992,Right,3,3,3,Medium/ Medium,10,"Jun 18, 2015",2019,6.2,201,19.2,72,89,68,66,55,72,73,73
+150418,M. Gómez,32,Germany,80,80,VfB Stuttgart,12,46,1806,Right,3,4,3,High/ Medium,27,"Jan 1, 2018",2020,6.2,196,20.4,76,86,66,62,50,62,72,71
+148119,I. Akinfeev,32,Russia,80,80,PFC CSKA Moscow,8.5,1,1208,Right,3,3,1,Medium/ Medium,1,"Jan 1, 2002",2022,6.1,172,18.7,62,72,50,53,45,59,15,22
+147782,I. Denisov,34,Russia,80,80,Lokomotiv Moscow,4.5,1,2044,Right,2,3,3,Medium/ High,27,"Aug 15, 2013",2019,5.9,154,9.4,70,64,65,77,76,72,73,78
+146760,Juanfran,33,Spain,80,80,Atlético Madrid,5.5,53,2053,Right,3,3,3,High/ Medium,20,"Jan 1, 2011",2019,5.11,157,11.3,68,74,86,74,63,72,75,78
+146748,Diego López,36,Spain,80,80,RCD Espanyol,2,17,1188,Right,3,3,1,Medium/ Medium,13,"Jul 1, 2017",2020,6.5,196,4.2,68,66,52,48,47,53,11,23
+146562,Santi Cazorla,33,Spain,80,80,Villarreal CF,8.5,39,2025,Right,3,5,5,High/ Low,19,"Aug 6, 2018",2019,5.6,146,17.9,53,54,52,72,84,86,84,86
+146536,Jesús Navas,32,Spain,80,80,Sevilla FC,11.5,22,2048,Right,2,2,3,Medium/ Medium,16,"Jul 28, 2017",2021,5.7,132,24.2,65,35,88,87,87,73,80,80
+142754,J. Mascherano,34,Argentina,80,80,Hebei China Fortune FC,4.5,20,1973,Right,4,3,2,Low/ High,14,"Jan 26, 2018",2019,5.9,161,9.7,80,72,62,72,78,68,58,80
+140293,A. Mirante,34,Italy,80,80,Roma,6,51,1199,Right,2,2,1,Medium/ Medium,83,"Jul 1, 2018",2021,6.4,174,10.2,62,55,43,50,50,43,24,25
+139997,D. Srna,36,Croatia,80,80,Cagliari,1.7,27,2204,Right,3,4,3,High/ High,33,"Aug 22, 2018",2019,5.1,172,2.9,67,72,76,71,65,86,72,83
+121944,B. Schweinsteiger,33,Germany,80,80,Chicago Fire,6,11,2093,Right,4,3,3,Medium/ Medium,31,"Mar 21, 2017",2019,6,174,8.7,71,75,37,61,63,81,71,78
+110677,Moyá,34,Spain,80,80,Real Sociedad,6,26,1187,Right,2,2,1,Medium/ Medium,13,"Feb 27, 2018",2020,6.2,183,12.6,62,57,34,54,49,68,13,24
+54050,W. Rooney,32,England,80,80,DC United,12,13,2126,Right,4,4,3,Medium/ High,9,"Jul 10, 2018",2021,5.9,183,18,74,78,65,66,77,82,74,80
+49369,Fernando Torres,34,Spain,80,80,Sagan Tosu,8,10,1885,Right,3,4,3,Medium/ Medium,9,"Jul 16, 2018",2019,6.1,174,10,75,72,78,70,51,76,80,79
+49031,S. Sorrentino,39,Italy,80,80,Chievo Verona,1,10,1178,Right,2,3,1,Medium/ Medium,70,"Jul 6, 2016",2022,6.1,187,1.7,74,74,40,52,48,34,14,20
+244369,V. Tsygankov,20,Ukraine,79,86,Dynamo Kyiv,18,1,1919,Left,1,4,4,High/ Medium,15,"Jan 1, 2015",2023,5.1,152,41.4,50,47,83,77,73,80,80,81
+239818,Rúben Dias,21,Portugal,79,85,SL Benfica,15,10,1641,Right,1,4,2,Medium/ High,6,"Jul 1, 2015",2023,6.1,181,33,76,78,64,47,56,34,54,60
+236632,David Neres,21,Brazil,79,86,Ajax,18,18,1884,Left,2,3,5,High/ Medium,7,"Feb 1, 2017",2022,5.9,146,28.8,58,63,86,91,84,78,87,84
+233419,Raphinha,21,Brazil,79,86,Sporting CP,18,13,2018,Left,1,3,4,High/ Medium,21,"Jul 1, 2018",2022,5.9,150,39.6,70,65,86,86,82,73,81,80
+232097,A. Harit,21,Morocco,79,86,FC Schalke 04,18,27,1870,Right,2,4,5,High/ Medium,25,"Jul 10, 2017",2021,5.11,148,34.2,57,32,77,90,83,77,86,84
+231943,Richarlison,21,Brazil,79,86,Everton,18,79,2009,Right,1,5,4,High/ High,30,"Jul 24, 2018",2023,5.11,154,37.8,80,76,85,78,74,72,84,79
+231478,L. Martínez,20,Argentina,79,86,Inter,18,54,1892,Right,1,4,4,High/ Medium,18,"Jul 5, 2018",2023,5.9,174,34.2,81,86,83,79,70,72,78,79
+230938,F. Kessié,21,Ivory Coast,79,88,Milan,19.5,24,2149,Right,2,4,3,High/ High,14,,"Jun 30, 2019",6,168,,79,87,77,68,79,71,78,79
+230498,Luimo Boas Santos,30,Brazil,79,79,Santos,12,26,1895,Right,1,4,4,High/ Medium,11,"Jan 1, 2018",2021,5.9,161,22.8,82,67,82,83,69,75,82,78
+230312,Gabri Prestão,26,Brazil,79,79,Internacional,9,24,1153,Right,1,3,1,Medium/ Medium,12,"Jan 1, 2018",2021,6.1,176,17.1,60,60,62,66,43,60,18,20
+230251,Melvin Parrela,30,Brazil,79,79,América FC (Minas Gerais),9.5,20,2099,Right,1,3,2,Medium/ Medium,14,"Jan 1, 2018",2021,6.2,194,18.1,71,82,78,67,69,72,72,74
+230212,Antônio Chiamuloira,30,Brazil,79,79,Internacional,9.5,30,1813,Left,1,3,2,Medium/ Medium,15,"Jan 1, 2018",2018,6,174,18.1,88,81,72,49,49,47,44,62
+230201,Maikel Catarino,34,Brazil,79,79,Atlético Mineiro,3.6,38,1953,Right,1,3,3,High/ Medium,2,"Jan 1, 2018",2021,5.1,165,6.8,51,62,76,82,75,61,78,77
+229909,A. Lunev,26,Russia,79,81,,0,0,1217,Right,1,3,1,Medium/ Medium,12,,,6.2,176,,60,70,54,36,50,63,15,17
+228941,André Silva,22,Portugal,79,87,Sevilla FC,19,84,1957,Right,2,3,4,High/ Medium,23,,"Jun 30, 2019",6.1,174,,84,74,83,77,72,68,77,79
+227796,C. Pulisic,19,United States,79,87,Borussia Dortmund,18,26,1925,Right,3,4,4,Medium/ Medium,10,"Jan 5, 2016",2020,5.1,152,34.2,84,52,88,87,89,78,87,82
+227290,M. Dmitrović,26,Serbia,79,80,SD Eibar,10,21,1210,Left,1,2,1,Medium/ Medium,1,"Jul 1, 2017",2021,6.4,198,21.8,45,79,35,32,37,45,8,9
+227234,L. Tousart,21,France,79,84,Olympique Lyonnais,14.5,43,1949,Right,2,3,3,Medium/ High,29,"Aug 31, 2015",2023,6.1,183,28.6,81,82,69,64,68,67,69,73
+226161,Marcos Llorente,23,Spain,79,87,Real Madrid,16,110,1869,Right,1,3,3,Medium/ Medium,18,"Nov 28, 2014",2021,6,161,36,66,72,59,58,66,76,68,78
+225997,B. Verbič,24,Slovenia,79,81,Dynamo Kyiv,15.5,1,1978,Right,1,3,4,High/ Medium,21,"Jan 1, 2018",2023,5.1,154,33.7,72,72,81,78,81,75,81,80
+225953,S. Bergwijn,20,Netherlands,79,86,PSV,18,17,1930,Right,1,2,4,Medium/ Medium,22,"Jul 1, 2014",2022,5.1,172,28.8,71,76,88,78,89,73,87,83
+225711,A. Diallo,22,France,79,86,Borussia Dortmund,15,43,1876,Left,2,3,3,High/ Medium,4,"Jul 1, 2018",2023,6.1,174,28.5,84,78,77,75,69,68,73,76
+225663,A. Golovin,22,Russia,79,85,AS Monaco,17,61,2107,Right,1,4,4,High/ High,17,"Jul 27, 2018",2023,5.11,152,35.7,63,54,83,82,78,78,86,82
+225647,M. Campaña,29,Uruguay,79,80,Independiente,10,21,1243,Right,1,3,1,Medium/ Medium,25,"Jan 1, 2017",2021,6.1,165,14.8,60,81,48,40,44,55,18,29
+224254,C. Pavón,22,Argentina,79,85,Boca Juniors,17.5,27,2030,Right,1,3,3,High/ Medium,7,"Jul 14, 2014",2022,5.9,172,28,61,73,90,92,85,77,79,76
+224069,K. Toko-Ekambi,25,Cameroon,79,80,Villarreal CF,15,38,1878,Right,2,4,3,High/ Medium,7,"Jul 2, 2018",2023,6.1,163,32.6,71,77,83,79,75,65,80,80
+223682,Granell,29,Spain,79,79,Girona FC,12,37,2052,Left,1,4,3,Medium/ Medium,6,"Jul 1, 2014",2021,5.9,154,25.2,66,64,60,71,77,78,76,80
+223061,F. Cervi,24,Argentina,79,84,SL Benfica,17,15,1996,Left,2,3,5,High/ High,11,"Jan 4, 2016",2023,5.5,137,35.3,60,33,90,91,91,72,85,84
+222028,J. Weigl,22,Germany,79,84,Borussia Dortmund,14.5,43,1918,Right,3,3,3,Medium/ Medium,33,"Jul 1, 2015",2021,6.1,159,25.7,67,63,59,77,65,77,74,79
+221660,V. Lindelöf,23,Sweden,79,85,Manchester United,14.5,91,1943,Right,2,3,3,Medium/ Medium,3,"Jul 1, 2017",2021,6.2,176,29.7,75,77,77,66,63,67,66,75
+220018,A. Rebić,24,Croatia,79,82,Eintracht Frankfurt,16,39,1987,Right,1,3,3,High/ Medium,4,"Dec 20, 2017",2022,6.1,172,28.4,66,83,86,75,66,68,83,79
+219932,A. Sanabria,22,Paraguay,79,85,Real Betis,17.5,27,1894,Right,1,4,4,High/ Medium,11,"Jul 15, 2016",2021,5.11,163,40.3,75,76,79,78,75,73,82,83
+219576,R. Battaglia,26,Argentina,79,80,Sporting CP,14.5,17,2030,Right,1,4,3,Medium/ Medium,16,"Jul 1, 2017",2023,6.2,174,30.1,74,78,69,60,61,73,74,76
+216497,M. Philipp,24,Germany,79,84,Borussia Dortmund,17,53,1974,Right,2,4,4,High/ Medium,20,"Jul 1, 2017",2022,6,174,30.2,59,68,79,83,75,74,85,82
+216388,A. Saint-Maximin,21,France,79,86,OGC Nice,18,31,1823,Right,2,4,4,High/ Low,7,"Aug 7, 2017",2020,5.8,148,37.8,68,66,92,93,87,70,87,81
+216150,D. Zappacosta,26,Italy,79,81,Chelsea,12.5,94,2069,Right,2,3,3,High/ High,21,"Aug 31, 2017",2021,6,159,24.1,67,68,79,72,73,64,76,74
+215353,L. Alario,25,Argentina,79,82,Bayer 04 Leverkusen,16,67,1834,Right,2,3,3,High/ Medium,13,"Aug 31, 2017",2022,6,172,28.4,90,78,73,72,71,65,75,79
+215061,D. Benedetto,28,Argentina,79,79,Boca Juniors,13,32,1955,Right,2,5,3,High/ Low,9,"Jul 1, 2016",2021,5.1,176,18.2,87,76,84,77,71,69,71,74
+215057,I. Marcone,28,Argentina,79,80,Cruz Azul,11.5,31,1915,Right,1,3,3,Medium/ High,23,"Jul 1, 2018",2023,6,183,20.4,35,85,34,60,57,69,69,73
+214947,J. Gbamin,22,Ivory Coast,79,84,1. FSV Mainz 05,14.5,26,2037,Right,1,3,3,Medium/ High,25,"Jul 13, 2016",2023,6.1,183,27.2,77,83,85,68,66,72,74,76
+213991,J. Lerma,23,Colombia,79,84,Bournemouth,14.5,55,2096,Right,1,4,3,Medium/ High,8,"Aug 7, 2018",2023,5.1,154,28.6,84,76,76,75,76,68,69,77
+213516,Ricardo Horta,23,Portugal,79,84,SC Braga,17,16,1983,Right,1,4,3,High/ Medium,21,"Jul 19, 2017",2022,5.8,139,35.3,62,45,75,85,85,76,80,81
+213160,R. Zobnin,24,Russia,79,86,Spartak Moscow,15,1,2056,Right,1,3,4,High/ High,8,"Jul 1, 2016",2021,6,165,34.5,63,63,78,70,65,72,82,82
+212150,M. Meyer,22,Germany,79,83,Crystal Palace,16,53,2018,Right,2,4,4,Medium/ Medium,7,"Aug 3, 2018",2021,5.8,150,31.6,60,52,60,89,90,80,84,82
+211368,Bruma,23,Portugal,79,83,RB Leipzig,16.5,48,1957,Right,2,4,4,High/ Medium,18,"Jul 1, 2017",2022,5.8,154,29.3,73,54,89,93,90,70,87,83
+211267,R. Centurión,25,Argentina,79,81,Racing Club,15.5,25,1935,Right,1,3,4,High/ Medium,10,"Jan 22, 2018",2021,5.9,163,24.4,60,53,89,89,88,76,86,80
+210455,Jonny,24,Spain,79,83,Wolverhampton Wanderers,13.5,43,1928,Right,2,3,3,High/ High,19,,"Jun 30, 2019",5.7,154,,75,64,78,72,78,55,73,76
+210411,Otávio,23,Brazil,79,85,FC Porto,17.5,15,1963,Right,1,3,4,Medium/ Medium,25,"Sep 1, 2014",2021,5.8,157,38.5,57,54,74,86,82,79,84,83
+210324,J. Hofmann,25,Germany,79,80,Borussia Mönchengladbach,15,32,1913,Right,2,4,3,Medium/ Medium,23,"Jan 1, 2016",2020,5.9,154,26.6,61,56,76,78,77,77,80,79
+208920,N. Aké,23,Netherlands,79,84,Bournemouth,14.5,55,1969,Left,1,3,2,Medium/ High,15,"Jun 30, 2017",2022,5.11,165,28.6,86,75,74,68,69,65,67,73
+208334,J. Hector,28,Germany,79,79,1. FC Köln,10,26,2049,Left,3,3,3,Medium/ Medium,3,"Feb 25, 2012",2023,6.1,165,15,66,76,77,67,67,72,74,77
+207993,S. Kolašinac,25,Bosnia Herzegovina,79,82,Arsenal,13,89,1937,Left,2,2,3,Medium/ High,31,"Jul 1, 2017",2022,6,187,25.7,76,90,75,49,55,60,73,74
+207939,G. Pizarro,28,Argentina,79,79,Tigres U.A.N.L.,10,58,1995,Right,1,3,3,Medium/ High,19,"Jul 2, 2018",2021,6.1,163,16,74,80,53,62,44,71,70,76
+207732,Roger,27,Spain,79,80,Levante UD,14.5,32,1933,Right,2,3,3,High/ Medium,9,"Jul 1, 2011",2023,5.1,163,31.5,75,74,79,78,78,65,76,76
+206652,Sergio Rico,24,Spain,79,83,Fulham,11.5,13,1204,Right,2,3,1,Medium/ Medium,25,,"Jun 30, 2019",6.4,194,,63,54,46,62,43,53,14,12
+206304,L. Milivojević,27,Serbia,79,81,Crystal Palace,12.5,56,2045,Right,1,2,2,Medium/ High,4,"Feb 1, 2017",2020,6.1,176,24.7,62,82,59,58,58,73,62,74
+205407,D. Baselli,26,Italy,79,82,Torino,15.5,49,2097,Right,2,3,4,High/ Medium,8,"Jul 10, 2015",2020,6,154,27.5,69,67,69,79,75,80,80,83
+205193,K. Rekik,23,Netherlands,79,83,Hertha BSC,14,26,1781,Left,1,2,2,Medium/ High,4,"Jul 1, 2017",2021,6.1,174,24.9,77,80,69,65,64,57,57,67
+205192,Denis Suárez,24,Spain,79,86,FC Barcelona,17.5,120,2016,Right,2,3,3,Medium/ Medium,6,"Jul 4, 2016",2020,5.9,152,39.4,58,57,77,82,76,81,83,84
+204638,W. Orban,25,Hungary,79,81,RB Leipzig,13,48,1642,Right,2,3,2,Medium/ High,6,"Jul 1, 2015",2022,6.1,183,23.1,90,85,53,48,56,42,53,58
+204614,Mário Rui,27,Portugal,79,80,Napoli,11.5,60,2066,Left,2,3,3,High/ Medium,19,"Jan 6, 2018",2022,5.7,148,20.4,92,54,83,88,89,64,79,76
+204525,Iñigo Martínez,27,Spain,79,80,Athletic Club de Bilbao,12,26,1943,Left,2,2,2,Medium/ Medium,4,"Jan 30, 2018",2023,6,170,26.1,90,78,74,67,64,46,53,68
+204311,K. Zouma,23,France,79,83,Everton,14,80,1856,Right,2,3,2,Medium/ Medium,22,,"Jun 30, 2019",6.3,212,,89,91,70,45,52,59,50,63
+204277,Roque Mesa,29,Spain,79,79,Sevilla FC,10,20,1968,Right,2,3,3,High/ High,7,"Jul 2, 2018",2021,5.7,163,21,77,69,75,76,89,74,74,79
+204082,J. Brooks,25,United States,79,84,VfL Wolfsburg,14,44,1714,Left,2,3,2,Medium/ Medium,6,"Jul 1, 2017",2022,6.4,172,24.9,72,84,76,57,51,57,65,64
+203775,L. Karius,25,Germany,79,83,Beşiktaş JK,11.5,71,1228,Right,2,3,1,Medium/ Medium,1,,"May 31, 2020",6.2,192,,74,64,54,51,43,50,16,23
+203757,Zé Luís,27,Cape Verde,79,80,Spartak Moscow,14.5,1,1892,Left,1,4,4,Medium/ Medium,9,"Jul 7, 2015",2021,6,194,31.5,92,83,81,64,61,75,80,81
+203483,D. Klaassen,25,Netherlands,79,81,SV Werder Bremen,15,32,2063,Right,2,3,3,High/ High,30,"Jul 27, 2018",2022,5.1,154,26.6,72,69,64,67,64,78,72,80
+203362,M. Elyounoussi,23,Norway,79,85,Southampton,17.5,48,1972,Right,1,4,4,High/ Medium,13,"Jun 29, 2018",2023,5.1,154,36.8,81,62,78,84,82,73,80,78
+203106,L. Bittencourt,24,Germany,79,82,TSG 1899 Hoffenheim,16,35,2026,Right,2,4,4,High/ Medium,13,"Jul 1, 2018",2023,5.7,137,28.4,72,48,79,92,90,75,84,80
+202648,Sergi Darder,24,Spain,79,83,RCD Espanyol,16,29,1937,Right,2,3,4,Medium/ Low,10,"Jul 10, 2018",2023,5.11,157,34.8,48,68,45,75,77,83,76,81
+202562,J. Roussillon,25,France,79,84,VfL Wolfsburg,14,44,2093,Left,2,3,3,High/ Medium,15,"Aug 6, 2018",2022,5.9,176,24.9,73,77,85,77,78,71,77,77
+202325,D. Demme,26,Germany,79,80,RB Leipzig,12,50,1982,Right,1,4,3,Medium/ High,31,"Jan 8, 2014",2021,5.7,150,21.3,79,67,53,88,85,70,73,77
+202201,J. Gouweleeuw,26,Netherlands,79,80,FC Augsburg,12,28,1921,Right,1,3,2,High/ Medium,6,"Jan 9, 2016",2022,6.2,172,21.3,68,78,69,65,61,71,60,66
+201862,M. Rojo,28,Argentina,79,79,Manchester United,10,115,1998,Left,3,2,3,Medium/ High,16,"Aug 20, 2014",2021,6.2,176,18.5,82,77,69,68,63,57,64,67
+201519,J. Veretout,25,France,79,84,Fiorentina,16.5,59,2101,Right,1,3,3,Medium/ High,17,"Jul 25, 2017",2021,5.9,148,29.3,69,68,66,76,76,78,76,79
+201510,L. Kurzawa,25,France,79,82,Paris Saint-Germain,13,68,2110,Left,2,3,4,High/ Low,20,"Aug 27, 2015",2020,6,168,25,82,72,74,75,72,75,76,80
+201508,G. Ramírez,27,Uruguay,79,79,Sampdoria,13,41,1945,Left,2,3,4,Medium/ Low,11,"Aug 4, 2017",2020,6,170,22.1,66,53,69,78,73,80,80,81
+201505,David López,28,Spain,79,79,RCD Espanyol,10,32,1917,Right,1,3,2,Medium/ High,15,"Aug 26, 2016",2023,6,179,21,74,84,59,51,55,68,64,76
+201325,C. Tătăruşanu,32,Romania,79,79,FC Nantes,7,23,1228,Right,2,3,1,Medium/ Medium,12,"Jul 27, 2017",2019,6.5,190,13.3,63,73,47,59,42,48,16,19
+201143,A. Mandi,26,Algeria,79,82,Real Betis,13,26,1942,Right,1,3,2,High/ Medium,23,"Jul 1, 2016",2021,6,172,28.3,82,74,66,77,65,68,64,73
+201042,D. Sidibé,25,France,79,80,AS Monaco,12,61,2085,Right,2,4,3,High/ High,19,"Jul 9, 2016",2022,6,179,23.7,83,75,79,70,69,69,77,78
+200641,Y. Konoplyanka,28,Ukraine,79,79,FC Schalke 04,12.5,41,1935,Right,2,3,4,Medium/ Medium,11,"Aug 30, 2016",2020,5.1,172,21.3,62,63,79,83,78,74,82,81
+200260,S. Berghuis,26,Netherlands,79,80,Feyenoord,15,20,1953,Left,2,3,3,Medium/ Medium,19,"Jul 31, 2017",2021,6,159,22.1,53,58,75,82,70,76,82,82
+200155,H. Vanaken,25,Belgium,79,81,Club Brugge KV,15.5,27,1975,Right,1,5,4,High/ High,18,"Jul 1, 2015",2020,6.5,176,24.4,47,76,55,56,58,83,77,83
+199823,Campaña,25,Spain,79,82,Levante UD,15.5,28,2065,Right,1,3,3,Medium/ Medium,24,"Aug 15, 2016",2020,5.1,154,33.7,57,73,61,67,75,80,77,81
+199767,M. van Ginkel,25,Netherlands,79,80,Chelsea,14.5,98,2102,Right,2,4,3,High/ High,26,"Jul 5, 2013",2020,6.1,181,27.9,74,71,69,71,59,77,75,80
+199561,Nolito,31,Spain,79,79,Sevilla FC,11,21,2012,Right,3,3,4,High/ Low,8,"Jul 16, 2017",2020,5.9,159,23.1,66,63,70,82,81,79,80,80
+199439,M. Gregoritsch,24,Austria,79,82,FC Augsburg,16,27,1906,Left,2,3,4,High/ Low,11,"Jul 5, 2017",2022,6.4,192,28.4,50,79,68,67,52,73,75,78
+199416,Ibai Gómez,28,Spain,79,79,Deportivo Alavés,12.5,31,2084,Right,1,4,3,High/ Medium,11,"Jul 30, 2016",2019,5.1,159,26.3,66,66,77,79,78,80,82,81
+199304,Danilo,26,Brazil,79,80,Manchester City,12,110,2128,Right,2,4,3,High/ Medium,3,"Jul 23, 2017",2022,6,172,23.1,74,76,76,70,65,64,73,79
+199189,R. Barkley,24,England,79,82,Chelsea,16,89,1980,Right,2,5,4,Medium/ Medium,15,"Jan 5, 2018",2023,6.1,192,30.8,62,77,70,66,58,79,85,84
+199005,M. Ryan,26,Australia,79,81,Brighton & Hove Albion,10.5,41,1341,Right,1,4,1,Medium/ Medium,1,"Jul 1, 2017",2022,6,181,20.7,78,68,52,53,50,68,13,24
+198715,Sergio León,29,Spain,79,79,Real Betis,12.5,32,1917,Right,2,4,4,High/ Medium,7,"Jul 1, 2017",2021,5.1,161,26.3,77,68,75,81,75,61,77,78
+198200,B. Stambouli,27,France,79,79,FC Schalke 04,10.5,33,1923,Right,2,4,2,Low/ High,17,"Aug 26, 2016",2020,5.11,181,17.9,73,76,63,67,65,74,66,76
+198118,J. Guilavogui,27,France,79,80,VfL Wolfsburg,12,46,1965,Right,2,3,2,Medium/ High,23,"May 17, 2016",2020,6.2,170,21.3,76,82,72,53,50,65,67,73
+198031,Sérgio Oliveira,26,Portugal,79,82,FC Porto,15.5,17,2049,Right,1,3,3,Medium/ Medium,27,"Jul 1, 2015",2021,5.11,159,32.2,56,65,56,66,67,81,77,80
+197083,D. Caligiuri,30,Italy,79,79,FC Schalke 04,9,33,2162,Right,2,4,3,Medium/ Medium,18,"Jan 25, 2017",2020,6,176,15.3,76,70,78,76,74,77,81,80
+196978,C. Wilson,26,England,79,81,Bournemouth,15.5,77,1902,Right,1,3,4,High/ Medium,13,"Jul 4, 2014",2022,5.11,146,30.6,65,75,89,74,74,71,74,77
+194957,P. Jones,26,England,79,80,Manchester United,12,110,1827,Right,2,3,2,Medium/ High,4,"Jul 1, 2011",2019,6.1,157,23.1,82,79,59,52,59,54,59,64
+194761,Borja García,27,Spain,79,79,Girona FC,13,35,2011,Right,1,3,3,High/ Medium,10,"Aug 26, 2015",2022,5.9,159,27.3,72,67,77,75,77,79,80,81
+193738,Y. Belhanda,28,Morocco,79,79,Galatasaray SK,12.5,65,2128,Right,2,4,4,Medium/ Medium,10,"Jul 4, 2017",2021,5.1,165,23.8,77,63,72,85,78,78,84,83
+193601,G. Pezzella,27,Argentina,79,81,Fiorentina,12.5,56,1667,Right,1,3,2,Medium/ Medium,20,"Jul 1, 2018",2022,6.1,179,22.2,84,77,52,34,48,22,54,66
+193171,Jaume Costa,30,Spain,79,79,Villarreal CF,9,34,2028,Left,1,3,3,High/ High,11,"Jul 1, 2010",2021,5.7,137,18.9,73,63,81,76,78,57,69,78
+192991,C. Tosun,27,Turkey,79,80,Everton,14.5,105,1951,Right,2,4,3,High/ Medium,9,"Jan 5, 2018",2022,6,172,28.6,80,74,75,73,66,61,75,78
+192679,Escudero,28,Spain,79,79,Sevilla FC,10,20,2075,Left,1,2,3,High/ Medium,18,"Jul 3, 2015",2021,5.9,159,21,74,69,77,74,77,56,68,75
+192678,Kike García,28,Spain,79,79,SD Eibar,13,32,1829,Right,1,4,3,Medium/ Medium,17,"Feb 3, 2016",2021,6.1,174,27.3,74,79,71,65,54,65,75,80
+192598,Elkeson,28,Brazil,79,79,Shanghai SIPG FC,13,25,2058,Right,2,4,4,High/ Medium,9,"Jan 21, 2016",2020,5.11,170,28.6,76,77,76,77,74,78,76,77
+192064,Ricardo Goulart,27,Brazil,79,80,Guangzhou Evergrande Taobao FC,14.5,25,1975,Right,2,4,4,High/ Medium,11,"Jan 13, 2015",2020,5.11,176,33,66,65,77,72,80,77,78,81
+191076,J. Guðmundsson,27,Iceland,79,79,Burnley,13,61,2084,Left,1,4,4,High/ High,7,"Jul 20, 2016",2021,5.1,170,24.7,78,70,77,76,76,79,81,79
+190456,N. Clyne,27,England,79,80,Liverpool,11.5,94,2016,Right,2,2,3,High/ Medium,2,"Jul 1, 2015",2020,5.9,148,22.7,69,67,78,79,75,64,76,78
+190243,M. Hitz,30,Switzerland,79,79,Borussia Dortmund,8,41,1183,Right,2,3,1,Medium/ Medium,35,"Jul 1, 2018",2021,6.4,196,13.6,67,78,46,41,31,15,13,17
+190149,De Marcos,29,Spain,79,79,Athletic Club de Bilbao,9.5,27,2073,Right,2,3,4,High/ Medium,18,"Jul 1, 2009",2019,6,176,20,78,73,89,76,74,66,75,78
+189682,B. Mee,28,England,79,79,Burnley,10,58,1799,Left,1,3,2,Medium/ High,6,"Jan 17, 2012",2019,6,181,19,93,82,63,63,70,60,63,65
+189681,Rafael,27,Brazil,79,79,Olympique Lyonnais,10.5,60,2108,Right,2,3,4,High/ Medium,4,"Aug 3, 2015",2019,5.8,172,20,82,73,78,79,83,72,80,78
+189560,Iborra,30,Spain,79,79,Leicester City,9.5,66,1975,Right,2,4,3,Medium/ Medium,21,"Jul 6, 2017",2021,6.3,201,18.1,64,84,35,51,31,77,70,81
+189461,J. Wilshere,26,England,79,81,West Ham United,15,83,2050,Left,3,2,3,Medium/ Medium,19,"Jul 9, 2018",2021,5.8,150,29.6,66,60,63,76,83,81,81,82
+189433,B. Hübner,28,Germany,79,79,TSG 1899 Hoffenheim,10,39,1659,Left,2,2,2,Medium/ Medium,21,"Jul 1, 2016",2021,6.4,190,17,61,79,55,45,48,51,58,63
+189423,Souza,29,Brazil,79,79,Al Ahli,10,44,2043,Right,2,4,3,Medium/ Medium,6,"Aug 23, 2018",2021,6.2,176,17,65,83,71,69,66,67,71,78
+189271,F. Coquelin,27,France,79,80,Valencia CF,12,36,2002,Right,2,3,3,Medium/ High,17,"Jan 11, 2018",2022,5.1,163,26.1,81,79,72,73,81,67,72,78
+188081,Alex Teixeira,28,Brazil,79,79,Jiangsu Suning FC,13,30,2039,Right,3,4,4,High/ Medium,10,"Feb 5, 2016",2019,5.8,154,28,82,72,90,90,83,79,80,81
+187735,A. Dzagoev,28,Russia,79,79,PFC CSKA Moscow,12.5,1,2115,Right,3,3,4,High/ Medium,10,"Jan 1, 2008",2019,5.1,165,27.5,73,66,69,71,72,81,78,81
+187347,I. Smolnikov,29,Russia,79,79,,0,0,2038,Right,2,3,3,High/ High,2,,,5.1,154,,85,68,90,80,76,72,72,72
+187052,Y. M'Vila,28,France,79,80,AS Saint-Étienne,11.5,36,2027,Right,2,3,3,Medium/ Medium,6,"Jan 12, 2018",2022,6,176,22.7,71,75,69,73,65,72,73,76
+186832,K. Asamoah,29,Ghana,79,79,Inter,9.5,62,2168,Left,2,3,4,High/ High,18,"Jul 2, 2018",2021,5.8,165,16.2,78,75,77,85,83,76,82,81
+186148,R. Zieler,29,Germany,79,80,VfB Stuttgart,10,32,1163,Right,2,3,1,Medium/ Medium,1,"Jul 11, 2017",2020,6.2,179,17.8,69,55,50,43,41,42,12,22
+186132,D. Drinkwater,28,England,79,79,Chelsea,12.5,110,2023,Right,2,4,3,Medium/ Medium,6,"Aug 31, 2017",2022,5.1,179,23.1,54,69,63,67,76,79,75,78
+185431,N. Kalinić,30,Croatia,79,79,Atlético Madrid,12,60,1868,Right,3,4,3,High/ High,9,"Aug 9, 2018",2021,6.2,176,24.6,68,77,73,69,58,66,73,78
+184949,Mariano,32,Brazil,79,79,Galatasaray SK,7,57,2106,Right,1,3,3,Medium/ Medium,2,"Jul 17, 2017",2020,5.1,152,13.3,70,70,79,74,73,69,75,82
+184881,S. Feghouli,28,Algeria,79,79,Galatasaray SK,12.5,65,1927,Right,3,3,4,High/ Low,89,"Aug 14, 2017",2022,5.9,165,23.8,72,58,89,86,76,75,85,82
+184826,Adrien Silva,29,Portugal,79,79,Leicester City,12,75,2083,Right,3,4,3,Medium/ High,23,"Jan 1, 2018",2021,5.9,152,22.8,53,59,57,70,68,78,78,80
+184134,Fernando,30,Brazil,79,79,Galatasaray SK,9.5,57,1939,Right,2,2,3,Medium/ High,25,"Aug 4, 2017",2020,6,168,18.1,74,80,62,71,57,62,68,72
+183909,I. Traoré,30,Guinea,79,79,Borussia Mönchengladbach,12,34,1979,Left,2,2,4,High/ High,16,"Jul 1, 2014",2021,5.7,134,20.4,71,43,79,93,94,76,85,80
+183892,G. Mercado,31,Argentina,79,79,Sevilla FC,8.5,19,1988,Right,1,3,2,Medium/ Medium,2,"Aug 9, 2016",2019,5.11,183,17.9,76,82,75,66,60,60,57,70
+183580,N. Petersen,29,Germany,79,79,SC Freiburg,12.5,35,1833,Right,2,4,3,High/ High,18,"Jul 1, 2015",2021,6.2,185,22.5,66,76,62,64,57,61,64,70
+183497,O. Karnezis,32,Greece,79,79,Napoli,7,48,1207,Right,2,3,1,Medium/ Medium,27,"Jul 6, 2018",2021,6.3,179,11.9,64,66,34,45,49,47,15,23
+183285,M. Sakho,28,France,79,80,Crystal Palace,11.5,58,1698,Left,3,2,2,Medium/ High,5,"Aug 31, 2017",2021,6.2,183,22.7,75,91,55,50,54,53,50,63
+182002,Sidnei,28,Brazil,79,80,Real Betis,11.5,27,1780,Right,2,2,2,High/ Medium,12,"Aug 2, 2018",2022,6.2,194,25,79,90,63,36,38,44,59,76
+181820,S. Jovetić,28,Montenegro,79,79,AS Monaco,13,79,1962,Right,3,4,3,Medium/ Medium,10,"Aug 29, 2017",2021,6,174,24.7,70,72,73,79,68,82,82,83
+178311,Eder,31,Italy,79,79,Jiangsu Suning FC,11.5,29,1946,Right,3,4,4,High/ Medium,9,"Jul 13, 2018",2021,5.1,159,24.7,50,60,84,81,80,78,83,83
+178224,J. Hernández,30,Mexico,79,79,West Ham United,12,90,1864,Right,3,3,3,Medium/ Low,17,"Jul 24, 2017",2020,5.9,161,22.8,83,53,69,75,79,70,73,77
+177723,Fabricio,30,Spain,79,79,Fulham,8,47,1321,Right,1,4,1,Medium/ Medium,31,"Jul 24, 2018",2021,6,176,15.2,76,56,54,57,48,51,25,35
+177644,Kiko Casilla,31,Spain,79,79,Real Madrid,7.5,105,1279,Right,2,2,1,Medium/ Medium,13,"Jul 19, 2015",2020,6.3,190,15.4,69,79,49,43,58,52,12,20
+177633,Ángel,31,Spain,79,79,Getafe CF,11.5,31,1854,Right,1,3,3,High/ Medium,9,"Jul 6, 2017",2020,5.8,150,24.2,76,64,74,79,76,62,80,81
+177358,M. Schneiderlin,28,France,79,79,Everton,10,92,1991,Right,2,3,3,Low/ High,18,"Jan 12, 2017",2021,6.1,165,19,68,75,58,69,69,69,68,80
+176944,M. Fellaini,30,Belgium,79,79,Manchester United,11.5,120,1994,Right,3,3,3,Medium/ Medium,8,"Sep 2, 2013",2020,6.4,187,21.3,64,91,48,47,49,73,67,82
+176731,P. Wernbloom,32,Sweden,79,79,PAOK,7,1,2000,Right,2,3,3,Medium/ High,19,"Aug 17, 2018",2021,6.2,187,14.7,56,86,61,53,55,71,68,74
+176550,D. Ospina,29,Colombia,79,79,Napoli,8.5,80,1172,Right,2,3,1,Medium/ Medium,1,,"Jun 30, 2019",6,176,,75,38,34,44,50,50,12,32
+173426,S. Mignolet,30,Belgium,79,79,Liverpool,8,76,1254,Right,3,2,1,Medium/ Medium,12,"Jun 25, 2013",2021,6.4,192,15.2,69,72,52,34,52,43,14,26
+172723,A. Begović,31,Bosnia Herzegovina,79,79,Bournemouth,7.5,52,1234,Right,3,2,1,Medium/ Medium,27,"May 30, 2017",2020,6.6,183,14.3,38,80,58,52,40,34,16,24
+170797,N. Şahin,29,Turkey,79,79,SV Werder Bremen,10,32,2054,Left,3,3,3,Medium/ Medium,17,"Aug 31, 2018",2020,5.11,161,17,71,71,34,74,73,82,76,81
+169705,R. Bertrand,28,England,79,79,Southampton,10,53,2004,Left,2,3,3,High/ Medium,21,"Feb 2, 2015",2021,5.1,187,19,70,70,76,73,69,51,77,78
+169115,A. Masiello,32,Italy,79,79,Atalanta,7,30,1727,Right,2,2,2,Medium/ High,5,"Jul 26, 2011",2023,6,181,11.9,79,75,55,60,56,36,54,62
+164859,T. Walcott,29,England,79,79,Everton,12.5,105,1939,Right,3,3,3,Medium/ Medium,11,"Jan 17, 2018",2021,5.9,150,23.8,65,56,89,79,77,72,81,78
+164029,Charles,34,Brazil,79,79,SD Eibar,6.5,31,1895,Right,1,3,4,High/ High,19,"Jul 4, 2017",2019,5.1,165,13.7,93,71,59,86,69,55,79,82
+163264,T. Heaton,32,England,79,79,Burnley,7,45,1266,Right,2,3,1,Medium/ Medium,1,"Jul 1, 2013",2020,6.2,203,13.3,73,66,55,54,52,46,17,28
+161648,H. Ben Arfa,31,France,79,79,Stade Rennais FC,11,38,1911,Left,3,4,5,Medium/ Low,18,"Sep 2, 2018",2019,5.1,163,20.9,74,65,69,82,79,78,88,80
+160741,D. Abraham,31,Argentina,79,79,Eintracht Frankfurt,8.5,37,1877,Right,2,2,2,Medium/ Medium,19,"Jul 2, 2015",2021,6.2,185,14.5,77,80,79,61,55,49,44,59
+159065,E. Lavezzi,33,Argentina,79,79,Hebei China Fortune FC,8,22,2070,Right,3,4,4,High/ Low,22,"Feb 17, 2016",2018,5.8,165,17.2,82,71,83,87,85,83,82,83
+158232,S. Kalou,32,Ivory Coast,79,79,Hertha BSC,10,34,1952,Right,3,3,4,Medium/ Low,8,"Aug 31, 2014",2020,6,170,17,76,67,65,76,76,78,87,86
+158133,J. Farfán,33,Peru,79,79,Lokomotiv Moscow,7.5,1,1999,Right,2,3,4,Medium/ Low,10,"Jan 29, 2017",2020,5.1,185,15.8,76,78,84,75,66,80,78,79
+157301,R. Babel,31,Netherlands,79,79,Beşiktaş JK,11,55,1973,Right,3,3,4,Medium/ Low,11,"Jan 2, 2017",2019,6.1,187,20.9,82,78,82,77,74,74,82,79
+152908,A. Young,32,England,79,79,Manchester United,7,110,2120,Right,2,3,4,High/ Medium,18,"Jul 1, 2011",2019,5.9,143,13,55,67,72,77,76,76,77,79
+150724,J. Hart,31,England,79,79,Burnley,7.5,45,1260,Right,3,3,1,Medium/ Medium,20,"Aug 7, 2018",2020,6.5,201,14.3,69,61,60,50,32,42,23,20
+142707,L. López,35,Argentina,79,79,Racing Club,6,22,2055,Right,2,4,4,High/ High,15,"Jan 4, 2016",2019,5.9,159,9,84,75,83,84,80,72,78,80
+137351,D. Baier,34,Germany,79,79,FC Augsburg,3.8,28,1953,Right,2,3,3,Medium/ High,10,"Jan 31, 2010",2019,5.9,172,6.5,78,67,43,71,75,80,74,80
+124375,B. Yılmaz,32,Turkey,79,79,Trabzonspor,10,41,1917,Right,2,3,3,High/ Low,17,"Aug 2, 2017",2020,6.2,170,20,66,79,79,72,48,64,69,69
+121933,R. Adler,33,Germany,79,79,1. FSV Mainz 05,6.5,25,1155,Right,2,3,1,Medium/ Medium,1,"Jul 1, 2017",2019,6.3,187,11.7,69,66,32,49,43,38,13,20
+108080,S. Lichtsteiner,34,Switzerland,79,79,Arsenal,3.6,94,2020,Right,3,3,3,High/ High,2,"Jul 1, 2018",2019,6,168,6.8,73,70,69,73,77,62,76,76
+53050,E. Adebayor,34,Togo,79,79,Medipol Başakşehir FK,6.5,34,1835,Right,3,3,3,Medium/ Medium,10,"Jan 31, 2017",2020,6.4,181,12.4,76,82,70,65,52,76,72,74
+80,E. Belözoğlu,37,Turkey,79,79,Medipol Başakşehir FK,4,23,2047,Left,2,4,4,Medium/ Medium,5,"Jul 9, 2015",2019,5.7,159,7.6,72,65,38,68,81,86,78,82
+242348,Loren,24,Spain,78,83,Real Betis,14,25,1722,Right,1,3,3,Medium/ Medium,16,"Jan 29, 2015",2022,6.2,181,30.5,68,61,66,60,57,60,79,81
+240130,Éder Militão,20,Brazil,78,87,FC Porto,14,10,1946,Right,1,2,2,Medium/ High,3,"Aug 7, 2018",2023,6.1,174,30.8,86,76,78,75,67,59,68,70
+235805,F. Chiesa,20,Italy,78,87,Fiorentina,16,46,1914,Right,2,4,4,High/ High,14,"Jul 1, 2016",2022,5.9,154,30.4,55,64,84,86,77,71,83,80
+235374,M. Lazzari,24,Italy,78,81,SPAL,13,15,1841,Right,1,3,3,High/ High,29,"Jul 1, 2013",2021,5.9,148,24.4,36,49,79,75,70,72,79,79
+235212,A. Hakimi,19,Morocco,78,86,Borussia Dortmund,12.5,49,2024,Right,1,2,3,High/ Medium,5,,"Jun 30, 2020",5.11,161,,69,73,91,75,75,63,78,78
+232862,S. Nakajima,23,Japan,78,84,Portimonense SC,14,12,1951,Right,1,4,4,High/ High,10,"Jan 6, 2018",2020,5.5,141,32.2,70,34,91,94,95,75,83,78
+232432,L. Jović,20,Serbia,78,86,Eintracht Frankfurt,15.5,12,1813,Right,1,5,3,Medium/ Medium,8,,"Jun 30, 2019",6,192,,66,76,77,74,65,65,76,77
+232244,S. Ascacíbar,21,Argentina,78,84,VfB Stuttgart,12,24,1890,Right,1,3,3,Medium/ High,15,"Aug 22, 2017",2023,5.6,154,22.8,82,61,65,78,87,60,64,65
+231691,A. Lafont,19,France,78,90,Fiorentina,14,12,1200,Right,2,3,1,Medium/ Medium,1,"Jul 2, 2018",2023,6.4,181,26.6,73,70,45,55,53,47,14,10
+231281,T. Alexander-Arnold,19,England,78,88,Liverpool,14,36,2025,Right,1,3,3,High/ Medium,14,"Oct 7, 2015",2021,5.11,152,29.4,66,62,79,74,74,72,72,72
+230988,F. Krovinović,22,Croatia,78,84,SL Benfica,14,12,1962,Right,1,4,4,High/ Medium,20,"Jul 1, 2017",2022,5.1,154,30.8,54,60,69,76,75,80,79,81
+230431,Sidney Pessinho,26,Brazil,78,78,Internacional,9,27,2012,Right,1,3,2,High/ High,17,"Jan 1, 2018",2021,6.2,187,17.1,61,88,72,51,55,72,72,71
+230360,Everticinho,30,Brazil,78,78,Grêmio,7.5,29,2075,Right,1,3,4,Medium/ Medium,16,"Jan 1, 2018",2021,5.9,165,13.5,61,68,76,79,70,64,76,75
+230269,Claudio Coíntra,34,Brazil,78,78,Internacional,5,30,1903,Left,1,5,4,High/ Medium,18,"Jan 1, 2018",2021,5.9,157,9.5,58,57,74,86,83,79,75,76
+230184,Ronaldo Esler,30,Brazil,78,78,Atlético Mineiro,7.5,34,1991,Left,1,3,4,High/ Medium,5,"Jan 1, 2018",2021,5.6,143,14.3,59,33,86,86,90,68,76,74
+230020,P. Lees-Melou,25,France,78,80,OGC Nice,12.5,33,2031,Right,1,3,4,High/ High,8,"Jun 16, 2017",2021,6.1,152,24.7,61,71,74,75,59,78,79,79
+229984,B. Chilwell,21,England,78,85,Leicester City,12.5,43,1976,Left,1,3,3,High/ High,19,"Aug 26, 2015",2024,5.1,170,26.3,77,68,82,70,71,66,76,77
+229406,João Novais,24,Portugal,78,81,SC Braga,13,15,2017,Right,1,3,4,High/ Medium,17,"Jul 1, 2018",2023,6,170,27,65,68,70,75,76,78,78,77
+228881,D. Calabria,21,Italy,78,88,Milan,14.5,52,1946,Right,1,3,3,Medium/ Medium,2,"Jul 1, 2015",2022,5.9,154,27.6,69,64,77,83,78,50,73,74
+228618,F. Mendy,23,France,78,86,Olympique Lyonnais,13,47,2061,Left,1,5,4,High/ Medium,22,"Jul 1, 2017",2023,5.1,161,27.3,78,76,86,78,78,73,81,78
+228251,L. Pellegrini,22,Italy,78,84,Roma,14,51,2027,Right,2,3,3,Medium/ Medium,7,"Jul 1, 2017",2022,6.1,170,26.6,67,69,74,68,69,76,76,79
+227476,Soares,27,Brazil,78,79,FC Porto,12,17,1925,Right,1,3,3,High/ High,29,"Jan 23, 2017",2021,6.2,181,24.9,78,78,86,71,65,58,75,77
+226766,Daniel Podence,22,Portugal,78,84,Olympiacos CFP,14,1,1848,Right,1,4,4,High/ Medium,56,"Jul 10, 2018",2023,5.4,143,33.6,66,30,92,92,94,77,84,81
+226379,M. Díaz,32,Argentina,78,78,Club Atlético Huracán,6,15,1143,Right,1,2,1,Medium/ Medium,1,"Jun 25, 2014",2018,6.2,185,9,53,74,39,30,35,38,13,16
+226377,G. Martínez,25,Argentina,78,82,River Plate,13.5,25,1926,Left,1,2,4,High/ Low,10,"Jan 20, 2015",2020,5.8,165,19.9,53,61,88,92,88,72,86,81
+226168,M. Eggestein,21,Germany,78,84,SV Werder Bremen,14,22,1982,Right,1,4,3,High/ High,35,"Nov 29, 2014",2020,5.11,165,26.6,53,74,69,74,67,74,77,79
+226078,Trezeguet,23,Egypt,78,80,Kasimpaşa SK,13,15,1865,Right,3,5,4,High/ Medium,21,"Jul 1, 2018",2021,5.1,172,27,65,67,85,78,70,69,83,78
+225309,N. Amiri,21,Germany,78,85,TSG 1899 Hoffenheim,14.5,27,1973,Right,1,3,4,Medium/ Medium,18,"Aug 1, 2014",2020,5.11,161,27.6,66,66,68,79,76,78,85,81
+225161,Vallejo,21,Spain,78,86,Real Madrid,13.5,81,1738,Right,1,3,2,Low/ High,3,"Jul 31, 2015",2021,6,174,30.4,77,69,74,69,69,33,56,67
+225100,J. Gomez,21,England,78,88,Liverpool,14.5,61,1742,Right,1,3,3,Medium/ Medium,16,"Jun 20, 2015",2024,6.2,170,30.5,66,80,83,64,66,52,67,68
+224458,Diogo Jota,21,Portugal,78,86,Wolverhampton Wanderers,15.5,56,2031,Right,2,4,4,High/ High,18,"Jul 1, 2018",2021,5.1,161,32.6,66,72,76,87,87,72,81,83
+224309,Joan Jordán,23,Spain,78,83,SD Eibar,13.5,22,1978,Right,1,4,3,Medium/ Medium,24,"Jul 13, 2017",2020,6,163,29.4,50,66,68,65,65,78,78,79
+224116,Dyego Sousa,28,Brazil,78,78,SC Braga,10.5,19,1738,Right,1,3,3,High/ Medium,99,"Jul 1, 2017",2021,6.3,183,21,74,83,54,53,39,53,74,76
+224031,A. Marušić,25,Montenegro,78,79,Lazio,12.5,46,2088,Right,1,4,4,High/ Medium,77,"Jul 1, 2017",2022,6.1,187,22.2,80,79,89,66,67,72,78,77
+223952,David Soria,25,Spain,78,80,Getafe CF,9,18,1245,Right,1,3,1,Medium/ Medium,13,"Jul 16, 2018",2022,6.4,187,19.6,60,76,34,45,42,45,16,19
+223874,V. Rongier,23,France,78,83,FC Nantes,14,25,2043,Right,2,3,3,Medium/ High,28,"Jul 1, 2014",2022,5.8,154,27.7,73,55,55,79,90,77,78,80
+223689,W. Weghorst,25,Netherlands,78,80,VfL Wolfsburg,13,48,1781,Right,1,3,3,High/ High,9,"Jul 1, 2018",2022,6.6,185,23.1,79,86,69,64,44,62,64,76
+223627,O. Al Soma,29,Syria,78,78,Al Ahli,10.5,47,1949,Right,2,4,3,High/ Low,9,"Jul 1, 2014",2021,6.3,190,17.9,63,89,71,69,67,70,71,76
+222994,M. Nakamba,24,Zimbabwe,78,83,Club Brugge KV,12,20,1937,Left,1,2,3,Medium/ High,18,"Jul 1, 2017",2022,5.9,174,18.9,78,80,75,78,78,68,71,73
+222709,Petros,29,Brazil,78,78,Al Nassr,10,43,1994,Right,1,3,4,Medium/ High,6,"Jul 1, 2018",2020,5.11,170,17,61,71,73,70,70,74,76,79
+221342,Pablo Maffeo,20,Spain,78,86,VfB Stuttgart,13,24,1937,Right,1,3,3,Medium/ Medium,7,"Jul 1, 2018",2023,5.8,154,24.7,61,65,86,82,84,64,80,81
+220523,Y. Mina,23,Colombia,78,85,Everton,12.5,68,1741,Right,1,2,2,Medium/ High,13,"Aug 9, 2018",2023,6.5,207,26.3,70,87,62,53,34,54,60,53
+220407,M. Dúbravka,29,Slovakia,78,80,Newcastle United,8.5,39,1275,Right,1,2,1,Medium/ Medium,12,"Jun 9, 2018",2022,6.3,176,16.8,73,60,44,44,60,54,19,33
+219693,Diego Carlos,25,Brazil,78,80,FC Nantes,10.5,25,1822,Right,2,4,2,Medium/ High,3,"Jun 30, 2016",2022,6.1,190,20.7,80,84,68,64,57,51,64,69
+217940,D. Djené,26,Togo,78,79,Getafe CF,10,23,1795,Right,1,4,2,Medium/ High,2,"Jul 24, 2017",2021,5.9,157,21.8,79,70,75,76,72,39,44,68
+216816,G. Simeone,22,Argentina,78,85,Fiorentina,15,53,1906,Right,2,3,3,High/ High,19,"Aug 16, 2017",2022,5.11,179,28.5,84,72,78,76,74,60,76,76
+216700,M. Meza,25,Argentina,78,79,Independiente,12.5,23,2009,Right,1,3,4,High/ Low,8,"Sep 19, 2016",2021,5.11,168,18.4,67,70,82,87,75,76,86,79
+216655,Bastos,26,Angola,78,79,Lazio,10,44,1710,Right,2,3,2,Medium/ High,15,"Aug 17, 2016",2020,5.11,170,17.8,71,82,77,62,76,28,55,62
+216435,S. Lobotka,23,Slovakia,78,84,RC Celta,14,22,1954,Right,1,4,4,Medium/ High,14,"Jul 15, 2017",2023,5.7,141,32.2,82,52,63,78,84,76,77,82
+216393,Y. Tielemans,21,Belgium,78,87,AS Monaco,16,47,2088,Right,2,5,4,Medium/ Medium,17,"Jul 1, 2017",2022,5.9,159,33.6,65,69,53,67,76,81,76,81
+216373,Marcelo Goiano,30,Brazil,78,78,SC Braga,7.5,15,1945,Right,1,4,3,Medium/ Medium,87,"Jul 1, 2014",2021,5.9,152,15,72,64,75,77,74,52,77,76
+216266,K. Tete,22,Netherlands,78,83,Olympique Lyonnais,11.5,47,1897,Right,2,3,3,Medium/ High,2,"Jul 10, 2017",2021,5.11,157,22.7,77,76,79,66,73,58,68,70
+216189,Capa,26,Spain,78,81,Athletic Club de Bilbao,10.5,23,2068,Right,1,4,3,High/ High,21,"Jul 2, 2018",2022,5.9,163,22.8,77,80,86,75,86,72,74,76
+216065,M. Sportiello,26,Italy,78,81,Frosinone,9,22,1241,Right,2,2,1,Medium/ Medium,57,,"Jun 30, 2019",6.4,192,,68,66,38,55,58,44,19,22
+215792,Jemerson,25,Brazil,78,81,AS Monaco,11,55,1696,Right,2,2,2,Medium/ Medium,5,"Jan 31, 2016",2020,6,170,21.7,83,78,65,64,58,46,54,63
+215466,N. Maksimović,26,Serbia,78,81,Napoli,11,54,1584,Right,2,3,2,Medium/ High,19,"Jul 9, 2017",2021,6.4,192,19.5,67,86,68,49,58,31,49,61
+215333,D. Zapata,27,Colombia,78,79,Atalanta,12,41,1774,Right,2,4,3,Medium/ Medium,91,,"Jun 30, 2020",6.2,194,,79,91,75,64,58,46,72,76
+215330,J. Correa,23,Argentina,78,83,Lazio,14,42,1855,Right,1,4,4,High/ Medium,11,"Aug 1, 2018",2023,6.2,170,24.9,32,74,79,82,61,75,85,83
+215259,E. Rigoni,25,Argentina,78,81,Atalanta,13,29,1977,Left,1,5,4,Medium/ Low,24,"Aug 23, 2017",2021,5.1,163,23.1,57,58,90,83,68,74,82,77
+214766,C. Izquierdoz,29,Argentina,78,78,Boca Juniors,8,25,1674,Right,1,2,2,Medium/ High,24,"Jul 5, 2018",2021,6.1,196,11.2,85,80,50,36,52,33,36,62
+214394,W. Barrios,24,Colombia,78,85,Boca Juniors,12.5,20,1853,Right,1,3,3,Medium/ High,16,"Aug 26, 2016",2021,5.1,157,20,78,77,71,75,73,65,66,69
+214026,J. Mojica,25,Colombia,78,81,Girona FC,10.5,28,2055,Left,1,2,3,High/ Medium,3,"Jul 2, 2018",2022,6.1,161,22.8,73,70,90,74,61,65,78,79
+213732,A. Selikhov,24,Russia,78,82,Spartak Moscow,9.5,1,1216,Right,1,4,1,Medium/ Medium,57,"Dec 6, 2016",2021,6.2,187,20.7,70,65,48,35,50,58,19,25
+213655,A. Iwobi,22,Nigeria,78,84,Arsenal,14,81,1739,Right,1,3,4,Medium/ Medium,17,"Jul 1, 2013",2023,6.1,165,29.4,47,70,77,76,75,80,84,84
+213400,D. Laxalt,25,Uruguay,78,80,Milan,12.5,76,1992,Left,2,3,4,High/ High,17,"Aug 17, 2018",2022,5.1,150,22.2,65,60,90,85,77,68,77,78
+213296,N. Bentaleb,23,Algeria,78,83,FC Schalke 04,13.5,29,2044,Left,2,2,4,Medium/ Medium,10,"Feb 27, 2017",2021,6.2,172,24,53,72,64,75,71,80,82,81
+212977,N. Stark,23,Germany,78,84,Hertha BSC,12,24,1881,Right,1,3,2,High/ Medium,5,"Aug 24, 2015",2022,6.3,179,22.8,64,79,79,63,62,71,65,70
+212811,M. Lemina,24,Gabon,78,83,Southampton,13.5,44,2072,Right,2,3,3,Medium/ Medium,18,"Aug 8, 2017",2022,6,187,26.7,46,73,77,71,74,74,81,82
+212501,L. Dendoncker,23,Belgium,78,84,Wolverhampton Wanderers,12,18,2074,Right,2,4,2,High/ High,20,,"Jun 30, 2019",6.2,194,,66,87,68,57,53,76,68,73
+212213,Ricardo Esgaio,25,Portugal,78,80,SC Braga,12.5,16,2067,Right,1,3,4,Medium/ High,47,"Jul 1, 2017",2022,5.8,150,25.9,73,59,74,82,83,75,79,80
+212196,P. Sisto,23,Denmark,78,84,RC Celta,14,25,2008,Right,1,4,4,High/ Medium,23,"Jul 31, 2016",2021,5.8,152,32.2,82,64,81,82,84,75,86,80
+212187,P. Max,24,Germany,78,81,FC Augsburg,11,22,2007,Left,1,3,3,High/ Medium,31,"Aug 4, 2015",2022,5.1,170,19.5,66,66,85,77,74,70,73,78
+212153,R. Gagliardini,24,Italy,78,82,Inter,11.5,46,1981,Right,2,2,3,Medium/ High,5,"Aug 1, 2017",2023,6.3,170,20.4,64,71,68,64,62,73,75,77
+211706,Pere Pons,25,Spain,78,83,Girona FC,13.5,31,1947,Right,1,3,3,Medium/ High,8,"Sep 1, 2012",2020,5.1,154,29.4,66,68,67,71,70,74,75,79
+210935,D. Berardi,23,Italy,78,83,Sassuolo,14,50,1965,Left,2,3,4,High/ Low,11,"Jul 1, 2012",2022,6,159,24.9,66,65,79,87,73,71,80,85
+210665,M. Halstenberg,26,Germany,78,79,RB Leipzig,10,45,2048,Left,2,3,3,High/ Medium,23,"Aug 31, 2015",2022,6.2,181,17.8,83,78,69,65,59,54,69,74
+210513,J. Quintero,25,Colombia,78,80,River Plate,12.5,15,1876,Left,2,2,4,Medium/ Low,8,,"Dec 31, 2018",5.6,148,,55,38,71,90,91,85,83,83
+209307,Tiago Volpi,27,Brazil,78,80,Querétaro,8.5,10,1366,Right,2,2,1,Medium/ Medium,1,"Dec 30, 2014",2022,6.1,187,15.1,75,72,58,63,47,39,16,24
+208777,Óliver Torres,23,Spain,78,83,FC Porto,13.5,13,1977,Right,3,4,3,Medium/ Medium,10,"Jul 1, 2017",2021,5.9,139,28,62,38,65,78,78,80,83,82
+208620,Omar Mascarell,25,Spain,78,80,FC Schalke 04,10.5,29,1994,Right,1,4,3,Low/ Medium,6,"Jul 1, 2018",2022,5.11,168,18.6,73,75,64,76,68,74,75,80
+208520,H. Sakai,28,Japan,78,78,Olympique de Marseille,8,44,1958,Right,1,4,3,High/ High,2,"Jul 1, 2016",2021,6,154,15.2,75,74,78,71,69,60,64,69
+208450,Andreas Pereira,22,Brazil,78,84,Manchester United,14,91,2100,Right,1,4,4,Medium/ Medium,15,"Jan 1, 2013",2019,5.1,157,28.7,62,68,74,78,78,78,81,81
+208330,A. Januzaj,23,Belgium,78,84,Real Sociedad,14,29,1826,Left,1,4,4,Medium/ Low,23,"Jul 12, 2017",2022,6.1,168,32.2,61,59,76,83,71,78,81,80
+208268,B. Cristante,23,Italy,78,86,Roma,15,26,1944,Right,2,3,3,Medium/ Medium,4,,"Jun 30, 2019",6.1,176,,58,70,58,64,54,76,78,81
+208104,Matheus,25,Brazil,78,82,SC Braga,9.5,12,1198,Right,1,3,1,Medium/ Medium,1,"Jul 1, 2014",2023,6.2,168,19.7,63,71,47,45,48,52,12,22
+207948,B. Traoré,22,Burkina Faso,78,83,Olympique Lyonnais,14,57,2011,Left,2,1,4,High/ Medium,10,"Jul 1, 2017",2022,5.11,161,27.7,78,64,90,88,71,74,85,87
+207791,Y. Poulsen,24,Denmark,78,80,RB Leipzig,13,48,1958,Right,2,3,3,High/ High,20,"Jul 4, 2013",2021,6.4,172,23.1,83,78,79,75,55,65,75,71
+207421,L. Trossard,23,Belgium,78,84,KRC Genk,14,17,1970,Right,1,4,4,High/ Medium,14,"Jan 1, 2012",2021,5.8,148,23.8,89,60,76,93,87,71,83,78
+206511,M. Arnold,24,Germany,78,83,VfL Wolfsburg,13.5,40,2078,Left,2,3,3,High/ Medium,27,"Oct 10, 2011",2022,6,163,24,52,67,64,71,67,74,78,79
+206058,M. De Sciglio,25,Italy,78,81,Juventus,10.5,78,1936,Right,2,5,3,Medium/ Medium,2,"Jul 20, 2017",2022,6,172,18.1,77,68,79,79,77,60,74,75
+205976,Leo Baptistao,25,Brazil,78,79,RCD Espanyol,12.5,29,1883,Right,2,3,4,High/ Low,11,"Jul 9, 2016",2021,5.11,159,27.2,70,71,78,77,68,74,80,80
+205943,V. Chiricheş,28,Romania,78,78,Napoli,8.5,57,1866,Right,2,3,2,Medium/ Medium,21,"Jul 30, 2015",2022,6,165,14.5,73,72,67,57,72,46,59,66
+205850,L. Pavoletti,29,Italy,78,78,Cagliari,10.5,39,1728,Right,2,3,3,High/ Low,30,"Jul 1, 2018",2022,6.2,187,17.9,86,84,63,65,59,52,66,74
+205659,A. Cragno,24,Italy,78,84,Cagliari,10.5,21,1150,Right,1,3,1,Medium/ Medium,12,"Jul 12, 2014",2022,6,172,20,74,55,37,37,43,42,13,21
+205633,L. Castro,29,Argentina,78,78,Cagliari,10,36,2060,Right,2,3,4,High/ High,29,"Jul 16, 2018",2021,6,172,17,66,68,75,78,78,77,80,82
+205431,N. Füllkrug,25,Germany,78,79,Hannover 96,12.5,38,1854,Right,1,4,3,High/ Medium,24,"Jul 18, 2016",2022,6.2,183,23.4,69,83,65,66,52,61,70,74
+205083,F. Fajr,29,Morocco,78,78,Stade Malherbe Caen,10,28,2056,Right,2,4,3,High/ Medium,10,"Aug 3, 2018",2021,5.1,157,20,37,67,61,74,71,79,76,79
+204838,R. Jiménez,27,Mexico,78,79,Wolverhampton Wanderers,12,15,1957,Right,3,4,3,High/ High,9,,"Jun 30, 2019",6.2,179,,68,78,76,73,49,71,74,74
+204819,E. Sala,27,Argentina,78,78,FC Nantes,11,31,1980,Right,2,3,3,High/ High,9,"Jul 20, 2015",2020,6.2,183,20.9,77,84,61,59,55,63,75,75
+204385,S. García,27,Uruguay,78,78,Godoy Cruz,11,20,1876,Right,1,4,3,High/ Low,18,"Jan 8, 2016",2021,5.11,176,16,75,88,66,68,68,71,71,76
+204259,S. Arias,26,Colombia,78,81,Atlético Madrid,10.5,46,2002,Right,2,3,3,High/ Medium,4,"Jul 31, 2018",2023,5.1,159,22.3,82,69,86,78,77,64,74,76
+204240,B. Reynet,27,France,78,80,Toulouse Football Club,8.5,24,1127,Right,2,3,1,Medium/ Medium,30,"Jul 1, 2018",2022,6.1,187,17.6,62,68,45,43,24,16,11,21
+203895,Pozuelo,26,Spain,78,79,KRC Genk,12,19,1897,Right,1,5,4,High/ Medium,24,"Aug 31, 2015",2021,5.8,159,18.9,60,50,57,76,82,82,81,83
+203886,A. Trebel,27,France,78,79,RSC Anderlecht,11.5,23,2106,Left,1,2,4,High/ High,25,"Jan 15, 2017",2023,5.9,163,18.1,77,69,75,77,87,77,77,77
+203487,J. Lascelles,24,England,78,83,Newcastle United,12,39,1616,Right,1,3,2,Medium/ High,6,"Aug 4, 2014",2024,6.2,196,23.7,85,84,63,67,51,40,50,65
+203485,T. Kongolo,24,Netherlands,78,83,Huddersfield Town,12,39,1884,Left,2,4,3,Medium/ Medium,5,"Jun 9, 2018",2022,6.2,154,23.7,91,79,74,71,62,49,67,72
+203299,A. Carrillo,27,Peru,78,78,Al Hilal,11,14,1928,Right,2,4,4,High/ Medium,19,,"Jun 30, 2019",5.11,172,,73,72,86,80,76,73,85,82
+202935,Álvaro,28,Spain,78,79,Villarreal CF,9.5,32,1765,Right,1,3,2,Medium/ High,3,"Aug 31, 2016",2021,6,165,20.7,92,74,73,68,72,39,48,67
+202851,G. Defrel,27,France,78,78,Sampdoria,11,64,1897,Left,2,3,4,High/ Medium,92,,"Jun 30, 2019",5.1,170,,42,58,87,82,72,75,83,82
+202642,Fernando,26,Brazil,78,81,Spartak Moscow,11,1,2079,Right,1,3,3,Medium/ Medium,11,"Jul 18, 2016",2021,5.9,176,23.9,80,69,76,74,81,75,70,76
+201262,V. Darida,27,Czech Republic,78,78,Hertha BSC,10.5,30,2083,Right,2,4,3,High/ High,19,"Jul 18, 2015",2021,5.7,141,17.9,77,48,65,82,88,77,78,81
+201046,R. Saponara,26,Italy,78,80,Sampdoria,12.5,56,1880,Right,2,4,4,High/ Medium,5,,"Jun 30, 2019",6,161,,64,69,75,72,71,80,83,85
+200677,Pedro Mendes,27,Portugal,78,80,Montpellier HSC,10,26,1679,Right,1,3,2,Medium/ High,5,"Jul 18, 2017",2021,6.1,172,20.8,74,79,63,55,53,32,62,63
+200607,C. Schindler,28,Germany,78,80,Huddersfield Town,10,48,1690,Right,1,3,2,Medium/ Medium,26,"Jun 29, 2016",2020,6.2,170,19.8,74,78,65,56,57,51,42,68
+200529,N. Chadli,28,Belgium,78,78,AS Monaco,10.5,66,2001,Right,2,4,4,Medium/ Medium,22,"Aug 30, 2018",2021,6.2,187,20,71,83,78,65,54,75,82,80
+199986,Arbilla,31,Spain,78,78,SD Eibar,7,23,1996,Right,1,4,2,Medium/ High,23,"Aug 30, 2016",2021,5.1,168,14.7,81,78,70,60,68,57,63,76
+199915,L. Dunk,26,England,78,81,Brighton & Hove Albion,11,46,1632,Right,1,4,2,High/ High,5,"Jul 1, 2010",2023,6.4,194,21.7,72,82,50,47,42,45,60,68
+199827,P. Hernández,31,Chile,78,78,Independiente,9,24,2022,Left,2,3,3,High/ Low,19,"Jul 5, 2018",2022,6.1,179,12.6,69,80,67,70,44,80,80,79
+199602,J. Guidetti,26,Sweden,78,81,Deportivo Alavés,13,29,1939,Right,2,3,4,High/ High,17,"Jul 2, 2018",2022,6.1,174,28.3,70,82,65,64,60,65,76,77
+199577,Sergi Gómez,26,Spain,78,83,Sevilla FC,11.5,17,1748,Right,1,2,2,High/ Medium,3,"Jul 25, 2018",2022,6.1,170,25,69,78,44,52,50,56,56,75
+199576,Oriol Romeu,26,Spain,78,80,Southampton,10.5,46,1787,Right,2,3,2,Medium/ High,14,"Aug 12, 2015",2021,6,183,20.7,65,82,48,54,59,65,59,72
+199354,Lucas Pérez,29,Spain,78,78,West Ham United,10.5,85,1970,Left,2,4,4,High/ High,27,"Aug 9, 2018",2021,5.11,161,20,63,69,78,70,73,81,79,80
+198648,B. Natcho,30,Israel,78,78,Olympiacos CFP,9.5,1,2078,Right,2,4,3,Medium/ Medium,6,"Aug 7, 2018",2020,5.1,165,20.9,54,70,66,76,79,80,73,81
+198513,Cláudio Ramos,26,Portugal,78,82,CD Tondela,9.5,6,1277,Right,1,3,1,Medium/ Medium,1,"Jul 1, 2012",2020,6,187,20.7,76,77,54,65,65,55,16,20
+197948,F. Lejeune,27,France,78,80,Newcastle United,10,46,1823,Right,2,3,2,Medium/ High,20,"Jul 4, 2017",2022,6.2,196,19.8,76,83,52,55,57,46,62,73
+197242,G. Krychowiak,28,Poland,78,79,Lokomotiv Moscow,9.5,1,1951,Right,3,3,3,Medium/ High,10,"Jul 3, 2016",2021,6.1,187,20.7,74,83,68,59,52,68,65,77
+197225,N. Lodeiro,29,Uruguay,78,78,Seattle Sounders FC,10,11,1992,Left,2,4,4,Medium/ Medium,7,"Jul 27, 2016",2021,5.7,152,15,65,61,68,78,78,78,78,81
+196934,O. Özyakup,25,Turkey,78,81,Beşiktaş JK,13,47,2105,Right,2,4,4,Medium/ High,8,"Jun 8, 2012",2022,5.11,165,25.7,72,62,72,88,79,80,78,80
+143001,C. Tévez,34,Argentina,78,78,Boca Juniors,5,26,1933,Right,3,3,4,Medium/ Low,32,"Jan 6, 2018",2019,5.7,176,7,56,74,70,76,74,78,79,77
+184477,K. Papadopoulos,26,Greece,78,80,Hamburger SV,10.5,16,1719,Right,2,3,2,Low/ High,9,"Jul 1, 2017",2020,6.1,192,17.6,91,90,59,53,60,44,40,52
+182945,M. Gradel,30,Ivory Coast,78,78,Toulouse Football Club,10,32,1966,Right,2,3,4,High/ High,15,"Jul 1, 2018",2021,5.1,154,20,66,59,84,83,70,74,82,81
+158626,M. Debuchy,32,France,78,78,AS Saint-Étienne,5.5,31,2079,Right,3,3,3,High/ Medium,26,"Jan 31, 2018",2021,5.9,168,10.5,81,72,73,74,73,64,74,75
+172962,V. Moses,27,Nigeria,78,78,Chelsea,11,105,2110,Right,2,4,4,Medium/ Medium,15,"Aug 24, 2012",2021,5.1,170,20.4,66,69,77,76,82,72,82,81
+173474,Z. Junuzović,30,Austria,78,78,FC Red Bull Salzburg,9.5,39,2178,Right,2,4,3,High/ High,16,"Jul 1, 2018",2021,5.8,152,14.3,68,65,69,86,91,77,80,80
+178085,Granero,30,Spain,78,78,RCD Espanyol,9.5,30,2011,Right,2,4,4,Medium/ Medium,23,"Jul 7, 2017",2020,5.11,172,20,53,68,50,68,67,78,77,80
+189606,J. Baumgartlinger,30,Austria,78,78,Bayer 04 Leverkusen,7.5,53,1943,Right,2,3,2,Medium/ High,14,"Jul 1, 2016",2020,6,190,12.8,80,78,71,65,64,64,65,74
+171688,Fábio Coentrão,30,Portugal,78,78,Rio Ave FC,10,13,2114,Left,3,2,4,High/ Medium,17,"Aug 31, 2018",2019,5.1,146,21,79,66,75,76,76,76,81,79
+158121,B. Costil,30,France,78,78,FC Girondins de Bordeaux,6.5,32,1151,Right,2,3,1,Medium/ Medium,1,"Jun 19, 2017",2021,6.2,194,12.4,49,65,53,38,45,44,13,12
+153260,Hilton,40,Brazil,78,78,Montpellier HSC,0,18,1807,Right,2,3,3,Medium/ Medium,4,"Aug 1, 2011",2019,5.11,172,,79,76,38,51,60,67,63,73
+193198,N. Gudelj,26,Serbia,78,80,Sporting CP,10.5,19,2101,Right,2,2,3,Medium/ Medium,86,,"Jun 30, 2019",6.2,161,,67,88,65,62,57,71,64,75
+184252,L. Pratto,30,Argentina,78,78,River Plate,10,28,1983,Right,2,3,3,High/ Medium,27,"Jan 9, 2018",2022,6.2,201,14,70,91,72,67,64,73,72,76
+186302,E. Hernández,30,Mexico,78,78,Cruz Azul,10,29,1967,Right,1,3,4,Medium/ Low,11,"Jul 5, 2018",2019,5.7,143,17,70,58,77,80,81,80,80,83
+159171,Jurado,32,Spain,78,78,Al Ahli,8,41,1891,Right,2,4,3,Medium/ Low,10,"Jun 21, 2018",2020,5.9,159,13.6,65,57,67,80,70,79,80,79
+193476,R. Cabella,28,France,78,78,AS Saint-Étienne,10.5,36,1927,Right,2,4,4,Medium/ Low,7,"Aug 16, 2018",2022,5.7,157,20,41,50,77,91,80,74,82,80
+187598,Rafael Tolói,27,Brazil,78,80,Atalanta,10,27,1839,Right,2,2,2,High/ Medium,2,"Aug 26, 2015",2021,6.1,165,17.8,76,69,68,63,66,50,58,66
+174543,C. Bravo,35,Chile,78,78,Manchester City,2.4,50,1446,Right,3,3,1,Medium/ Medium,1,"Aug 25, 2016",2020,6,176,4.5,81,69,54,63,62,69,22,41
+180432,Hernanes,33,Brazil,78,78,Hebei China Fortune FC,6,19,2022,Right,3,5,4,Medium/ Medium,10,"Feb 9, 2017",2019,5.11,170,12.9,61,72,59,72,75,86,74,79
+186581,K. Honda,32,Japan,78,78,Melbourne Victory,8,12,2041,Left,3,3,4,Medium/ High,4,"Aug 6, 2018",2019,6,163,10,83,69,76,75,77,81,82,84
+187607,A. Dzyuba,29,Russia,78,78,,0,0,1810,Right,2,3,3,High/ Medium,22,,,6.5,201,,63,93,65,50,32,73,71,77
+182744,J. Holebas,34,Greece,78,78,Watford,2.9,51,2092,Left,2,2,3,High/ Medium,25,"Jul 2, 2015",2020,6.1,179,5.6,73,73,76,71,73,64,73,77
+161754,Javi García,31,Spain,78,78,Real Betis,7,23,1976,Right,2,3,3,Medium/ High,3,"Aug 14, 2017",2020,6.1,181,14.7,91,79,62,62,53,63,66,77
+163806,Sergio,31,Spain,78,78,RC Celta,6.5,19,1200,Right,2,2,1,Medium/ Medium,1,"Aug 1, 2009",2019,5.1,165,13.7,64,62,43,50,48,38,13,21
+182495,M. Cáceres,31,Uruguay,78,78,Lazio,7,44,1921,Right,2,3,2,Medium/ High,22,"Jan 8, 2018",2019,5.11,172,11.9,91,72,78,79,74,58,60,66
+189156,Daniel Carriço,29,Portugal,78,78,Sevilla FC,8,18,1882,Right,2,3,2,Medium/ Medium,6,"Jun 23, 2014",2020,5.11,176,16.8,92,77,54,60,68,62,58,64
+169706,J. Cork,29,England,78,78,Burnley,10,58,2057,Right,2,4,3,Medium/ High,4,"Jul 11, 2017",2021,6,165,19,75,77,54,63,71,76,75,79
+173546,J. Tomkins,29,England,78,79,Crystal Palace,9,53,1616,Right,2,3,2,Medium/ Medium,5,"Jul 5, 2016",2021,6.4,163,17.8,76,79,49,47,50,54,50,59
+180714,Guilherme,32,Russia,78,78,Lokomotiv Moscow,6,1,1199,Right,2,2,1,Medium/ Medium,20,"Aug 22, 2007",2019,6.5,209,12.6,62,71,40,54,30,55,16,21
+170733,Gervinho,31,Ivory Coast,78,78,Parma,9,49,1877,Right,3,3,3,High/ Low,10,"Aug 17, 2018",2021,5.1,146,16.2,62,55,90,88,76,74,80,78
+189165,J. Shelvey,26,England,78,80,Newcastle United,12.5,50,2050,Right,2,3,3,Low/ Medium,8,"Jan 12, 2016",2021,6,176,24.7,64,71,63,62,65,83,74,76
+156142,R. Eremenko,31,Finland,78,78,Spartak Moscow,9,1,2010,Right,2,4,4,Medium/ High,26,"Aug 10, 2018",2019,6.1,176,18.9,71,72,68,70,73,85,78,80
+178415,R. Vormer,30,Netherlands,78,78,Club Brugge KV,9.5,26,2130,Right,2,4,3,High/ High,25,"Sep 1, 2014",2022,5.1,174,14.3,68,75,60,64,67,77,67,72
+178416,J. Lens,30,Netherlands,78,78,Beşiktaş JK,10,50,1988,Right,2,4,4,High/ Medium,17,"Feb 28, 2018",2022,5.1,165,19,74,77,90,75,79,75,80,78
+164082,Adriano,33,Brazil,78,78,Beşiktaş JK,4,45,2160,Left,2,5,4,High/ Medium,3,"Jul 29, 2016",2019,5.8,165,7.6,75,67,73,77,76,69,81,82
+193011,S. Cook,27,England,78,78,Bournemouth,8.5,58,1644,Right,1,3,2,Medium/ High,3,"Jan 1, 2012",2021,6.1,181,16.2,75,78,53,55,65,45,54,67
+150516,L. Podolski,33,Germany,78,78,Vissel Kobe,6.5,11,2048,Left,3,3,4,Medium/ Low,10,"Jul 1, 2017",2019,6,183,8.1,71,83,75,67,70,79,78,78
+173306,C. Ansaldi,31,Argentina,78,78,Torino,7,54,2029,Left,2,5,4,High/ Medium,15,,"Jun 30, 2019",5.11,168,,70,67,76,79,66,73,80,79
+172287,Manu García,32,Spain,78,78,Deportivo Alavés,6,24,1963,Left,1,3,2,Medium/ High,19,"Jul 1, 2012",2020,6,163,12.6,79,78,61,66,67,66,62,75
+184575,R. Alessandrini,29,France,78,78,LA Galaxy,10,11,2058,Left,2,4,4,High/ Medium,7,"Jan 31, 2017",2019,5.8,154,15,61,60,90,93,89,74,79,79
+205569,J. Ward-Prowse,23,England,77,82,Southampton,12,41,2056,Right,2,3,3,Medium/ Medium,16,"Jun 1, 2011",2022,5.8,146,23.7,66,57,57,75,77,82,73,82
+177666,M. Harnik,31,Austria,77,77,SV Werder Bremen,8,31,1975,Right,2,4,3,High/ Medium,9,"Jul 1, 2018",2021,6.1,176,13.6,90,77,76,69,64,68,74,71
+185090,B. Moukandjo,29,Cameroon,77,77,Beijing Renhe FC,9,25,1916,Right,2,3,4,High/ Low,38,,"Dec 31, 2018",5.11,163,,71,65,93,83,70,65,77,75
+229636,G. Pereiro,23,Uruguay,77,82,PSV,12,15,1922,Left,1,2,3,Medium/ Low,16,"Jul 15, 2015",2020,6.2,168,17.7,70,75,75,74,56,77,79,83
+167431,G. Castro,31,Germany,77,77,VfB Stuttgart,7.5,34,2063,Right,2,4,3,Medium/ Medium,8,"Jul 1, 2018",2021,5.8,159,12.8,73,65,65,80,78,78,77,78
+236295,Aarón Martín,21,Spain,77,85,1. FSV Mainz 05,11,18,1831,Left,1,3,3,High/ Medium,3,,"Jun 30, 2019",5.11,159,,61,60,69,68,67,59,71,75
+177159,F. Johnson,30,United States,77,77,Borussia Mönchengladbach,8.5,29,2007,Right,2,4,3,Medium/ Medium,19,"Jul 1, 2014",2020,6,163,14.5,69,60,79,73,72,73,79,76
+215051,L. López,28,Argentina,77,77,Genoa,7,13,1745,Right,3,3,2,Medium/ High,5,,"Jun 30, 2019",6.3,181,,87,79,66,64,55,41,61,62
+183820,M. Dossevi,30,Togo,77,77,Toulouse Football Club,8.5,30,1886,Right,1,3,3,High/ Medium,14,"Aug 3, 2018",2020,5.8,143,17,76,58,80,76,76,76,78,77
+189196,Caiuby,29,Brazil,77,77,FC Augsburg,8.5,27,1952,Right,2,4,3,High/ Medium,30,"Jul 11, 2014",2020,6,187,14.5,91,81,87,73,66,73,74,74
+208141,Gabriel,24,Brazil,77,81,SL Benfica,11.5,11,2086,Left,1,5,3,High/ Medium,8,"Aug 27, 2018",2023,6.2,181,23.9,81,79,51,65,67,77,81,82
+146701,Iván Ramis,33,Spain,77,77,SD Eibar,3.6,22,1860,Right,2,3,2,Medium/ High,4,"Aug 16, 2015",2019,6.2,181,7.6,76,90,35,52,50,50,51,70
+181262,M. Suchý,30,Czech Republic,77,77,FC Basel 1893,6.5,26,1824,Right,1,3,2,Low/ High,17,"Jul 1, 2014",2019,6,185,9.8,79,84,67,65,65,50,60,65
+203535,T. Vilhena,23,Netherlands,77,81,Feyenoord,11.5,13,2130,Left,2,4,3,High/ High,20,"Apr 1, 2011",2020,5.9,165,17,76,75,72,75,83,74,77,80
+199952,E. Çolak,27,Turkey,77,77,Al Wehda,9.5,27,1911,Left,2,3,4,Medium/ Medium,5,"Jul 1, 2018",2022,5.7,148,16.2,37,40,68,82,90,77,77,80
+203280,V. Germain,28,France,77,77,Olympique de Marseille,9,49,1991,Right,2,4,3,Medium/ Medium,28,"Jun 26, 2017",2021,5.11,161,17.1,80,61,77,91,71,79,73,75
+156432,G. Hoarau,34,France,77,77,BSC Young Boys,4.7,26,1831,Right,2,2,3,Medium/ Low,99,"Aug 30, 2014",2020,6.4,187,7,70,89,51,68,59,69,68,72
+135697,Sergio García,35,Spain,77,77,RCD Espanyol,4.1,23,1914,Right,2,2,4,Medium/ Medium,9,"Jul 1, 2017",2019,5.9,159,8.6,54,72,69,66,73,77,82,78
+183569,E. Choupo-Moting,29,Cameroon,77,77,Paris Saint-Germain,9,75,1890,Right,2,4,4,Medium/ Medium,11,"Aug 31, 2018",2020,6.3,201,16.7,67,76,78,76,66,70,83,80
+146963,J. Pinola,35,Argentina,77,77,River Plate,2.1,16,1904,Left,2,3,2,High/ Medium,22,"Jun 27, 2017",2020,5.11,174,2.9,81,81,70,65,67,58,63,65
+212755,J. Hendrix,23,Netherlands,77,82,PSV,10,13,1991,Left,1,3,2,Medium/ High,8,"Dec 7, 2011",2020,5.11,165,14.8,78,73,69,73,74,66,70,75
+219411,J. Izquierdo,25,Colombia,77,78,Brighton & Hove Albion,10.5,45,1860,Right,2,3,4,High/ High,19,"Aug 16, 2017",2021,5.7,165,20.7,67,59,90,91,84,71,81,78
+220948,S. Sydorchuk,27,Ukraine,77,78,Dynamo Kyiv,10,1,1820,Right,1,3,3,High/ High,5,"Jan 1, 2013",2023,6.2,176,21.8,59,73,65,57,48,76,70,77
+187924,C. Grenier,27,France,77,78,Stade Rennais FC,10,32,2031,Right,2,4,4,Medium/ Medium,8,"Jul 24, 2018",2021,6.1,159,19.8,54,73,58,62,74,80,75,81
+207894,T. Strobl,28,Germany,77,77,Borussia Mönchengladbach,7,27,1804,Right,2,3,2,Medium/ Medium,5,"Jul 1, 2016",2020,6.2,170,11.9,70,78,55,48,44,66,59,58
+175895,V. Odjidja-Ofoe,29,Belgium,77,77,KAA Gent,8.5,24,2035,Right,2,4,3,High/ Medium,8,"Jul 21, 2018",2020,6,174,12.8,74,83,62,52,51,81,76,78
+176919,N. Guzmán,32,Argentina,77,77,Tigres U.A.N.L.,5,38,1334,Right,3,3,1,Medium/ Medium,1,"Jul 4, 2014",2020,6.4,207,8,66,79,52,70,57,55,21,25
+214040,F. Fabra,27,Colombia,77,78,Boca Juniors,8,22,1976,Left,1,3,3,High/ Low,18,"Jan 24, 2016",2019,5.8,159,11.8,86,81,88,85,75,54,78,76
+220697,J. Maddison,21,England,77,85,Leicester City,13,45,1908,Right,1,4,4,High/ Medium,22,"Jun 20, 2018",2023,5.9,161,27.3,54,40,74,85,78,81,77,82
+162329,K. El Ahmadi,33,Morocco,77,77,Al Ittihad,3.6,35,2017,Right,2,2,3,Medium/ Medium,20,"Jul 9, 2018",2020,5.11,157,6.1,67,73,63,74,70,74,73,76
+184089,M. Carcela-González,29,Morocco,77,77,Standard de Liège,8.5,19,1923,Left,2,3,4,High/ Low,10,"Jul 1, 2018",2020,5.9,148,12.8,87,54,80,89,80,69,84,81
+198683,M. Gabbiadini,26,Italy,77,78,Southampton,10.5,51,1845,Left,2,3,3,High/ Low,20,"Jan 31, 2017",2021,5.11,159,20.7,74,71,70,70,56,72,77,79
+135451,Gomes,37,Brazil,77,77,Watford,600,25,1249,Right,2,2,1,Medium/ Medium,1,"May 24, 2014",2019,6.3,209,1.1,76,64,52,56,53,59,15,25
+186395,M. Ritchie,28,Scotland,77,77,Newcastle United,9,49,2015,Left,1,4,4,High/ Medium,11,"Jul 1, 2016",2021,5.8,168,17.1,70,59,73,71,84,76,77,76
+188955,G. Bou,28,Argentina,77,77,Racing Club,9,26,1905,Right,1,4,4,Medium/ Low,7,,"Jun 30, 2019",5.1,176,,77,75,78,74,76,71,77,77
+146460,Javi Fuego,34,Spain,77,77,Villarreal CF,2.7,28,1928,Right,2,3,2,Medium/ High,18,"Jan 30, 2018",2020,6,163,5.7,70,77,42,64,61,70,62,70
+230685,E. Akbaba,25,Turkey,77,80,Galatasaray SK,11,51,1997,Left,1,3,4,High/ High,20,"Aug 18, 2018",2021,5.11,161,21.7,58,61,77,76,69,78,76,77
+219681,J. Amavi,24,France,77,82,Olympique de Marseille,10,34,2064,Left,1,4,3,High/ Medium,18,"Jul 1, 2018",2021,5.9,154,19.8,82,70,80,75,76,70,73,76
+231969,R. Malinovskyi,25,Ukraine,77,81,KRC Genk,11.5,17,2085,Left,1,4,4,Medium/ Medium,18,"Jul 1, 2017",2022,5.11,187,18.1,68,69,73,71,65,78,75,78
+186146,D. Welbeck,27,England,77,77,Arsenal,9.5,95,1965,Right,3,3,3,High/ High,21,"Sep 2, 2014",2019,6.1,161,18.1,80,75,83,76,62,71,78,78
+221219,G. Conti,23,Argentina,77,83,SL Benfica,10.5,10,1670,Right,1,2,2,Low/ Medium,2,"Jul 1, 2018",2023,6.4,176,23.1,70,80,72,51,41,51,42,53
+200228,Bruno,28,Spain,77,78,Getafe CF,8,23,1536,Right,1,3,2,Medium/ Medium,4,"Jul 5, 2017",2020,6.1,190,17.4,65,88,35,31,32,35,34,68
+210212,Garry Rodrigues,27,Cape Verde,77,77,Galatasaray SK,9.5,53,1989,Right,2,3,4,Medium/ Medium,7,"Jan 10, 2017",2021,5.8,154,18.1,65,60,90,91,87,70,77,75
+202789,A. Schwolow,26,Germany,77,78,SC Freiburg,7,19,1117,Right,1,3,1,Medium/ Medium,1,"Jan 1, 2012",2020,6.2,185,13.1,72,67,38,40,42,34,15,22
+224294,L. Cook,21,England,77,84,Bournemouth,12.5,44,2006,Right,1,4,3,Medium/ Medium,16,"Jul 8, 2016",2022,5.9,157,26.3,68,63,68,75,84,75,78,80
+215079,P. Pérez,32,Argentina,77,77,Boca Juniors,6.5,24,2028,Right,1,3,3,Medium/ High,8,"Dec 30, 2014",2020,5.9,176,9.1,60,78,69,72,74,80,72,79
+230183,Gazzolisco,30,Brazil,77,77,Internacional,6.5,26,2123,Left,1,5,3,High/ High,19,"Jan 1, 2018",2021,6.1,161,12.4,72,82,82,67,66,56,71,72
+110376,Jonatan Soriano,32,Spain,77,77,Beijing Sinobo Guoan FC,7,23,1919,Right,2,3,4,Medium/ Low,9,"Feb 26, 2017",2018,5.11,159,15.4,73,69,53,79,70,77,80,78
+211241,Rubén Peña,26,Spain,77,78,SD Eibar,8.5,22,2063,Right,1,3,4,Medium/ Medium,11,"Jul 1, 2016",2021,5.7,143,18.5,74,64,88,83,87,63,78,79
+185132,Mikel San José,29,Spain,77,77,Athletic Club de Bilbao,8.5,25,1888,Right,2,3,3,Medium/ Medium,6,"Jul 1, 2010",2020,6.2,174,17.9,77,79,38,41,52,76,66,75
+190765,P. Groß,27,Germany,77,78,Brighton & Hove Albion,10,47,2074,Right,2,4,4,High/ High,13,"Jul 1, 2017",2022,5.11,172,19.8,70,71,65,66,73,84,75,77
+163631,L. Baines,33,England,77,77,Everton,3.4,74,2126,Left,3,3,3,High/ Medium,3,"Aug 7, 2007",2019,5.7,154,6.5,67,55,59,69,83,73,75,80
+183855,A. Ogbonna,30,Italy,77,77,West Ham United,6.5,65,1693,Left,2,3,2,Medium/ Medium,21,"Jul 10, 2015",2022,6.3,190,12.4,74,80,64,57,54,50,61,59
+200752,Juan Jesus,27,Brazil,77,77,Roma,7.5,51,1742,Left,2,2,2,Low/ High,5,"Jan 30, 2012",2020,6.1,183,12.8,88,82,78,68,58,34,60,55
+196144,J. Martínez,31,Colombia,77,77,Portimonense SC,8,22,1900,Right,3,4,3,High/ Medium,9,,"Jun 30, 2019",6.1,176,,77,85,67,72,58,70,71,75
+221491,N. Elvedi,21,Switzerland,77,84,Borussia Mönchengladbach,11,19,1772,Right,2,3,3,Medium/ Medium,4,"Jul 1, 2015",2021,6.2,172,20.9,73,77,77,66,54,59,69,71
+196147,G. Moreno,32,Colombia,77,77,Shanghai Greenland Shenhua FC,7,17,2065,Left,1,2,4,Medium/ Medium,10,"Jul 1, 2012",2019,6.4,183,15.1,82,76,74,74,79,79,80,78
+157492,J. Valdivia,34,Chile,77,77,Colo-Colo,4.5,10,1850,Right,2,4,4,Medium/ Medium,10,"Jun 20, 2017",2019,5.8,157,6.3,48,63,69,77,78,86,76,78
+182836,A. Carroll,29,England,77,77,West Ham United,9,80,1839,Left,2,3,2,Medium/ High,9,"Jun 19, 2013",2019,6.4,174,17.1,83,92,50,57,47,65,67,74
+204341,Luís Neto,30,Portugal,77,77,,0,0,1749,Right,1,3,2,Medium/ Medium,4,,,6.2,157,,79,72,59,69,61,46,49,48
+142902,A. Pyatov,34,Ukraine,77,77,Shakhtar Donetsk,3.6,1,1187,Right,2,3,1,Medium/ Medium,30,"Jan 1, 2007",2020,6.3,198,7.6,73,78,44,56,32,63,11,12
+196150,T. Gutiérrez,33,Colombia,77,77,Junior FC,5.5,6,1904,Right,2,3,4,Medium/ Low,29,"Jun 21, 2017",2022,5.1,179,7.7,80,75,59,72,74,76,77,81
+227127,Álex Remiro,23,Spain,77,83,Athletic Club de Bilbao,9,15,1191,Right,1,3,1,Medium/ Medium,1,"Jul 1, 2013",2019,6.3,183,20.7,61,68,46,69,40,28,19,17
+199737,Wilson Eduardo,27,Portugal,77,77,SC Braga,9.5,17,1928,Right,1,3,4,High/ Medium,7,"Aug 31, 2015",2020,5.1,161,19,64,68,81,73,68,73,78,78
+223033,Jorge Meré,21,Spain,77,83,1. FC Köln,10.5,15,1692,Right,1,3,2,Medium/ Medium,22,"Jul 20, 2017",2023,6,176,17.9,81,72,68,67,74,38,55,69
+213051,M. Elneny,25,Egypt,77,79,Arsenal,9,76,1958,Right,1,3,3,Medium/ High,17,"Jan 14, 2016",2022,5.11,163,17.8,69,68,60,65,62,70,68,76
+214332,D. Torres,28,Colombia,77,77,Deportivo Alavés,7,24,1968,Right,1,3,3,Medium/ High,16,"Jul 20, 2016",2020,6,179,14.7,81,78,53,68,62,71,69,70
+209981,Y. Bounou,27,Morocco,77,80,Girona FC,7.5,22,1164,Left,1,3,1,Medium/ Medium,13,"Jul 12, 2016",2019,6.4,172,16.3,48,69,34,38,29,42,20,12
+189757,A. Prijović,28,Serbia,77,77,PAOK,9,1,1769,Right,1,3,3,High/ Low,9,"Jan 16, 2017",2021,6.3,194,18.9,74,86,72,54,51,55,70,75
+215871,A. Jahanbakhsh,24,Iran,77,80,Brighton & Hove Albion,11.5,41,1945,Right,2,4,4,High/ High,16,"Jul 25, 2018",2023,5.11,172,22.7,87,66,83,76,75,75,83,79
+219455,J. Calleri,24,Argentina,77,82,Deportivo Alavés,12,24,1878,Right,1,2,4,High/ Medium,12,"Jan 18, 2016",2019,5.11,170,26.1,83,71,72,72,79,67,74,75
+230463,Simão Acunha,30,Brazil,77,77,Atlético Mineiro,8.5,35,1903,Right,1,2,4,High/ Low,20,"Jan 1, 2018",2021,5.1,157,16.2,64,64,77,81,74,80,76,78
+183871,N. Müller,30,Germany,77,77,Eintracht Frankfurt,8.5,34,1960,Right,2,3,3,High/ Medium,27,"Jul 1, 2018",2020,5.8,146,14.5,78,57,78,85,83,69,83,75
+205632,L. Ocampos,23,Argentina,77,82,Olympique de Marseille,12,38,2073,Right,2,3,4,High/ High,5,"Jul 1, 2015",2020,6.2,185,23.7,76,78,79,77,58,73,74,76
+169792,J. Rodriguez,28,England,77,77,West Bromwich Albion,9,41,1890,Right,2,4,3,High/ Medium,19,"Jul 2, 2017",2021,6.1,185,17.1,81,72,77,75,64,69,75,75
+162369,V. Ibišević,33,Bosnia Herzegovina,77,77,Hertha BSC,5.5,31,1872,Right,2,3,3,Medium/ Low,19,"Aug 30, 2015",2019,6.2,181,9.4,71,77,44,60,59,71,72,76
+189250,S. Rondón,28,Venezuela,77,77,Newcastle United,9,41,1763,Right,2,4,3,High/ Medium,23,,"Jun 30, 2019",6.1,216,,71,85,68,66,46,53,70,71
+189506,Victor Sánchez,30,Spain,77,77,RCD Espanyol,6.5,26,2023,Right,1,3,3,Low/ High,4,"Jan 1, 2012",2021,5.9,159,13.7,78,59,61,72,77,79,66,78
+203843,D. Suárez,30,Uruguay,77,77,Getafe CF,6.5,22,2049,Right,1,3,2,High/ Medium,22,"Jul 8, 2015",2022,5.8,150,13.7,79,73,80,79,73,52,62,69
+148803,K. Huntelaar,34,Netherlands,77,77,Ajax,4.7,20,1792,Right,3,4,2,Medium/ Medium,9,"Jul 1, 2017",2019,6.1,183,6.6,77,78,57,58,62,66,62,69
+216643,L. Dubois,23,France,77,84,Olympique Lyonnais,10.5,44,1994,Right,1,4,3,High/ Medium,14,"Jul 1, 2018",2022,5.1,161,22.1,59,65,68,69,72,64,76,78
+193862,André Pinto,28,Portugal,77,77,Sporting CP,7,14,1500,Right,1,2,2,Medium/ Medium,6,"Jul 1, 2017",2021,6.4,190,14,30,88,47,32,32,47,44,57
+204105,K. Lala,26,France,77,78,RC Strasbourg Alsace,8.5,19,2014,Right,1,3,3,High/ Medium,27,"Jun 12, 2017",2019,5.1,172,17.6,70,72,80,67,70,68,79,77
+186953,O. Kıvrak,30,Turkey,77,77,Trabzonspor,5.5,24,1289,Right,2,3,1,Medium/ Medium,1,"Jan 15, 2008",2020,6.2,163,11,70,68,60,67,63,50,25,26
+192073,A. Bertolacci,27,Italy,77,77,Milan,9,75,2041,Left,2,3,4,Medium/ Medium,16,"Jul 2, 2015",2019,5.1,165,15.3,65,67,73,77,75,76,79,79
+192841,E. Giaccherini,33,Italy,77,77,Chievo Verona,5.5,20,2059,Right,2,3,4,High/ Medium,17,"Jul 1, 2018",2021,5.6,132,9.4,53,54,67,85,93,76,81,80
+220746,A. Živković,21,Serbia,77,84,SL Benfica,12.5,11,1988,Left,1,3,4,Medium/ Medium,17,"Jul 5, 2016",2021,5.7,150,27.5,57,40,82,85,88,80,82,80
+226378,R. Ábila,28,Argentina,77,77,Boca Juniors,9,27,1822,Right,1,4,3,High/ Low,17,"Aug 9, 2017",2020,5.1,205,12.6,72,89,67,67,82,51,69,76
+178250,P. Diop,32,Senegal,77,77,SD Eibar,5,22,2018,Right,1,3,3,Medium/ Medium,8,"Jan 1, 2018",2019,5.1,170,10.5,79,88,54,64,68,65,63,76
+206411,D. Garmash,28,Ukraine,77,77,Dynamo Kyiv,9,1,1957,Right,1,3,3,High/ High,19,"Jul 10, 2009",2019,6.1,165,18.9,59,73,63,67,77,82,69,72
+202316,T. Chandler,28,United States,77,77,Eintracht Frankfurt,7,33,1973,Right,2,3,2,High/ High,22,"Jul 1, 2014",2020,6,181,11.9,69,82,79,54,52,55,72,73
+140620,R. Klavan,32,Estonia,77,77,Cagliari,5,30,1754,Left,2,3,2,Medium/ Medium,15,"Aug 17, 2018",2020,6.2,187,8.5,74,74,51,58,54,60,56,70
+214092,A. Miranchuk,22,Russia,77,82,Lokomotiv Moscow,12,1,1780,Left,1,2,3,Medium/ Medium,15,"Jul 1, 2012",2021,6,163,26.1,58,64,75,77,67,80,78,79
+179789,D. Da Silva,30,France,77,77,Stade Rennais FC,6.5,30,1651,Right,2,4,2,Medium/ Medium,3,"Jul 26, 2018",2020,6,181,12.4,73,78,68,60,61,40,42,69
+115533,D. Benaglio,34,Switzerland,77,77,AS Monaco,3.6,44,1191,Right,3,3,1,Medium/ Medium,16,"Jul 1, 2017",2020,6.4,196,6.8,71,76,44,44,47,37,16,22
+191053,T. Rincón,30,Venezuela,77,77,Torino,8,42,2056,Right,2,3,3,Medium/ High,8,"Jan 3, 2017",2020,5.1,168,13.6,91,77,69,75,81,72,76,77
+182862,M. Pereira,34,Uruguay,77,77,FC Porto,2.5,13,2032,Right,3,3,2,High/ Medium,2,"Jul 15, 2015",2019,5.8,161,5,75,63,69,70,83,65,75,75
+190799,C. Borges,30,Costa Rica,77,77,Göztepe SK,6.5,24,2055,Right,2,4,3,High/ Medium,6,"Aug 16, 2018",2021,6,172,13,65,76,58,64,59,73,71,77
+152912,J. Sand,37,Argentina,77,77,Deportivo Cali,3.2,3,1857,Right,1,4,3,Medium/ Low,9,"Jan 11, 2018",2018,6,174,4.5,72,73,39,67,67,73,66,81
+155984,Markel Bergara,32,Spain,77,77,Getafe CF,5,22,1950,Right,1,3,3,Medium/ Medium,5,"Jul 2, 2018",2020,5.11,172,10.5,69,81,32,60,67,75,65,69
+137809,Vágner Love,34,Brazil,77,77,Beşiktaş JK,4.7,50,1901,Right,3,5,4,High/ Low,99,"Jan 30, 2018",2020,5.7,159,8.9,77,75,73,77,82,72,76,75
+214097,B. Bourigeaud,24,France,77,81,Stade Rennais FC,11.5,28,2049,Right,1,3,4,High/ High,14,"Jun 14, 2017",2021,5.1,150,22.7,71,65,70,70,69,76,75,77
+193361,R. Soriano,27,Italy,77,77,Torino,9.5,31,2082,Right,2,4,4,Medium/ Medium,6,,"Jun 30, 2019",6,168,,66,69,75,79,72,78,78,79
+223058,D. Kuzyaev,25,Russia,77,80,,0,0,2041,Right,1,3,3,Medium/ High,7,,,6,163,,60,59,81,80,76,70,78,79
+152916,R. Sambueza,34,Argentina,77,77,Deportivo Toluca,4.5,26,2005,Left,1,3,4,High/ Medium,14,"Dec 30, 2016",2020,5.9,159,7.6,67,75,71,69,73,80,77,80
+194644,Montoya,27,Spain,77,78,Brighton & Hove Albion,8,43,2036,Right,2,4,3,High/ Medium,22,"Aug 9, 2018",2022,5.9,161,15.8,75,68,79,78,80,63,70,74
+185174,A. Poli,28,Italy,77,77,Bologna,9,34,2040,Right,2,3,4,Medium/ Medium,16,"Jul 1, 2017",2021,6,170,15.3,68,65,75,75,75,78,79,80
